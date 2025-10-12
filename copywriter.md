@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-developer-90-seconds)
 
-📅 **Posted**: September 20, 2025
-
 ---
 
 ### 2. Japanese Creative Copywriter (Contractor) at Wikimedia
@@ -29,8 +27,6 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 📍 **Category**: Copywriter
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/japanese-creative-copywriter-wikimedia)
-
-📅 **Posted**: September 15, 2025
 
 ---
 
@@ -65,6 +61,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:20 UTC_
+_Last updated: October 12, 2025 at 15:35 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
