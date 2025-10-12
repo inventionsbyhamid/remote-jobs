@@ -18,8 +18,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
 
-📅 **Posted**: October 12, 2025
-
 ---
 
 ### 2. Solutions Architect, TOLA at Halcyon
@@ -31,8 +29,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
-
-📅 **Posted**: October 11, 2025
 
 ---
 
@@ -46,8 +42,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
 
-📅 **Posted**: October 10, 2025
-
 ---
 
 ### 4. Enterprise Sales Executive at CloudLinux
@@ -57,8 +51,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-sales-executive-cloudlinux)
-
-📅 **Posted**: October 05, 2025
 
 ---
 
@@ -70,8 +62,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-full-time-bairesdev)
 
-📅 **Posted**: October 02, 2025
-
 ---
 
 ### 6. Sales Director (Retail Background) - Remote at BairesDev
@@ -81,8 +71,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-bairesdev)
-
-📅 **Posted**: September 27, 2025
 
 ---
 
@@ -96,8 +84,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-growth-beehiiv)
 
-📅 **Posted**: September 27, 2025
-
 ---
 
 ### 8. Sales Director (Financial Services) - Remote at BairesDev
@@ -108,8 +94,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-bairesdev)
 
-📅 **Posted**: September 27, 2025
-
 ---
 
 ### 9. Senior Outside Sales Executive at BairesDev
@@ -119,8 +103,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-outside-sales-executive-bairesdev)
-
-📅 **Posted**: September 22, 2025
 
 ---
 
@@ -134,8 +116,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-account-executive-toggl)
 
-📅 **Posted**: September 21, 2025
-
 ---
 
 ### 11. Sales Director (Healthcare Industry) - Remote Work at BairesDev
@@ -145,8 +125,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-work-remote-bairesdev)
-
-📅 **Posted**: September 18, 2025
 
 ---
 
@@ -159,8 +137,6 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-manager-automattic)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -195,6 +171,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:20 UTC_
+_Last updated: October 12, 2025 at 15:35 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
