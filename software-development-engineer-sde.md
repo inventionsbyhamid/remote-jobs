@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experience-engineer-chess)
 
-📅 **Posted**: October 11, 2025
-
 ---
 
 ### 2. Senior Frontend Engineer at Chess
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-frontend-engineer-chess)
-
-📅 **Posted**: October 11, 2025
 
 ---
 
@@ -42,8 +38,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-data-platform-apis-halcyon)
 
-📅 **Posted**: October 11, 2025
-
 ---
 
 ### 4. Python Engineer at Chess
@@ -53,8 +47,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/python-engineer-chess)
-
-📅 **Posted**: October 10, 2025
 
 ---
 
@@ -68,8 +60,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-endpoint-agent-halcyon)
 
-📅 **Posted**: October 10, 2025
-
 ---
 
 ### 6. VP of Product Engineering at Chess
@@ -79,8 +69,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-of-product-engineering-chess)
-
-📅 **Posted**: October 09, 2025
 
 ---
 
@@ -94,8 +82,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
 
-📅 **Posted**: October 09, 2025
-
 ---
 
 ### 8. Senior Python/Go Developer at CloudLinux
@@ -105,8 +91,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
-
-📅 **Posted**: October 09, 2025
 
 ---
 
@@ -118,8 +102,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-worldwide-cloudlinux)
 
-📅 **Posted**: October 08, 2025
-
 ---
 
 ### 10. Infrastructure & Development Engineer at CloudLinux
@@ -129,8 +111,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-cloudlinux)
-
-📅 **Posted**: October 07, 2025
 
 ---
 
@@ -142,8 +122,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-go-python-developer-cloudlinux)
 
-📅 **Posted**: October 07, 2025
-
 ---
 
 ### 12. Senior Python Developer at CloudLinux
@@ -153,8 +131,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-developer-cloudlinux)
-
-📅 **Posted**: October 05, 2025
 
 ---
 
@@ -166,8 +142,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/c-developer-cloudlinux)
 
-📅 **Posted**: October 05, 2025
-
 ---
 
 ### 14. SDET Automation Engineer at CloudLinux
@@ -178,8 +152,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sdet-automation-engineer-cloudlinux)
 
-📅 **Posted**: October 04, 2025
-
 ---
 
 ### 15. Kernel Developer at CloudLinux
@@ -189,8 +161,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/kernel-developer-cloudlinux)
-
-📅 **Posted**: October 04, 2025
 
 ---
 
@@ -204,8 +174,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-worldwide-buffer)
 
-📅 **Posted**: October 02, 2025
-
 ---
 
 ### 17. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
@@ -218,8 +186,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-backend-remote-coinbase)
 
-📅 **Posted**: October 02, 2025
-
 ---
 
 ### 18. Contract Senior Web Services Engineer at Fueled
@@ -229,8 +195,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-web-services-engineer-fueled)
-
-📅 **Posted**: September 29, 2025
 
 ---
 
@@ -244,8 +208,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-windows-duckduckgo)
 
-📅 **Posted**: September 28, 2025
-
 ---
 
 ### 20. Full-Stack Java + React Technical Leader at BairesDev
@@ -255,8 +217,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/full-stack-java-react-technical-leader-remote-bairesdev)
-
-📅 **Posted**: September 24, 2025
 
 ---
 
@@ -270,8 +230,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-software-engineer-discover-circle)
 
-📅 **Posted**: September 24, 2025
-
 ---
 
 ### 22. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
@@ -281,8 +239,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-channels-and-platform-buffer)
-
-📅 **Posted**: September 23, 2025
 
 ---
 
@@ -296,8 +252,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/fullstack-engineer-contributor-success-strategy-gitlab)
 
-📅 **Posted**: September 23, 2025
-
 ---
 
 ### 24. Contract Flutter Engineer at Fueled
@@ -307,8 +261,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-flutter-engineer-fueled)
-
-📅 **Posted**: September 22, 2025
 
 ---
 
@@ -320,8 +272,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-engineer-experience-anywhere-vrchat)
 
-📅 **Posted**: September 21, 2025
-
 ---
 
 ### 26. Senior Full Stack Engineer at Zircuit
@@ -331,8 +281,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-engineer-zircuit)
-
-📅 **Posted**: September 21, 2025
 
 ---
 
@@ -346,8 +294,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-backend-coinbase)
 
-📅 **Posted**: September 20, 2025
-
 ---
 
 ### 28. Protocol Engineer at MatterLabs
@@ -357,8 +303,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-engineer-matterlabs)
-
-📅 **Posted**: September 20, 2025
 
 ---
 
@@ -370,8 +314,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-software-engineer-wp-media)
 
-📅 **Posted**: September 20, 2025
-
 ---
 
 ### 30. Platform Engineer at Appwrite
@@ -381,8 +323,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-appwrite)
-
-📅 **Posted**: September 18, 2025
 
 ---
 
@@ -396,8 +336,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-web-platform-remote-duckduckgo)
 
-📅 **Posted**: September 16, 2025
-
 ---
 
 ### 32. WordPress Developer at Awesome Motive
@@ -407,8 +345,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/wordpress-developer-awesome-motive)
-
-📅 **Posted**: September 16, 2025
 
 ---
 
@@ -422,8 +358,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-backend-engineer-buffer)
 
-📅 **Posted**: September 15, 2025
-
 ---
 
 ### 34. React Frontend Developer at Applaudo
@@ -433,8 +367,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/react-frontend-developer-applaudo)
-
-📅 **Posted**: September 15, 2025
 
 ---
 
@@ -448,8 +380,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-web-platform-duckduckgo)
 
-📅 **Posted**: September 15, 2025
-
 ---
 
 ### 36. Senior Software Engineer, Practice Engagement at Dandy
@@ -459,8 +389,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-practice-engagement-dandy)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -474,8 +402,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-site-reliability-engineer-wikimedia)
 
-📅 **Posted**: September 13, 2025
-
 ---
 
 ### 38. Senior Software Engineer at Dandy
@@ -486,8 +412,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-dandy)
 
-📅 **Posted**: September 12, 2025
-
 ---
 
 ### 39. Platform Engineer - Developer Experience at Dandy
@@ -497,8 +421,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-developer-experience-dandy)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -512,8 +434,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-buffer)
 
-📅 **Posted**: September 12, 2025
-
 ---
 
 ### 41. Senior Full-Stack Engineer, Payments Core at Circle
@@ -525,8 +445,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-engineer-payments-core-circle)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -561,6 +479,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:24 UTC_
+_Last updated: October 12, 2025 at 15:40 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
