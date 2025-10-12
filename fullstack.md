@@ -18,8 +18,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-engineer-cms-builder-circle)
 
-📅 **Posted**: October 01, 2025
-
 ---
 
 ### 2. Full-Stack Java + React Technical Leader at BairesDev
@@ -29,8 +27,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/full-stack-java-react-technical-leader-remote-bairesdev)
-
-📅 **Posted**: September 24, 2025
 
 ---
 
@@ -44,8 +40,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-software-engineer-discover-circle)
 
-📅 **Posted**: September 24, 2025
-
 ---
 
 ### 4. Fullstack Engineer, Contributor Success, Strategy at GitLab
@@ -58,8 +52,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/fullstack-engineer-contributor-success-strategy-gitlab)
 
-📅 **Posted**: September 23, 2025
-
 ---
 
 ### 5. Senior Engineer- Experience Anywhere at VRChat
@@ -69,8 +61,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-engineer-experience-anywhere-vrchat)
-
-📅 **Posted**: September 21, 2025
 
 ---
 
@@ -82,8 +72,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-engineer-zircuit)
 
-📅 **Posted**: September 21, 2025
-
 ---
 
 ### 7. Backend Engineer at Clerk
@@ -93,8 +81,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-clerk)
-
-📅 **Posted**: September 17, 2025
 
 ---
 
@@ -106,8 +92,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-clerk)
 
-📅 **Posted**: September 17, 2025
-
 ---
 
 ### 9. WordPress Developer at Awesome Motive
@@ -117,8 +101,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/wordpress-developer-awesome-motive)
-
-📅 **Posted**: September 16, 2025
 
 ---
 
@@ -130,8 +112,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-practice-engagement-dandy)
 
-📅 **Posted**: September 13, 2025
-
 ---
 
 ### 11. Senior Software Engineer at Dandy
@@ -141,8 +121,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-dandy)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -155,8 +133,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-engineer-payments-core-circle)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -191,6 +167,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:22 UTC_
+_Last updated: October 12, 2025 at 15:37 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
