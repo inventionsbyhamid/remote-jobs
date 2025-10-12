@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experience-engineer-chess)
 
-📅 **Posted**: October 11, 2025
-
 ---
 
 ### 2. Cloud Test Engineer at Halcyon
@@ -30,8 +28,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
 
-📅 **Posted**: October 09, 2025
-
 ---
 
 ### 3. Senior Python/Go Developer at CloudLinux
@@ -41,8 +37,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 📍 **Category**: DevOps
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
-
-📅 **Posted**: October 09, 2025
 
 ---
 
@@ -54,8 +48,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-worldwide-cloudlinux)
 
-📅 **Posted**: October 08, 2025
-
 ---
 
 ### 5. Backend Developer - Patchman Team at CloudLinux
@@ -65,8 +57,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 📍 **Category**: DevOps
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-developer-patchman-team-cloudlinux)
-
-📅 **Posted**: October 07, 2025
 
 ---
 
@@ -78,8 +68,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-platform-engineer-cloudlinux)
 
-📅 **Posted**: October 07, 2025
-
 ---
 
 ### 7. Infrastructure & Development Engineer at CloudLinux
@@ -89,8 +77,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 📍 **Category**: DevOps
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-cloudlinux)
-
-📅 **Posted**: October 07, 2025
 
 ---
 
@@ -102,8 +88,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/mail-systems-engineer-cloudlinux)
 
-📅 **Posted**: October 06, 2025
-
 ---
 
 ### 9. Senior Infrastructure Security Engineer at MatterLabs
@@ -113,8 +97,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 📍 **Category**: DevOps
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-infrastructure-security-engineer-matterlabs)
-
-📅 **Posted**: September 24, 2025
 
 ---
 
@@ -126,8 +108,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-appwrite)
 
-📅 **Posted**: September 18, 2025
-
 ---
 
 ### 11. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
@@ -137,8 +117,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 📍 **Category**: DevOps
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/intermediate-backendengineer-gitlab-delivery-operate-gitlab)
-
-📅 **Posted**: September 16, 2025
 
 ---
 
@@ -152,8 +130,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-site-reliability-engineer-wikimedia)
 
-📅 **Posted**: September 13, 2025
-
 ---
 
 ### 13. Platform Engineer - Developer Experience at Dandy
@@ -163,8 +139,6 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 📍 **Category**: DevOps
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-developer-experience-dandy)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -199,6 +173,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:21 UTC_
+_Last updated: October 12, 2025 at 15:36 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
