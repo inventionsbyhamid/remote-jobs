@@ -18,8 +18,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
 
-📅 **Posted**: October 12, 2025
-
 ---
 
 ### 2. Solutions Architect, TOLA at Halcyon
@@ -31,8 +29,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
-
-📅 **Posted**: October 11, 2025
 
 ---
 
@@ -46,8 +42,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
 
-📅 **Posted**: October 10, 2025
-
 ---
 
 ### 4. Enterprise Sales Executive at CloudLinux
@@ -57,8 +51,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-sales-executive-cloudlinux)
-
-📅 **Posted**: October 05, 2025
 
 ---
 
@@ -70,8 +62,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-full-time-bairesdev)
 
-📅 **Posted**: October 02, 2025
-
 ---
 
 ### 6. Sales Director (Retail Background) - Remote at BairesDev
@@ -81,8 +71,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-bairesdev)
-
-📅 **Posted**: September 27, 2025
 
 ---
 
@@ -94,8 +82,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-bairesdev)
 
-📅 **Posted**: September 27, 2025
-
 ---
 
 ### 8. Senior Outside Sales Executive at BairesDev
@@ -105,8 +91,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-outside-sales-executive-bairesdev)
-
-📅 **Posted**: September 22, 2025
 
 ---
 
@@ -120,8 +104,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-account-executive-toggl)
 
-📅 **Posted**: September 21, 2025
-
 ---
 
 ### 10. Technical Account Manager, Pressable at Automattic
@@ -134,8 +116,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-account-manager-pressable-automattic)
 
-📅 **Posted**: September 20, 2025
-
 ---
 
 ### 11. Sales Director (Healthcare Industry) - Remote Work at BairesDev
@@ -145,8 +125,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-work-remote-bairesdev)
-
-📅 **Posted**: September 18, 2025
 
 ---
 
@@ -160,8 +138,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-manager-of-enterprise-account-management-dandy)
 
-📅 **Posted**: September 13, 2025
-
 ---
 
 ### 13. Partner Manager (Automattic for Agencies) at Automattic
@@ -173,8 +149,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-manager-automattic)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -209,6 +183,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:23 UTC_
+_Last updated: October 12, 2025 at 15:39 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
