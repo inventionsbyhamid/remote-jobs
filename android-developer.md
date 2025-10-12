@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-flutter-engineer-fueled)
 
-📅 **Posted**: September 22, 2025
-
 ---
 
 
@@ -51,6 +49,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:19 UTC_
+_Last updated: October 12, 2025 at 15:35 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
