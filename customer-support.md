@@ -18,8 +18,6 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-account-manager-pressable-automattic)
 
-📅 **Posted**: September 20, 2025
-
 ---
 
 
@@ -53,6 +51,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:20 UTC_
+_Last updated: October 12, 2025 at 15:36 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
