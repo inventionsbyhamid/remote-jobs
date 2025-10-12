@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chesskid-product-designer-growth-chess)
 
-📅 **Posted**: October 09, 2025
-
 ---
 
 ### 2. Experience Team Product Designer at VRChat
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 📍 **Category**: Product Designer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/experience-team-product-designer-vrchat)
-
-📅 **Posted**: September 23, 2025
 
 ---
 
@@ -40,8 +36,6 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-team-product-designer-vrchat)
 
-📅 **Posted**: September 22, 2025
-
 ---
 
 ### 4. Prep Designer at Dandy
@@ -51,8 +45,6 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 📍 **Category**: Product Designer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/prep-designer-south-africa-dandy)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -64,8 +56,6 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/implant-designer-dandy)
 
-📅 **Posted**: September 13, 2025
-
 ---
 
 ### 6. Night Guard Designer at Dandy
@@ -75,8 +65,6 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 📍 **Category**: Product Designer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/night-guard-designer-dandy)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -111,6 +99,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:22 UTC_
+_Last updated: October 12, 2025 at 15:38 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
