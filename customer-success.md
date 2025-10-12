@@ -18,8 +18,6 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recovery-consulting-specialist-halcyon)
 
-📅 **Posted**: October 10, 2025
-
 ---
 
 ### 2. Technical Account Manager, Pressable at Automattic
@@ -32,8 +30,6 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-account-manager-pressable-automattic)
 
-📅 **Posted**: September 20, 2025
-
 ---
 
 ### 3. Senior Manager of Enterprise Account Management at Dandy
@@ -45,8 +41,6 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 📍 **Category**: Customer Success
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-manager-of-enterprise-account-management-dandy)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -81,6 +75,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:20 UTC_
+_Last updated: October 12, 2025 at 15:36 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
