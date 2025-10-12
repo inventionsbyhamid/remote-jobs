@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-international-content-growth-chess)
 
-📅 **Posted**: October 09, 2025
-
 ---
 
 ### 2. VP, Growth at beehiiv
@@ -30,8 +28,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-growth-beehiiv)
 
-📅 **Posted**: September 27, 2025
-
 ---
 
 ### 3. Director of Product Marketing at MatterLabs
@@ -41,8 +37,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 📍 **Category**: Marketing
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-product-marketing-matterlabs)
-
-📅 **Posted**: September 23, 2025
 
 ---
 
@@ -54,8 +48,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/digital-marketing-manager-wp-media)
 
-📅 **Posted**: September 23, 2025
-
 ---
 
 ### 5. Business Development Manager at 90 Seconds
@@ -65,8 +57,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 📍 **Category**: Marketing
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-development-manager-90-seconds)
-
-📅 **Posted**: September 19, 2025
 
 ---
 
@@ -80,8 +70,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/japanese-creative-copywriter-wikimedia)
 
-📅 **Posted**: September 15, 2025
-
 ---
 
 ### 7. Senior Marketing Campaigns Manager at GitLab
@@ -94,8 +82,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-marketing-campaigns-manager-gitlab)
 
-📅 **Posted**: September 13, 2025
-
 ---
 
 ### 8. Paid Campaign Manager at Cloudbeds
@@ -105,8 +91,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 📍 **Category**: Marketing
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/paid-campaign-manager-cloudbeds)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -141,6 +125,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:22 UTC_
+_Last updated: October 12, 2025 at 15:38 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
