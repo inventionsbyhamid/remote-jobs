@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-engineering-intern-appwrite)
 
-📅 **Posted**: September 29, 2025
-
 ---
 
 ### 2. Engineering Internship at Appwrite
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 📍 **Category**: Intern
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-internship-appwrite)
-
-📅 **Posted**: September 22, 2025
 
 ---
 
@@ -63,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:22 UTC_
+_Last updated: October 12, 2025 at 15:37 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
