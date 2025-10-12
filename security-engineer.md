@@ -18,8 +18,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
 
-📅 **Posted**: October 11, 2025
-
 ---
 
 ### 2. Senior Product Security Engineer at Halcyon
@@ -31,8 +29,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-security-engineer-halcyon)
-
-📅 **Posted**: October 11, 2025
 
 ---
 
@@ -46,8 +42,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-endpoint-agent-halcyon)
 
-📅 **Posted**: October 10, 2025
-
 ---
 
 ### 4. Recovery Consulting Specialist at Halcyon
@@ -60,8 +54,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recovery-consulting-specialist-halcyon)
 
-📅 **Posted**: October 10, 2025
-
 ---
 
 ### 5. Backend Developer - Patchman Team at CloudLinux
@@ -71,8 +63,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-developer-patchman-team-cloudlinux)
-
-📅 **Posted**: October 07, 2025
 
 ---
 
@@ -84,8 +74,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-platform-engineer-cloudlinux)
 
-📅 **Posted**: October 07, 2025
-
 ---
 
 ### 7. Malware Intelligence Analyst at CloudLinux
@@ -95,8 +83,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/malware-intelligence-analyst-cloudlinux)
-
-📅 **Posted**: October 07, 2025
 
 ---
 
@@ -108,8 +94,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-go-python-developer-cloudlinux)
 
-📅 **Posted**: October 07, 2025
-
 ---
 
 ### 9. Mail Systems Engineer at CloudLinux
@@ -119,8 +103,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/mail-systems-engineer-cloudlinux)
-
-📅 **Posted**: October 06, 2025
 
 ---
 
@@ -132,8 +114,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/security-researcher-team-lead-cloudlinux)
 
-📅 **Posted**: October 06, 2025
-
 ---
 
 ### 11. Senior Python Developer at CloudLinux
@@ -143,8 +123,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-developer-cloudlinux)
-
-📅 **Posted**: October 05, 2025
 
 ---
 
@@ -156,8 +134,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/c-developer-cloudlinux)
 
-📅 **Posted**: October 05, 2025
-
 ---
 
 ### 13. Chief Security Officer (CSO) at CloudLinux
@@ -167,8 +143,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chief-security-officer-cloudlinux)
-
-📅 **Posted**: October 04, 2025
 
 ---
 
@@ -180,8 +154,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-infrastructure-security-engineer-matterlabs)
 
-📅 **Posted**: September 24, 2025
-
 ---
 
 ### 15. Protocol Security Engineer at MatterLabs
@@ -192,8 +164,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-security-engineer-matterlabs)
 
-📅 **Posted**: September 23, 2025
-
 ---
 
 ### 16. Protocol Engineer at MatterLabs
@@ -203,8 +173,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-engineer-matterlabs)
-
-📅 **Posted**: September 20, 2025
 
 ---
 
@@ -239,6 +207,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:24 UTC_
+_Last updated: October 12, 2025 at 15:39 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
