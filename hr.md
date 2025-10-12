@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staffing-manager-bairesdev)
 
-📅 **Posted**: September 29, 2025
-
 ---
 
 ### 2. Talent Acquisition Specialist at Toggl
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-acquisition-specialist-toggl)
-
-📅 **Posted**: September 28, 2025
 
 ---
 
@@ -40,8 +36,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-sourcing-manager-bairesdev)
 
-📅 **Posted**: September 28, 2025
-
 ---
 
 ### 4. Staffing Solution Architect at BairesDev
@@ -51,8 +45,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staffing-solution-architect-bairesdev)
-
-📅 **Posted**: September 24, 2025
 
 ---
 
@@ -64,8 +56,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-recruiter-bairesdev)
 
-📅 **Posted**: September 22, 2025
-
 ---
 
 ### 6. Recruiting Analyst at BairesDev
@@ -75,8 +65,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recruiting-analyst-bairesdev)
-
-📅 **Posted**: September 20, 2025
 
 ---
 
@@ -88,8 +76,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/hunting-manager-bairesdev)
 
-📅 **Posted**: September 18, 2025
-
 ---
 
 ### 8. Talent Acquisition Associate at BairesDev
@@ -100,8 +86,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-acquisition-associate-bairesdev)
 
-📅 **Posted**: September 15, 2025
-
 ---
 
 ### 9. Global Director of Operations at Dandy
@@ -111,8 +95,6 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-director-of-operations-uk-london-dandy)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -147,6 +129,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:22 UTC_
+_Last updated: October 12, 2025 at 15:37 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
