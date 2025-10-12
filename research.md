@@ -18,8 +18,6 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-security-engineer-halcyon)
 
-📅 **Posted**: October 11, 2025
-
 ---
 
 ### 2. Malware Intelligence Analyst at CloudLinux
@@ -29,8 +27,6 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 📍 **Category**: Research
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/malware-intelligence-analyst-cloudlinux)
-
-📅 **Posted**: October 07, 2025
 
 ---
 
@@ -42,8 +38,6 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/security-researcher-team-lead-cloudlinux)
 
-📅 **Posted**: October 06, 2025
-
 ---
 
 ### 4. Protocol Security Engineer at MatterLabs
@@ -53,8 +47,6 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 📍 **Category**: Research
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-security-engineer-matterlabs)
-
-📅 **Posted**: September 23, 2025
 
 ---
 
@@ -68,8 +60,6 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-machine-learning-engineer-computer-vision-remote-dandy)
 
-📅 **Posted**: September 15, 2025
-
 ---
 
 ### 6. Machine Learning Engineer, Computer Vision at Dandy
@@ -81,8 +71,6 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 📍 **Category**: Research
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/machine-learning-engineer-computer-vision-dandy)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -117,6 +105,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:23 UTC_
+_Last updated: October 12, 2025 at 15:38 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
