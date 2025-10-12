@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-developer-90-seconds)
 
-📅 **Posted**: September 20, 2025
-
 ---
 
 ### 2. Business Development Manager at 90 Seconds
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 📍 **Category**: Social Media Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-development-manager-90-seconds)
-
-📅 **Posted**: September 19, 2025
 
 ---
 
@@ -63,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:24 UTC_
+_Last updated: October 12, 2025 at 15:39 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
