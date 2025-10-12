@@ -1,6 +1,6 @@
 # 🌍 Remote World Jobs - 100% Remote Work From Anywhere 🏠
 
-Welcome to **Remote World Jobs** - Your gateway to **truly remote job opportunities** where you can work from anywhere in the world!
+Welcome to **Remote World Jobs** - Your gateway to **truly remote job opportunities** where you can work from anywhere in the world! Updated daily with new jobs.
 
 ## ✨ All Jobs Are 100% Remote
 
@@ -9,386 +9,6 @@ Every job listing here is verified to be **100% remote** - work from home, a bea
 We aggregate and curate remote job listings from top companies across the globe. Whether you're a developer, designer, marketer, or in any other field, find your next remote opportunity here.
 
 🔗 **Visit our website**: [https://remoteworldjobs.com](https://remoteworldjobs.com)
-
----
-
-## 🚀 Latest Remote Jobs (Work From Anywhere!)
-
-Here are the **30 most recent 100% remote job opportunities** from top companies worldwide.
-
-### 1. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
-
-📅 **Posted**: October 12, 2025
-
----
-
-### 2. Senior Product Manager, AI/ML at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-ai-ml-chess)
-
-📅 **Posted**: October 12, 2025
-
----
-
-### 3. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
-
-📅 **Posted**: October 11, 2025
-
----
-
-### 4. Developer Experience Engineer at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experience-engineer-chess)
-
-📅 **Posted**: October 11, 2025
-
----
-
-### 5. Senior Product Security Engineer at Halcyon
-
-💰 **Salary**: $175,000-$235,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-security-engineer-halcyon)
-
-📅 **Posted**: October 11, 2025
-
----
-
-### 6. Senior Frontend Engineer at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-frontend-engineer-chess)
-
-📅 **Posted**: October 11, 2025
-
----
-
-### 7. Backend Engineer, Data Platform & APIs at Halcyon
-
-💰 **Salary**: $120,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-data-platform-apis-halcyon)
-
-📅 **Posted**: October 11, 2025
-
----
-
-### 8. Python Engineer at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/python-engineer-chess)
-
-📅 **Posted**: October 10, 2025
-
----
-
-### 9. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
-
-📅 **Posted**: October 10, 2025
-
----
-
-### 10. Staff Engineer, Endpoint Agent at Halcyon
-
-💰 **Salary**: $220,000-$275,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-endpoint-agent-halcyon)
-
-📅 **Posted**: October 10, 2025
-
----
-
-### 11. Director of AI/ML Engineering at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-ai-ml-engineering-chess)
-
-📅 **Posted**: October 10, 2025
-
----
-
-### 12. Technical Product Manager - Ads and Compliance at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-product-manager-ads-and-compliance-chess)
-
-📅 **Posted**: October 10, 2025
-
----
-
-### 13. Recovery Consulting Specialist at Halcyon
-
-💰 **Salary**: $140,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recovery-consulting-specialist-halcyon)
-
-📅 **Posted**: October 10, 2025
-
----
-
-### 14. VP of Product Engineering at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-of-product-engineering-chess)
-
-📅 **Posted**: October 09, 2025
-
----
-
-### 15. Director, International Content & Growth at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-international-content-growth-chess)
-
-📅 **Posted**: October 09, 2025
-
----
-
-### 16. Cloud Test Engineer at Halcyon
-
-💰 **Salary**: $135,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
-
-📅 **Posted**: October 09, 2025
-
----
-
-### 17. ChessKid Product Designer, Growth at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chesskid-product-designer-growth-chess)
-
-📅 **Posted**: October 09, 2025
-
----
-
-### 18. Senior Python/Go Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
-
-📅 **Posted**: October 09, 2025
-
----
-
-### 19. Infrastructure & Development Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-worldwide-cloudlinux)
-
-📅 **Posted**: October 08, 2025
-
----
-
-### 20. Backend Developer - Patchman Team at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-developer-patchman-team-cloudlinux)
-
-📅 **Posted**: October 07, 2025
-
----
-
-### 21. Backend / Platform Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-platform-engineer-cloudlinux)
-
-📅 **Posted**: October 07, 2025
-
----
-
-### 22. Infrastructure & Development Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-cloudlinux)
-
-📅 **Posted**: October 07, 2025
-
----
-
-### 23. Malware Intelligence Analyst at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/malware-intelligence-analyst-cloudlinux)
-
-📅 **Posted**: October 07, 2025
-
----
-
-### 24. Senior Go/Python Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-go-python-developer-cloudlinux)
-
-📅 **Posted**: October 07, 2025
-
----
-
-### 25. Mail Systems Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/mail-systems-engineer-cloudlinux)
-
-📅 **Posted**: October 06, 2025
-
----
-
-### 26. Security Researcher - Team Lead at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/security-researcher-team-lead-cloudlinux)
-
-📅 **Posted**: October 06, 2025
-
----
-
-### 27. Developer Experience (DX) Enablement Manager at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experienceenablement-manager-cloudlinux)
-
-📅 **Posted**: October 06, 2025
-
----
-
-### 28. Senior Python Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-developer-cloudlinux)
-
-📅 **Posted**: October 05, 2025
-
----
-
-### 29. Enterprise Sales Executive at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-sales-executive-cloudlinux)
-
-📅 **Posted**: October 05, 2025
-
----
-
-### 30. C Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/c-developer-cloudlinux)
-
-📅 **Posted**: October 05, 2025
 
 ---
 
@@ -424,6 +44,229 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 41 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
+
+---
+
+## 🚀 Latest Remote Jobs (Work From Anywhere!)
+
+Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
+
+### 1. Enterprise Account Executive at Halcyon
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
+
+---
+
+### 2. Senior Product Manager, AI/ML at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-ai-ml-chess)
+
+---
+
+### 3. Solutions Architect, TOLA at Halcyon
+
+💰 **Salary**: $160,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
+
+---
+
+### 4. Developer Experience Engineer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experience-engineer-chess)
+
+---
+
+### 5. Senior Product Security Engineer at Halcyon
+
+💰 **Salary**: $175,000-$235,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-security-engineer-halcyon)
+
+---
+
+### 6. Senior Frontend Engineer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-frontend-engineer-chess)
+
+---
+
+### 7. Backend Engineer, Data Platform & APIs at Halcyon
+
+💰 **Salary**: $120,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-data-platform-apis-halcyon)
+
+---
+
+### 8. Python Engineer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/python-engineer-chess)
+
+---
+
+### 9. Enterprise Account Executive at Halcyon
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
+
+---
+
+### 10. Staff Engineer, Endpoint Agent at Halcyon
+
+💰 **Salary**: $220,000-$275,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-endpoint-agent-halcyon)
+
+---
+
+### 11. Director of AI/ML Engineering at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-ai-ml-engineering-chess)
+
+---
+
+### 12. Technical Product Manager - Ads and Compliance at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-product-manager-ads-and-compliance-chess)
+
+---
+
+### 13. Recovery Consulting Specialist at Halcyon
+
+💰 **Salary**: $140,000-$180,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recovery-consulting-specialist-halcyon)
+
+---
+
+### 14. VP of Product Engineering at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-of-product-engineering-chess)
+
+---
+
+### 15. Director, International Content & Growth at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-international-content-growth-chess)
+
+---
+
+### 16. Cloud Test Engineer at Halcyon
+
+💰 **Salary**: $135,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
+
+---
+
+### 17. ChessKid Product Designer, Growth at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chesskid-product-designer-growth-chess)
+
+---
+
+### 18. Senior Python/Go Developer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
+
+---
+
+### 19. Infrastructure & Development Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-worldwide-cloudlinux)
+
+---
+
+### 20. Backend Developer - Patchman Team at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-developer-patchman-team-cloudlinux)
+
+---
+
 ---
 
 ## 🔄 Updates
@@ -450,6 +293,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:18 UTC_
+_Last updated: October 12, 2025 at 15:34 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
