@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/azure-data-engineer-applaudo)
 
-📅 **Posted**: October 02, 2025
-
 ---
 
 ### 2. EDI Developer at Applaudo
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 📍 **Category**: Data Analyst
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/edi-developer-applaudo)
-
-📅 **Posted**: September 17, 2025
 
 ---
 
@@ -41,8 +37,6 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 📍 **Category**: Data Analyst
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-data-scientist-automattic)
-
-📅 **Posted**: September 15, 2025
 
 ---
 
@@ -77,6 +71,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:20 UTC_
+_Last updated: October 12, 2025 at 15:36 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
