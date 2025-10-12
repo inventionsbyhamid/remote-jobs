@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-ai-ml-chess)
 
-📅 **Posted**: October 12, 2025
-
 ---
 
 ### 2. Technical Product Manager - Ads and Compliance at Chess
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-product-manager-ads-and-compliance-chess)
-
-📅 **Posted**: October 10, 2025
 
 ---
 
@@ -40,8 +36,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-of-product-engineering-chess)
 
-📅 **Posted**: October 09, 2025
-
 ---
 
 ### 4. Director, International Content & Growth at Chess
@@ -51,8 +45,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-international-content-growth-chess)
-
-📅 **Posted**: October 09, 2025
 
 ---
 
@@ -64,8 +56,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experienceenablement-manager-cloudlinux)
 
-📅 **Posted**: October 06, 2025
-
 ---
 
 ### 6. Head of Product at Toggl
@@ -75,8 +65,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-product-toggl)
-
-📅 **Posted**: October 02, 2025
 
 ---
 
@@ -88,8 +76,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/executive-producer-content-vrchat)
 
-📅 **Posted**: September 23, 2025
-
 ---
 
 ### 8. Senior Product Manager at WP Media
@@ -99,8 +85,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-wp-media)
-
-📅 **Posted**: September 17, 2025
 
 ---
 
@@ -114,8 +98,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-director-of-supply-chain-and-manufacturing-technology-dandy)
 
-📅 **Posted**: September 13, 2025
-
 ---
 
 ### 10. Senior Product Manager at Dandy
@@ -127,8 +109,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-dandy)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -163,6 +143,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:22 UTC_
+_Last updated: October 12, 2025 at 15:38 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
