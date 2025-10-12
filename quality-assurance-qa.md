@@ -18,8 +18,6 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
 
-📅 **Posted**: October 09, 2025
-
 ---
 
 ### 2. SDET Automation Engineer at CloudLinux
@@ -29,8 +27,6 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 📍 **Category**: Quality Assurance (QA)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sdet-automation-engineer-cloudlinux)
-
-📅 **Posted**: October 04, 2025
 
 ---
 
@@ -42,8 +38,6 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-automation-engineer-applaudo)
 
-📅 **Posted**: September 27, 2025
-
 ---
 
 ### 4. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
@@ -53,8 +47,6 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 📍 **Category**: Quality Assurance (QA)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
-
-📅 **Posted**: September 17, 2025
 
 ---
 
@@ -89,6 +81,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:23 UTC_
+_Last updated: October 12, 2025 at 15:38 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
