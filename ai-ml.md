@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-ai-ml-chess)
 
-📅 **Posted**: October 12, 2025
-
 ---
 
 ### 2. Director of AI/ML Engineering at Chess
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 📍 **Category**: AI/ML
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-ai-ml-engineering-chess)
-
-📅 **Posted**: October 10, 2025
 
 ---
 
@@ -42,8 +38,6 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-machine-learning-engineer-computer-vision-remote-dandy)
 
-📅 **Posted**: September 15, 2025
-
 ---
 
 ### 4. Staff Data Scientist at Automattic
@@ -56,8 +50,6 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-data-scientist-automattic)
 
-📅 **Posted**: September 15, 2025
-
 ---
 
 ### 5. Machine Learning Engineer, Computer Vision at Dandy
@@ -69,8 +61,6 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 📍 **Category**: AI/ML
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/machine-learning-engineer-computer-vision-dandy)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -105,6 +95,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:19 UTC_
+_Last updated: October 12, 2025 at 15:35 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
