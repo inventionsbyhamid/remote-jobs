@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-frontend-engineer-chess)
 
-📅 **Posted**: October 11, 2025
-
 ---
 
 ### 2. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-channels-and-platform-buffer)
-
-📅 **Posted**: September 23, 2025
 
 ---
 
@@ -40,8 +36,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-flutter-engineer-fueled)
 
-📅 **Posted**: September 22, 2025
-
 ---
 
 ### 4. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
@@ -51,8 +45,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/desarrollador-senior-react-typescript-trabajo-remoto-bairesdev)
-
-📅 **Posted**: September 17, 2025
 
 ---
 
@@ -64,8 +56,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-clerk)
 
-📅 **Posted**: September 17, 2025
-
 ---
 
 ### 6. WordPress Developer at Awesome Motive
@@ -76,8 +66,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/wordpress-developer-awesome-motive)
 
-📅 **Posted**: September 16, 2025
-
 ---
 
 ### 7. React Frontend Developer at Applaudo
@@ -87,8 +75,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/react-frontend-developer-applaudo)
-
-📅 **Posted**: September 15, 2025
 
 ---
 
@@ -101,8 +87,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-buffer)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -137,6 +121,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:21 UTC_
+_Last updated: October 12, 2025 at 15:37 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
