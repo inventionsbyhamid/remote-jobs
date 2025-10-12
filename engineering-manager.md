@@ -16,8 +16,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-ai-ml-engineering-chess)
 
-📅 **Posted**: October 10, 2025
-
 ---
 
 ### 2. VP of Product Engineering at Chess
@@ -27,8 +25,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-of-product-engineering-chess)
-
-📅 **Posted**: October 09, 2025
 
 ---
 
@@ -40,8 +36,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-cloudlinux)
 
-📅 **Posted**: October 07, 2025
-
 ---
 
 ### 4. Security Researcher - Team Lead at CloudLinux
@@ -51,8 +45,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/security-researcher-team-lead-cloudlinux)
-
-📅 **Posted**: October 06, 2025
 
 ---
 
@@ -64,8 +56,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experienceenablement-manager-cloudlinux)
 
-📅 **Posted**: October 06, 2025
-
 ---
 
 ### 6. Scrum Master at CloudLinux
@@ -75,8 +65,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/scrum-master-cloudlinux)
-
-📅 **Posted**: October 04, 2025
 
 ---
 
@@ -88,8 +76,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chief-security-officer-cloudlinux)
 
-📅 **Posted**: October 04, 2025
-
 ---
 
 ### 8. Head of Product at Toggl
@@ -99,8 +85,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-product-toggl)
-
-📅 **Posted**: October 02, 2025
 
 ---
 
@@ -114,8 +98,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-engineering-manager-coinbase)
 
-📅 **Posted**: October 01, 2025
-
 ---
 
 ### 10. Lead Engineer, CMS Builder at Circle
@@ -127,8 +109,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-engineer-cms-builder-circle)
-
-📅 **Posted**: October 01, 2025
 
 ---
 
@@ -142,8 +122,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-windows-duckduckgo)
 
-📅 **Posted**: September 28, 2025
-
 ---
 
 ### 12. Full-Stack Java + React Technical Leader at BairesDev
@@ -154,8 +132,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/full-stack-java-react-technical-leader-remote-bairesdev)
 
-📅 **Posted**: September 24, 2025
-
 ---
 
 ### 13. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
@@ -165,8 +141,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
-
-📅 **Posted**: September 17, 2025
 
 ---
 
@@ -180,8 +154,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-web-platform-remote-duckduckgo)
 
-📅 **Posted**: September 16, 2025
-
 ---
 
 ### 15. Senior Project Manager - Remote Work at BairesDev
@@ -191,8 +163,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-project-manager-remote-work-bairesdev)
-
-📅 **Posted**: September 16, 2025
 
 ---
 
@@ -206,8 +176,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-web-platform-duckduckgo)
 
-📅 **Posted**: September 15, 2025
-
 ---
 
 ### 17. Senior Director of Supply Chain and Manufacturing Technology at Dandy
@@ -219,8 +187,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-director-of-supply-chain-and-manufacturing-technology-dandy)
-
-📅 **Posted**: September 13, 2025
 
 ---
 
@@ -234,8 +200,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-product-dandy)
 
-📅 **Posted**: September 13, 2025
-
 ---
 
 ### 19. Global Director of Operations at Dandy
@@ -245,8 +209,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-director-of-operations-uk-london-dandy)
-
-📅 **Posted**: September 12, 2025
 
 ---
 
@@ -281,6 +243,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:21 UTC_
+_Last updated: October 12, 2025 at 15:37 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
