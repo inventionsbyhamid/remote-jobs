@@ -404,54 +404,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 38. Senior Software Engineer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-dandy)
 
 ---
 
-### 39. Platform Engineer - Developer Experience at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-developer-experience-dandy)
-
----
-
-### 40. Senior Product Engineer (Frontend) at Buffer
-
-💰 **Salary**: $156,500-$202,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-buffer)
-
----
-
-### 41. Senior Full-Stack Engineer, Payments Core at Circle
-
-💰 **Salary**: $130,000-$140,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-engineer-payments-core-circle)
-
----
-
-
----
-
-**Total Jobs**: 41 positions available
+**Total Jobs**: 37 positions available
 
 ---
 
@@ -465,7 +421,7 @@ This repository is updated daily with the latest **100% remote** job opportuniti
 - 💼 New **100% remote** jobs added daily from top companies worldwide
 - 🏠 All positions verified as work from anywhere
 
-## ⭐ About Remote World Jobs
+## About Remote World Jobs
 
 Remote World Jobs is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
 
@@ -479,6 +435,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:40 UTC_
+_Last updated: October 13, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
