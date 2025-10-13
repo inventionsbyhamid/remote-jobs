@@ -202,20 +202,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 19. Global Director of Operations at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-director-of-operations-uk-london-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -229,7 +219,7 @@ This repository is updated daily with the latest **100% remote** job opportuniti
 - 💼 New **100% remote** jobs added daily from top companies worldwide
 - 🏠 All positions verified as work from anywhere
 
-## ⭐ About Remote World Jobs
+## About Remote World Jobs
 
 Remote World Jobs is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
 
@@ -243,6 +233,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:37 UTC_
+_Last updated: October 13, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
