@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Cloud Test Engineer at Halcyon
+### 1. QA Specialist at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-specialist-chess)
+
+---
+
+### 2. Cloud Test Engineer at Halcyon
 
 💰 **Salary**: $135,000-$170,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. SDET Automation Engineer at CloudLinux
+### 3. SDET Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 3. QA Automation Engineer at Applaudo
+### 4. QA Automation Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 4. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+### 5. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +63,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -67,7 +77,7 @@ This repository is updated daily with the latest **100% remote** job opportuniti
 - 💼 New **100% remote** jobs added daily from top companies worldwide
 - 🏠 All positions verified as work from anywhere
 
-## ⭐ About Remote World Jobs
+## About Remote World Jobs
 
 Remote World Jobs is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
 
@@ -81,6 +91,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:38 UTC_
+_Last updated: October 13, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
