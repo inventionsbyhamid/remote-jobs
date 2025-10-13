@@ -21,27 +21,28 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 5 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
 - 🏠 **[Backend](backend.md)** - 28 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 12 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 11 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 3 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
-- 🏠 **[Data Analyst](data-analyst.md)** - 3 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 13 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 19 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 8 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 12 remote jobs available
-- 🏠 **[HR](hr.md)** - 9 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 4 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 12 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 18 remote jobs available
+- 🏠 **[Finance](finance.md)** - 1 remote job available
+- 🏠 **[Frontend](frontend.md)** - 7 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 10 remote jobs available
+- 🏠 **[HR](hr.md)** - 8 remote jobs available
 - 🏠 **[Intern](intern.md)** - 2 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 8 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 6 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 10 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 4 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 5 remote jobs available
 - 🏠 **[Research](research.md)** - 6 remote jobs available
-- 🏠 **[Sales](sales.md)** - 13 remote jobs available
+- 🏠 **[Sales](sales.md)** - 12 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 16 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 41 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 37 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
 
@@ -51,7 +52,27 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Enterprise Account Executive at Halcyon
+### 1. Payments Fraud Analyst at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/payments-fraud-analyst-chess)
+
+---
+
+### 2. QA Specialist at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-specialist-chess)
+
+---
+
+### 3. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -63,7 +84,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Product Manager, AI/ML at Chess
+### 4. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +94,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Solutions Architect, TOLA at Halcyon
+### 5. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -85,7 +106,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Developer Experience Engineer at Chess
+### 6. Developer Experience Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -95,7 +116,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Product Security Engineer at Halcyon
+### 7. Senior Product Security Engineer at Halcyon
 
 💰 **Salary**: $175,000-$235,000 USD
 
@@ -107,7 +128,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior Frontend Engineer at Chess
+### 8. Senior Frontend Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -117,7 +138,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Backend Engineer, Data Platform & APIs at Halcyon
+### 9. Backend Engineer, Data Platform & APIs at Halcyon
 
 💰 **Salary**: $120,000-$170,000 USD
 
@@ -129,7 +150,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Python Engineer at Chess
+### 10. Python Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +160,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Enterprise Account Executive at Halcyon
+### 11. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -151,7 +172,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Staff Engineer, Endpoint Agent at Halcyon
+### 12. Staff Engineer, Endpoint Agent at Halcyon
 
 💰 **Salary**: $220,000-$275,000 USD
 
@@ -163,7 +184,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Director of AI/ML Engineering at Chess
+### 13. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -173,7 +194,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Technical Product Manager - Ads and Compliance at Chess
+### 14. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -183,7 +204,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Recovery Consulting Specialist at Halcyon
+### 15. Recovery Consulting Specialist at Halcyon
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -195,7 +216,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. VP of Product Engineering at Chess
+### 16. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -205,7 +226,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Director, International Content & Growth at Chess
+### 17. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -215,7 +236,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Cloud Test Engineer at Halcyon
+### 18. Cloud Test Engineer at Halcyon
 
 💰 **Salary**: $135,000-$170,000 USD
 
@@ -227,7 +248,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. ChessKid Product Designer, Growth at Chess
+### 19. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -237,33 +258,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Senior Python/Go Developer at CloudLinux
+### 20. Senior Python/Go Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
-
----
-
-### 19. Infrastructure & Development Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-worldwide-cloudlinux)
-
----
-
-### 20. Backend Developer - Patchman Team at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-developer-patchman-team-cloudlinux)
 
 ---
 
@@ -293,6 +294,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:42 UTC_
+_Last updated: October 13, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
