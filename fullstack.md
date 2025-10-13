@@ -114,32 +114,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 11. Senior Software Engineer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-dandy)
 
 ---
 
-### 12. Senior Full-Stack Engineer, Payments Core at Circle
-
-💰 **Salary**: $130,000-$140,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-engineer-payments-core-circle)
-
----
-
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -153,7 +131,7 @@ This repository is updated daily with the latest **100% remote** job opportuniti
 - 💼 New **100% remote** jobs added daily from top companies worldwide
 - 🏠 All positions verified as work from anywhere
 
-## ⭐ About Remote World Jobs
+## About Remote World Jobs
 
 Remote World Jobs is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
 
@@ -167,6 +145,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 12, 2025 at 15:37 UTC_
+_Last updated: October 13, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
