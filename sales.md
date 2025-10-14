@@ -128,22 +128,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Senior Manager of Enterprise Account Management at Dandy
-
-💰 **Salary**: $140,000-$192,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-manager-of-enterprise-account-management-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -171,6 +159,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 13, 2025 at 00:00 UTC_
+_Last updated: October 14, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
