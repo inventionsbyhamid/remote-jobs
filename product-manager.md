@@ -88,34 +88,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Senior Director of Supply Chain and Manufacturing Technology at Dandy
-
-💰 **Salary**: $248,000-$310,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-director-of-supply-chain-and-manufacturing-technology-dandy)
 
 ---
 
-### 10. Senior Product Manager at Dandy
-
-💰 **Salary**: $183,600-$216,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-dandy)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -143,6 +119,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 13, 2025 at 00:00 UTC_
+_Last updated: October 14, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
