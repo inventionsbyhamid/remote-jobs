@@ -382,32 +382,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 36. Senior Software Engineer, Practice Engagement at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-practice-engagement-dandy)
 
 ---
 
-### 37. Staff Site Reliability Engineer at Wikimedia
-
-💰 **Salary**: $129,347-$200,824 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-site-reliability-engineer-wikimedia)
-
----
-
-
----
-
-**Total Jobs**: 37 positions available
+**Total Jobs**: 35 positions available
 
 ---
 
@@ -435,6 +413,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 13, 2025 at 00:00 UTC_
+_Last updated: October 14, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
