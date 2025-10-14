@@ -178,34 +178,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 17. Senior Director of Supply Chain and Manufacturing Technology at Dandy
-
-💰 **Salary**: $248,000-$310,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-director-of-supply-chain-and-manufacturing-technology-dandy)
 
 ---
 
-### 18. Engineering Manager, Product at Dandy
-
-💰 **Salary**: $221,100-$268,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-product-dandy)
-
----
-
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -233,6 +209,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 13, 2025 at 00:00 UTC_
+_Last updated: October 14, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
