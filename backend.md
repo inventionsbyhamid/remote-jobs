@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Backend Engineer, Data Platform & APIs at Halcyon
+### 1. Senior Java Developer - Web3 Earn at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-java-developer-web3-earn-binance)
+
+---
+
+### 2. Java Architect- Compliance at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-binance)
+
+---
+
+### 3. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/binance-accelerator-program-java-engineer-binance)
+
+---
+
+### 4. Backend Engineer, Data Platform & APIs at Halcyon
 
 💰 **Salary**: $120,000-$170,000 USD
 
@@ -20,7 +50,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Python Engineer at Chess
+### 5. Python Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +60,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Senior Python/Go Developer at CloudLinux
+### 6. Senior Python/Go Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +70,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Infrastructure & Development Engineer at CloudLinux
+### 7. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Backend Developer - Patchman Team at CloudLinux
+### 8. Backend Developer - Patchman Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +90,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Backend / Platform Engineer at CloudLinux
+### 9. Backend / Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +100,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Senior Go/Python Developer at CloudLinux
+### 10. Senior Go/Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +110,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Senior Python Developer at CloudLinux
+### 11. Senior Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +120,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 9. C Developer at CloudLinux
+### 12. C Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +130,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 10. Kernel Developer at CloudLinux
+### 13. Kernel Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +140,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 11. Senior Product Engineer (Backend) at Buffer
+### 14. Senior Product Engineer (Backend) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -122,7 +152,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 12. Azure Data Engineer at Applaudo
+### 15. Azure Data Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +162,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 13. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
+### 16. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -144,7 +174,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 14. Engineering Manager (Consumer - Trading) at Coinbase
+### 17. Engineering Manager (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -156,7 +186,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 15. Lead Engineer, CMS Builder at Circle
+### 18. Lead Engineer, CMS Builder at Circle
 
 💰 **Salary**: $160,000-$170,000 USD
 
@@ -168,7 +198,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 16. Contract Senior Web Services Engineer at Fueled
+### 19. Contract Senior Web Services Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +208,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 17. Engineering Internship at Appwrite
+### 20. Engineering Internship at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +218,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 18. Senior Engineer- Experience Anywhere at VRChat
+### 21. Senior Engineer- Experience Anywhere at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +228,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 19. Senior Full Stack Engineer at Zircuit
+### 22. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +238,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 20. Software Engineer, Backend (Consumer - Growth) at Coinbase
+### 23. Software Engineer, Backend (Consumer - Growth) at Coinbase
 
 💰 **Salary**: $147,000-$174,000 USD
 
@@ -220,7 +250,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 21. Protocol Engineer at MatterLabs
+### 24. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -230,7 +260,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 22. Backend Software Engineer (PHP/Python) at WP Media
+### 25. Backend Software Engineer (PHP/Python) at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -240,7 +270,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 23. Platform Engineer at Appwrite
+### 26. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -250,7 +280,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 24. Backend Engineer at Clerk
+### 27. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -260,7 +290,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 25. EDI Developer at Applaudo
+### 28. EDI Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -270,7 +300,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 26. Engineering Director, Web Platform at DuckDuckGo
+### 29. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -282,7 +312,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 27. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
+### 30. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -292,22 +322,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 28. Senior Backend Engineer (Platform and API) at Buffer
-
-💰 **Salary**: $156,500-$202,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-backend-engineer-buffer)
 
 ---
 
-
----
-
-**Total Jobs**: 28 positions available
+**Total Jobs**: 30 positions available
 
 ---
 
@@ -335,6 +353,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 15, 2025 at 00:00 UTC_
+_Last updated: October 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
