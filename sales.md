@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Enterprise Account Executive at Halcyon
+### 1. Individual Sales Representative (Mandarin Speaking) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/individual-sales-representative-binance)
+
+---
+
+### 2. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Solutions Architect, TOLA at Halcyon
+### 3. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Enterprise Account Executive at Halcyon
+### 4. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -44,7 +54,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Enterprise Sales Executive at CloudLinux
+### 5. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +64,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+### 6. Sales Director (Oil & Gas Industry) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Sales Director (Retail Background) - Remote at BairesDev
+### 7. Sales Director (Retail Background) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Sales Director (Financial Services) - Remote at BairesDev
+### 8. Sales Director (Financial Services) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Senior Outside Sales Executive at BairesDev
+### 9. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Senior account Executive at Toggl
+### 10. Senior account Executive at Toggl
 
 💰 **Salary**: $80,000+ USD
 
@@ -106,7 +116,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Technical Account Manager, Pressable at Automattic
+### 11. Technical Account Manager, Pressable at Automattic
 
 💰 **Salary**: $70,000-$130,000 USD
 
@@ -118,7 +128,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 12. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -131,7 +141,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 11 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -159,6 +169,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 15, 2025 at 00:00 UTC_
+_Last updated: October 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
