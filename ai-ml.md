@@ -28,34 +28,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Senior Machine Learning Engineer - Computer Vision at Dandy
-
-💰 **Salary**: $216,800-$255,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-machine-learning-engineer-computer-vision-remote-dandy)
 
 ---
 
-### 4. Staff Data Scientist at Automattic
-
-💰 **Salary**: $200,000-$275,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-data-scientist-automattic)
-
----
-
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -83,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 15, 2025 at 00:00 UTC_
+_Last updated: October 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
