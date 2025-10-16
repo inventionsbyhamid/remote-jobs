@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Full Stack Developer at 90 Seconds
+### 1. Global Community Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-community-manager-binance)
+
+---
+
+### 2. Senior Full Stack Developer at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 2. Business Development Manager at 90 Seconds
+### 3. Business Development Manager at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +41,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +69,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 15, 2025 at 00:00 UTC_
+_Last updated: October 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
