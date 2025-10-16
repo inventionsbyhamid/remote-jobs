@@ -18,31 +18,32 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 4 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 2 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 28 remote jobs available
+- 🏠 **[Backend](backend.md)** - 30 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 11 remote jobs available
-- 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
+- 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
 - 🏠 **[Customer Success](customer-success.md)** - 2 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
-- 🏠 **[Data Analyst](data-analyst.md)** - 4 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 2 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 5 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 11 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 16 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
-- 🏠 **[Frontend](frontend.md)** - 7 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 6 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 9 remote jobs available
-- 🏠 **[HR](hr.md)** - 8 remote jobs available
+- 🏠 **[HR](hr.md)** - 7 remote jobs available
 - 🏠 **[Intern](intern.md)** - 2 remote jobs available
+- 🏠 **[Legal](legal.md)** - 2 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 6 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 3 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 8 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 5 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 10 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 5 remote jobs available
-- 🏠 **[Research](research.md)** - 5 remote jobs available
-- 🏠 **[Sales](sales.md)** - 11 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 17 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 35 remote jobs available
+- 🏠 **[Research](research.md)** - 4 remote jobs available
+- 🏠 **[Sales](sales.md)** - 12 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 18 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 3 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 36 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
 
@@ -52,7 +53,157 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Security Engineer - Blue Team at Raya
+### 1. Product Designer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-remote-binance)
+
+---
+
+### 2. Individual Sales Representative (Mandarin Speaking) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/individual-sales-representative-binance)
+
+---
+
+### 3. Senior Java Developer - Web3 Earn at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-java-developer-web3-earn-binance)
+
+---
+
+### 4. Product Designer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-binance)
+
+---
+
+### 5. Product Operations (Structured Finance) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-operations-binance)
+
+---
+
+### 6. Java Architect- Compliance at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-binance)
+
+---
+
+### 7. Global Community Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-community-manager-binance)
+
+---
+
+### 8. Software Engineer - Blockchain Security at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-blockchain-security-binance)
+
+---
+
+### 9. Senior Product Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-binance)
+
+---
+
+### 10. Global Regulatory Legal Lead at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-regulatory-legal-lead-binance)
+
+---
+
+### 11. Corporate Counsel at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/corporate-counsel-binance)
+
+---
+
+### 12. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/binance-accelerator-program-java-engineer-binance)
+
+---
+
+### 13. On-chain Data Analyst (12 months contract) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/on-chain-data-analyst-binance)
+
+---
+
+### 14. Dispute Analyst - P2P at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dispute-analyst-p2p-binance)
+
+---
+
+### 15. Senior Analytics Manager at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-analytics-manager-raya)
+
+---
+
+### 16. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +213,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Payments Fraud Analyst at Chess
+### 17. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +223,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. QA Specialist at Chess
+### 18. QA Specialist at Chess
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +233,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Enterprise Account Executive at Halcyon
+### 19. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -94,177 +245,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Product Manager, AI/ML at Chess
+### 20. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-ai-ml-chess)
-
----
-
-### 6. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
-
----
-
-### 7. Developer Experience Engineer at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experience-engineer-chess)
-
----
-
-### 8. Senior Product Security Engineer at Halcyon
-
-💰 **Salary**: $175,000-$235,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-security-engineer-halcyon)
-
----
-
-### 9. Senior Frontend Engineer at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-frontend-engineer-chess)
-
----
-
-### 10. Backend Engineer, Data Platform & APIs at Halcyon
-
-💰 **Salary**: $120,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-data-platform-apis-halcyon)
-
----
-
-### 11. Python Engineer at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/python-engineer-chess)
-
----
-
-### 12. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
-
----
-
-### 13. Staff Engineer, Endpoint Agent at Halcyon
-
-💰 **Salary**: $220,000-$275,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-endpoint-agent-halcyon)
-
----
-
-### 14. Director of AI/ML Engineering at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-ai-ml-engineering-chess)
-
----
-
-### 15. Technical Product Manager - Ads and Compliance at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-product-manager-ads-and-compliance-chess)
-
----
-
-### 16. Recovery Consulting Specialist at Halcyon
-
-💰 **Salary**: $140,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recovery-consulting-specialist-halcyon)
-
----
-
-### 17. VP of Product Engineering at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-of-product-engineering-chess)
-
----
-
-### 18. Director, International Content & Growth at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-international-content-growth-chess)
-
----
-
-### 19. Cloud Test Engineer at Halcyon
-
-💰 **Salary**: $135,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
-
----
-
-### 20. ChessKid Product Designer, Growth at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chesskid-product-designer-growth-chess)
 
 ---
 
@@ -294,6 +281,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 15, 2025 at 00:00 UTC_
+_Last updated: October 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
