@@ -18,22 +18,10 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-### 2. Japanese Creative Copywriter (Contractor) at Wikimedia
-
-💰 **Salary**: $36-$56 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Copywriter
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/japanese-creative-copywriter-wikimedia)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -61,6 +49,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 15, 2025 at 00:00 UTC_
+_Last updated: October 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
