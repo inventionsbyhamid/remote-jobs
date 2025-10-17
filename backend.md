@@ -300,32 +300,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 29. Engineering Director, Web Platform at DuckDuckGo
-
-💰 **Salary**: $243,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-web-platform-remote-duckduckgo)
 
 ---
 
-### 30. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/intermediate-backendengineer-gitlab-delivery-operate-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 30 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -353,6 +331,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 16, 2025 at 00:00 UTC_
+_Last updated: October 17, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
