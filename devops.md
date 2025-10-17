@@ -110,20 +110,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 11. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/intermediate-backendengineer-gitlab-delivery-operate-gitlab)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -151,6 +141,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 16, 2025 at 00:00 UTC_
+_Last updated: October 17, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
