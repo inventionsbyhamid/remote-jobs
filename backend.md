@@ -280,30 +280,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 27. Backend Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-clerk)
 
 ---
 
-### 28. EDI Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/edi-developer-applaudo)
-
----
-
-
----
-
-**Total Jobs**: 28 positions available
+**Total Jobs**: 26 positions available
 
 ---
 
@@ -331,6 +311,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 17, 2025 at 00:00 UTC_
+_Last updated: October 18, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
