@@ -356,20 +356,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 34. Platform Engineer at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-appwrite)
 
 ---
 
-
----
-
-**Total Jobs**: 34 positions available
+**Total Jobs**: 33 positions available
 
 ---
 
@@ -397,6 +387,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 18, 2025 at 00:00 UTC_
+_Last updated: October 19, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
