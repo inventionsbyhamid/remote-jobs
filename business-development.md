@@ -118,20 +118,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Sales Director (Healthcare Industry) - Remote Work at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-work-remote-bairesdev)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -159,6 +149,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 18, 2025 at 00:00 UTC_
+_Last updated: October 19, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
