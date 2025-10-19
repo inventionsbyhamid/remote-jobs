@@ -270,20 +270,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 26. Platform Engineer at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-appwrite)
 
 ---
 
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 25 positions available
 
 ---
 
@@ -311,6 +301,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 18, 2025 at 00:00 UTC_
+_Last updated: October 19, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
