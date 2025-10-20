@@ -60,20 +60,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Business Development Manager at 90 Seconds
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-development-manager-90-seconds)
 
 ---
 
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -101,6 +91,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 19, 2025 at 00:00 UTC_
+_Last updated: October 20, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
