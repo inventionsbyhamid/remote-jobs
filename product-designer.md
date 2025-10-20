@@ -8,13 +8,13 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Designer at Binance
+### 1. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-remote-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-lead-ui-ux-binance)
 
 ---
 
@@ -24,11 +24,21 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 📍 **Category**: Product Designer
 
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-remote-binance)
+
+---
+
+### 3. Product Designer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-binance)
 
 ---
 
-### 3. ChessKid Product Designer, Growth at Chess
+### 4. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Experience Team Product Designer at VRChat
+### 5. Experience Team Product Designer at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Growth Team Product Designer at VRChat
+### 6. Growth Team Product Designer at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +71,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -89,6 +99,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 19, 2025 at 00:00 UTC_
+_Last updated: October 20, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
