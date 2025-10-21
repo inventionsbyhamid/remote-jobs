@@ -248,42 +248,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 24. Software Engineer, Backend (Consumer - Growth) at Coinbase
-
-💰 **Salary**: $147,000-$174,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-backend-coinbase)
 
 ---
 
-### 25. Protocol Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-engineer-matterlabs)
-
----
-
-### 26. Backend Software Engineer (PHP/Python) at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-software-engineer-wp-media)
-
----
-
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -311,6 +279,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 20, 2025 at 00:00 UTC_
+_Last updated: October 21, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
