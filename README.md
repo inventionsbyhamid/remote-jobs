@@ -20,8 +20,8 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 - 🏠 **[AI/ML](ai-ml.md)** - 2 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 23 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 10 remote jobs available
+- 🏠 **[Backend](backend.md)** - 21 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 9 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 1 remote job available
 - 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
 - 🏠 **[Data Analyst](data-analyst.md)** - 4 remote jobs available
@@ -29,7 +29,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 13 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
 - 🏠 **[Frontend](frontend.md)** - 3 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 6 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
 - 🏠 **[HR](hr.md)** - 5 remote jobs available
 - 🏠 **[Intern](intern.md)** - 2 remote jobs available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
@@ -39,10 +39,10 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 4 remote jobs available
 - 🏠 **[Research](research.md)** - 4 remote jobs available
-- 🏠 **[Sales](sales.md)** - 10 remote jobs available
+- 🏠 **[Sales](sales.md)** - 9 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 17 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 31 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 29 remote jobs available
 
 
 ---
@@ -277,6 +277,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 21, 2025 at 00:00 UTC_
+_Last updated: October 22, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
