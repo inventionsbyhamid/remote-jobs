@@ -218,20 +218,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 21. Engineering Internship at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-internship-appwrite)
 
 ---
 
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -259,6 +249,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 22, 2025 at 00:00 UTC_
+_Last updated: October 23, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
