@@ -48,20 +48,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Experience Team Product Designer at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/experience-team-product-designer-vrchat)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -89,6 +79,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 23, 2025 at 00:00 UTC_
+_Last updated: October 24, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
