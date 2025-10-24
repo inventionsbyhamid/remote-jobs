@@ -282,32 +282,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 27. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-channels-and-platform-buffer)
 
 ---
 
-### 28. Fullstack Engineer, Contributor Success, Strategy at GitLab
-
-💰 **Salary**: $98,000-$210,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/fullstack-engineer-contributor-success-strategy-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 28 positions available
+**Total Jobs**: 26 positions available
 
 ---
 
@@ -335,6 +313,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 23, 2025 at 00:00 UTC_
+_Last updated: October 24, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
