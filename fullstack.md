@@ -20,32 +20,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Full-Stack Java + React Technical Leader at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/full-stack-java-react-technical-leader-remote-bairesdev)
 
 ---
 
-### 3. Senior Full-Stack Software Engineer, Discover at Circle
-
-💰 **Salary**: $130,000-$140,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-software-engineer-discover-circle)
-
----
-
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -73,6 +51,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 24, 2025 at 00:00 UTC_
+_Last updated: October 25, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
