@@ -8,7 +8,47 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Operations (Structured Finance) at Binance
+### 1. Junior Product Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/junior-product-manager-canonical)
+
+---
+
+### 2. Product Manager - Desktop at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-desktop-canonical)
+
+---
+
+### 3. Product Manager, LATAM at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
+
+---
+
+### 4. Product Manager, LATAM at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
+
+---
+
+### 5. Product Operations (Structured Finance) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Senior Product Manager at Binance
+### 6. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +68,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Senior Product Manager, AI/ML at Chess
+### 7. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +78,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Technical Product Manager - Ads and Compliance at Chess
+### 8. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +88,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. VP of Product Engineering at Chess
+### 9. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +98,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Director, International Content & Growth at Chess
+### 10. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +108,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Developer Experience (DX) Enablement Manager at CloudLinux
+### 11. Developer Experience (DX) Enablement Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +118,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Head of Product at Toggl
+### 12. Head of Product at Toggl
 
 🌍 **Location**: Worldwide
 
@@ -91,7 +131,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -119,6 +159,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 25, 2025 at 00:00 UTC_
+_Last updated: October 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
