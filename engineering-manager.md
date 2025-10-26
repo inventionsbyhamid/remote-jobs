@@ -8,7 +8,57 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Analytics Manager at Raya
+### 1. Senior Engineering Manager- Ubuntu at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-engineering-manager-ubuntu-canonical)
+
+---
+
+### 2. Billing System Engineering Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/billing-system-engineering-manager-canonical)
+
+---
+
+### 3. Rust Engineering Lead - Linux and Open Source at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/rust-engineering-lead-linux-and-open-source-canonical)
+
+---
+
+### 4. Engineering Manager - Security Standards and Hardening at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-security-standards-and-hardening-canonical)
+
+---
+
+### 5. Engineering Manager for IAM (Identity and Access Management) at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-for-iam-canonical)
+
+---
+
+### 6. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +68,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Director of AI/ML Engineering at Chess
+### 7. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +78,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. VP of Product Engineering at Chess
+### 8. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +88,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Infrastructure & Development Engineer at CloudLinux
+### 9. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +98,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Security Researcher - Team Lead at CloudLinux
+### 10. Security Researcher - Team Lead at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +108,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Developer Experience (DX) Enablement Manager at CloudLinux
+### 11. Developer Experience (DX) Enablement Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +118,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Scrum Master at CloudLinux
+### 12. Scrum Master at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +128,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Chief Security Officer (CSO) at CloudLinux
+### 13. Chief Security Officer (CSO) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +138,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Head of Product at Toggl
+### 14. Head of Product at Toggl
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +148,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Engineering Manager (Consumer - Trading) at Coinbase
+### 15. Engineering Manager (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -110,7 +160,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Lead Engineer, CMS Builder at Circle
+### 16. Lead Engineer, CMS Builder at Circle
 
 💰 **Salary**: $160,000-$170,000 USD
 
@@ -122,7 +172,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Engineering Director, Windows at DuckDuckGo
+### 17. Engineering Director, Windows at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -137,7 +187,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -165,6 +215,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 25, 2025 at 00:00 UTC_
+_Last updated: October 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
