@@ -8,37 +8,33 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Individual Sales Representative (Mandarin Speaking) at Binance
+### 1. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-sales-manager-hewlett-packard-enterprise-india-canonical)
+
+---
+
+### 2. Chief Revenue Officer at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chief-revenue-officer-canonical)
+
+---
+
+### 3. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/individual-sales-representative-binance)
-
----
-
-### 2. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
-
----
-
-### 3. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
 
 ---
 
@@ -50,11 +46,35 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 📍 **Category**: Sales
 
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
+
+---
+
+### 5. Solutions Architect, TOLA at Halcyon
+
+💰 **Salary**: $160,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
+
+---
+
+### 6. Enterprise Account Executive at Halcyon
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
 
 ---
 
-### 5. Enterprise Sales Executive at CloudLinux
+### 7. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +84,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+### 8. Sales Director (Oil & Gas Industry) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +94,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Sales Director (Retail Background) - Remote at BairesDev
+### 9. Sales Director (Retail Background) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +104,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Sales Director (Financial Services) - Remote at BairesDev
+### 10. Sales Director (Financial Services) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -97,7 +117,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -125,6 +145,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 25, 2025 at 00:00 UTC_
+_Last updated: October 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
