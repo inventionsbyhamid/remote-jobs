@@ -18,30 +18,30 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 2 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 3 remote jobs available
 - 🏠 **[Backend](backend.md)** - 20 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 8 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 13 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 1 remote job available
-- 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
+- 🏠 **[Customer Support](customer-support.md)** - 4 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 4 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 8 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 12 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 17 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
-- 🏠 **[Frontend](frontend.md)** - 1 remote job available
+- 🏠 **[Frontend](frontend.md)** - 2 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 1 remote job available
 - 🏠 **[HR](hr.md)** - 3 remote jobs available
 - 🏠 **[Intern](intern.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 3 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 4 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 8 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 8 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 5 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 12 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 4 remote jobs available
 - 🏠 **[Research](research.md)** - 3 remote jobs available
-- 🏠 **[Sales](sales.md)** - 8 remote jobs available
+- 🏠 **[Sales](sales.md)** - 10 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 15 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 24 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 32 remote jobs available
 
 
 ---
@@ -50,203 +50,203 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Java Architect- Compliance at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-worldwide-binance)
-
----
-
-### 2. Product Designer Lead - UI/UX at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-lead-ui-ux-binance)
-
----
-
-### 3. Product Designer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-remote-binance)
-
----
-
-### 4. Individual Sales Representative (Mandarin Speaking) at Binance
+### 1. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/individual-sales-representative-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-sales-manager-hewlett-packard-enterprise-india-canonical)
 
 ---
 
-### 5. Senior Java Developer - Web3 Earn at Binance
+### 2. Senior Engineering Manager- Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Backend
+📍 **Category**: Engineering Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-java-developer-web3-earn-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-engineering-manager-ubuntu-canonical)
 
 ---
 
-### 6. Product Designer at Binance
+### 3. Billing System Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Product Designer
+📍 **Category**: Engineering Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/billing-system-engineering-manager-canonical)
 
 ---
 
-### 7. Product Operations (Structured Finance) at Binance
+### 4. Rust Engineering Lead - Linux and Open Source at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Product Manager
+📍 **Category**: Engineering Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-operations-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/rust-engineering-lead-linux-and-open-source-canonical)
 
 ---
 
-### 8. Java Architect- Compliance at Binance
+### 5. Software Maintenance Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Backend
+📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-maintenance-engineer-canonical)
 
 ---
 
-### 9. Global Community Manager at Binance
+### 6. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Marketing
+📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-community-manager-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-industrial-iot-canonical)
 
 ---
 
-### 10. Software Engineer - Blockchain Security at Binance
+### 7. Engineering Manager - Security Standards and Hardening at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Security Engineer
+📍 **Category**: Engineering Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-blockchain-security-binance)
-
----
-
-### 11. Senior Product Manager at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-security-standards-and-hardening-canonical)
 
 ---
 
-### 12. Global Regulatory Legal Lead at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-regulatory-legal-lead-binance)
-
----
-
-### 13. Corporate Counsel at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/corporate-counsel-binance)
-
----
-
-### 14. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/binance-accelerator-program-java-engineer-binance)
-
----
-
-### 15. On-chain Data Analyst (12 months contract) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/on-chain-data-analyst-binance)
-
----
-
-### 16. Dispute Analyst - P2P at Binance
+### 8. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Customer Support
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dispute-analyst-p2p-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-customer-success-manager-canonical)
 
 ---
 
-### 17. Senior Analytics Manager at Raya
+### 9. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Data Analyst
+📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-analytics-manager-raya)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical)
 
 ---
 
-### 18. Senior Security Engineer - Blue Team at Raya
+### 10. Junior Product Manager at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Security Engineer
+📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-security-engineer-blue-team-raya)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/junior-product-manager-canonical)
 
 ---
 
-### 19. Payments Fraud Analyst at Chess
+### 11. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Finance
+📍 **Category**: Frontend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/payments-fraud-analyst-chess)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/web-developer-canonical)
 
 ---
 
-### 20. QA Specialist at Chess
+### 12. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Quality Assurance (QA)
+📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-specialist-chess)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ux-designer-design-systems-canonical)
+
+---
+
+### 13. Graduate Customer Success Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-customer-success-manager-canonical)
+
+---
+
+### 14. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ubuntu-linux-kernel-engineer-bios-firmware-canonical)
+
+---
+
+### 15. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/embedded-desktop-linux-systems-engineer-optimisation-canonical)
+
+---
+
+### 16. Events Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/events-manager-canonical)
+
+---
+
+### 17. Growth Engineer at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-engineer-canonical)
+
+---
+
+### 18. Chief Revenue Officer at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chief-revenue-officer-canonical)
+
+---
+
+### 19. Partner Marketing Director at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-marketing-director-canonical)
+
+---
+
+### 20. Engineering Manager for IAM (Identity and Access Management) at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-for-iam-canonical)
 
 ---
 
@@ -276,6 +276,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 25, 2025 at 00:00 UTC_
+_Last updated: October 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
