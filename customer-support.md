@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Dispute Analyst - P2P at Binance
+### 1. Enterprise Customer Success Manager (French speaker) at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-customer-success-manager-canonical)
+
+---
+
+### 2. Graduate Customer Success Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-customer-success-manager-canonical)
+
+---
+
+### 3. Premium Support Senior Specialist (Spanish) at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/premium-support-senior-specialist-airbnb)
+
+---
+
+### 4. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +51,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -49,6 +79,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 25, 2025 at 00:00 UTC_
+_Last updated: October 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
