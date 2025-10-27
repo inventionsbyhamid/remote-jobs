@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 1. Head of Growth at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-growth-safetywing)
+
+---
+
+### 2. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-work-bairesdev)
+
+---
+
+### 3. Partner Sales Director - IHV Alliances at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-sales-director-ihv-alliances-canonical)
+
+---
+
+### 4. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Chief Revenue Officer at Canonical
+### 5. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Partner Marketing Director at Canonical
+### 6. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Product Manager, LATAM at Airbnb
+### 7. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +78,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Product Manager, LATAM at Airbnb
+### 8. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +88,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Enterprise Account Executive at Halcyon
+### 9. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -70,7 +100,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Solutions Architect, TOLA at Halcyon
+### 10. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -82,7 +112,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Enterprise Account Executive at Halcyon
+### 11. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -94,7 +124,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Enterprise Sales Executive at CloudLinux
+### 12. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +134,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+### 13. Sales Director (Oil & Gas Industry) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +144,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Sales Director (Retail Background) - Remote at BairesDev
+### 14. Sales Director (Retail Background) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +154,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. VP, Growth at beehiiv
+### 15. VP, Growth at beehiiv
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -136,7 +166,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Sales Director (Financial Services) - Remote at BairesDev
+### 16. Sales Director (Financial Services) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -149,7 +179,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -177,6 +207,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 26, 2025 at 00:00 UTC_
+_Last updated: October 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
