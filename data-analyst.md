@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. On-chain Data Analyst (12 months contract) at Binance
+### 1. Data Scientist at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-scientist-applaudo)
+
+---
+
+### 2. Palantir Foundry Engineer - Remote Work at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/palantir-foundry-engineer-remote-work-bairesdev)
+
+---
+
+### 3. Graduate Talent Scientist at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-talent-scientist-canonical)
+
+---
+
+### 4. On-chain Data Analyst (12 months contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Senior Analytics Manager at Raya
+### 5. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Payments Fraud Analyst at Chess
+### 6. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Azure Data Engineer at Applaudo
+### 7. Azure Data Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -51,7 +81,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -79,6 +109,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 26, 2025 at 00:00 UTC_
+_Last updated: October 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
