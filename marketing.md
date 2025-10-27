@@ -8,7 +8,59 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Events Manager at Canonical
+### 1. Head of Growth at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-growth-safetywing)
+
+---
+
+### 2. SEO Specialist / Manager at WP Media
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/seo-specialist-manager-wp-media)
+
+---
+
+### 3. Senior Internal Communications Manager at Coinbase
+
+💰 **Salary**: $201,365-$236,900 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-internal-communications-manager-coinbase)
+
+---
+
+### 4. Content marketing team manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/content-marketing-team-manager-canonical)
+
+---
+
+### 5. EMEA Marketing Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/emea-marketing-manager-canonical)
+
+---
+
+### 6. Events Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +70,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Growth Engineer at Canonical
+### 7. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +80,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Partner Marketing Director at Canonical
+### 8. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +90,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Product Manager, LATAM at Airbnb
+### 9. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +100,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Product Manager, LATAM at Airbnb
+### 10. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +110,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Global Community Manager at Binance
+### 11. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +120,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Director, International Content & Growth at Chess
+### 12. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +130,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. VP, Growth at beehiiv
+### 13. VP, Growth at beehiiv
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -93,7 +145,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -121,6 +173,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 26, 2025 at 00:00 UTC_
+_Last updated: October 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
