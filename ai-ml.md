@@ -8,7 +8,49 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Software Engineer - Industrial IoT at Canonical
+### 1. AI Growth Lead (AI Automation DRI) at Coinbase
+
+💰 **Salary**: $217,900 CAD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ai-growth-lead-coinbase)
+
+---
+
+### 2. Data Scientist at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-scientist-applaudo)
+
+---
+
+### 3. Graduate Talent Scientist at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-talent-scientist-canonical)
+
+---
+
+### 4. Distributed Systems Software Engineer, Python / Go at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/distributed-systems-software-engineer-python-go-canonical)
+
+---
+
+### 5. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +60,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior Product Manager, AI/ML at Chess
+### 6. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +70,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Director of AI/ML Engineering at Chess
+### 7. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -41,7 +83,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -69,6 +111,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 26, 2025 at 00:00 UTC_
+_Last updated: October 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
