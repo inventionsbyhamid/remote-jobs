@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Community Manager at Binance
+### 1. Content Marketing Manager - Social Media at Kit
+
+💰 **Salary**: $125,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/content-marketing-manager-social-media-kit)
+
+---
+
+### 2. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +33,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +61,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 27, 2025 at 00:00 UTC_
+_Last updated: October 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
