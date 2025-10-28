@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Growth at SafetyWing
+### 1. Sales Representative at SafetyWing
+
+💰 **Salary**: $24,000-$36,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-representative-safetywing)
+
+---
+
+### 2. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 3. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Partner Sales Director - IHV Alliances at Canonical
+### 4. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 5. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Chief Revenue Officer at Canonical
+### 6. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +70,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Individual Sales Representative (Mandarin Speaking) at Binance
+### 7. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +80,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Enterprise Account Executive at Halcyon
+### 8. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Solutions Architect, TOLA at Halcyon
+### 9. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -92,7 +104,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Enterprise Account Executive at Halcyon
+### 10. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Enterprise Sales Executive at CloudLinux
+### 11. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +126,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+### 12. Sales Director (Oil & Gas Industry) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -124,30 +136,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Sales Director (Retail Background) - Remote at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-bairesdev)
 
 ---
 
-### 13. Sales Director (Financial Services) - Remote at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-bairesdev)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -175,6 +167,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 27, 2025 at 00:00 UTC_
+_Last updated: October 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
