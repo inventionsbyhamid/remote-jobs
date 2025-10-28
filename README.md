@@ -18,30 +18,30 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 7 remote jobs available
-- 🏠 **[Backend](backend.md)** - 25 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 16 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 8 remote jobs available
+- 🏠 **[Backend](backend.md)** - 29 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 14 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 1 remote job available
 - 🏠 **[Customer Support](customer-support.md)** - 4 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 7 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 12 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 17 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 8 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 14 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 19 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
-- 🏠 **[Frontend](frontend.md)** - 2 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 1 remote job available
-- 🏠 **[HR](hr.md)** - 5 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 4 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 6 remote jobs available
+- 🏠 **[HR](hr.md)** - 6 remote jobs available
 - 🏠 **[Intern](intern.md)** - 1 remote job available
-- 🏠 **[Legal](legal.md)** - 2 remote jobs available
+- 🏠 **[Legal](legal.md)** - 3 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 13 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 5 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 12 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 6 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 14 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 4 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
 - 🏠 **[Research](research.md)** - 4 remote jobs available
-- 🏠 **[Sales](sales.md)** - 13 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 16 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 40 remote jobs available
+- 🏠 **[Sales](sales.md)** - 12 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 17 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 46 remote jobs available
 
 
 ---
@@ -50,209 +50,223 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Head of Growth at SafetyWing
+### 1. Senior Product Manager at Atticus
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-atticus)
+
+---
+
+### 2. Sales Representative at SafetyWing
+
+💰 **Salary**: $24,000-$36,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-representative-safetywing)
+
+---
+
+### 3. Contract Senior Web Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-web-engineer-fueled)
+
+---
+
+### 4. Senior Engineering Manager at Phantom
+
+💰 **Salary**: $200,000-$240,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-engineering-manager-pantom)
+
+---
+
+### 5. Platform Engineer - Database at Appwrite
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-database-appwrite)
+
+---
+
+### 6. Staff Full Stack Engineer (Wallet Platform) at Phantom
+
+💰 **Salary**: $200,000-$250,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-full-stack-engineer-pantom)
+
+---
+
+### 7. Senior Full Stack JavaScript Engineer at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-javascript-engineer-passion-io)
+
+---
+
+### 8. Recruiting Manager - Remote Work at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recruiting-manager-remote-work-bairesdev)
+
+---
+
+### 9. Backend Engineer, Growth & Engagement Team at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-growth-engagement-team-pantom)
+
+---
+
+### 10. Contract Senior Front-End Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-front-end-engineer-fueled)
+
+---
+
+### 11. Head of Product at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-product-pantom)
+
+---
+
+### 12. Content Marketing Manager - Social Media at Kit
+
+💰 **Salary**: $125,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/content-marketing-manager-social-media-kit)
+
+---
+
+### 13. Senior Fullstack Engineer at Atticus
+
+💰 **Salary**: $170,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-fullstack-engineer-atticus)
+
+---
+
+### 14. Staff KMS Security Engineer (Security) at Phantom
+
+💰 **Salary**: $250,000-$285,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-kms-security-engineer-pantom)
+
+---
+
+### 15. Head of Business Development at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-business-development-pantom)
+
+---
+
+### 16. Attorney at Atticus
+
+💰 **Salary**: $120,000-$150,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/attorney-atticus)
+
+---
+
+### 17. Data Scientist at Atticus
+
+💰 **Salary**: $150,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-scientist-atticus)
+
+---
+
+### 18. Senior Software Engineer, Full-Stack at Phantom
+
+💰 **Salary**: $180,000-$220,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-full-stack-pantom)
+
+---
+
+### 19. Senior Systems Engineer at Automattic
+
+💰 **Salary**: $120,000-$180,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-systems-engineer-automattic)
+
+---
+
+### 20. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-growth-safetywing)
-
----
-
-### 2. AI Growth Lead (AI Automation DRI) at Coinbase
-
-💰 **Salary**: $217,900 CAD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ai-growth-lead-coinbase)
-
----
-
-### 3. Data Scientist at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-scientist-applaudo)
-
----
-
-### 4. Palantir Foundry Engineer - Remote Work at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/palantir-foundry-engineer-remote-work-bairesdev)
-
----
-
-### 5. SEO Specialist / Manager at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/seo-specialist-manager-wp-media)
-
----
-
-### 6. Platform Engineer - Integrations at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-integrations-appwrite)
-
----
-
-### 7. Sales Director (B2B IT Services) - Remote Work: at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-work-bairesdev)
-
----
-
-### 8. Senior Site Reliability Engineer, Environment Automation at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-site-reliability-engineer-environment-automation-gitlab)
-
----
-
-### 9. Contract Senior Project Manager at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-project-manager-fueled)
-
----
-
-### 10. Senior Internal Communications Manager at Coinbase
-
-💰 **Salary**: $201,365-$236,900 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-internal-communications-manager-coinbase)
-
----
-
-### 11. Staff Software Engineer, Backend (Consumer) at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-backend-coinbase)
-
----
-
-### 12. Software Engineer - App Stores at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-app-stores-canonical)
-
----
-
-### 13. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/telco-cloud-engineer-americas-canonical)
-
----
-
-### 14. Graduate Talent Scientist at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-talent-scientist-canonical)
-
----
-
-### 15. Distributed Systems Software Engineer, Python / Go at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/distributed-systems-software-engineer-python-go-canonical)
-
----
-
-### 16. Content marketing team manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/content-marketing-team-manager-canonical)
-
----
-
-### 17. Partner Sales Director - IHV Alliances at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-sales-director-ihv-alliances-canonical)
-
----
-
-### 18. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/system-software-engineer-java-runtimes-tooling-and-ecosystem-canonical)
-
----
-
-### 19. EMEA Marketing Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/emea-marketing-manager-canonical)
-
----
-
-### 20. Senior Security Operations Engineer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-security-operations-engineer-canonical)
 
 ---
 
@@ -282,6 +296,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 27, 2025 at 00:00 UTC_
+_Last updated: October 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
