@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. AI Growth Lead (AI Automation DRI) at Coinbase
+### 1. Data Scientist at Atticus
+
+💰 **Salary**: $150,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-scientist-atticus)
+
+---
+
+### 2. AI Growth Lead (AI Automation DRI) at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Data Scientist at Applaudo
+### 3. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Graduate Talent Scientist at Canonical
+### 4. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Distributed Systems Software Engineer, Python / Go at Canonical
+### 5. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Software Engineer - Industrial IoT at Canonical
+### 6. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Senior Product Manager, AI/ML at Chess
+### 7. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Director of AI/ML Engineering at Chess
+### 8. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -83,7 +95,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -111,6 +123,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 27, 2025 at 00:00 UTC_
+_Last updated: October 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
