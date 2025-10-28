@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Growth at SafetyWing
+### 1. Head of Business Development at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-business-development-pantom)
+
+---
+
+### 2. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 3. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Partner Sales Director - IHV Alliances at Canonical
+### 4. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 5. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Chief Revenue Officer at Canonical
+### 6. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Partner Marketing Director at Canonical
+### 7. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Product Manager, LATAM at Airbnb
+### 8. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Product Manager, LATAM at Airbnb
+### 9. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Enterprise Account Executive at Halcyon
+### 10. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Solutions Architect, TOLA at Halcyon
+### 11. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Enterprise Account Executive at Halcyon
+### 12. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Enterprise Sales Executive at CloudLinux
+### 13. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+### 14. Sales Director (Oil & Gas Industry) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -144,42 +154,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Sales Director (Retail Background) - Remote at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-bairesdev)
 
 ---
 
-### 15. VP, Growth at beehiiv
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-growth-beehiiv)
-
----
-
-### 16. Sales Director (Financial Services) - Remote at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-bairesdev)
-
----
-
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -207,6 +185,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 27, 2025 at 00:00 UTC_
+_Last updated: October 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
