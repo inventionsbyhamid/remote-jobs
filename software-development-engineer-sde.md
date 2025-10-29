@@ -8,7 +8,57 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Contract Senior Web Engineer at Fueled
+### 1. Product Security Engineer at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-security-engineer-alpaca)
+
+---
+
+### 2. Android Developer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/android-developer-applaudo)
+
+---
+
+### 3. Senior Full Stack JavaScript Engineer at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-javascript-engineer-remote-passion-io)
+
+---
+
+### 4. Frontend Engineer, Growth & Engagement Team at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/frontend-engineer-growth-engagement-team-pantom)
+
+---
+
+### 5. Dream Job at Appwrite
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dream-job-appwrite)
+
+---
+
+### 6. Contract Senior Web Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +68,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Staff Full Stack Engineer (Wallet Platform) at Phantom
+### 7. Staff Full Stack Engineer (Wallet Platform) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -30,7 +80,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Senior Full Stack JavaScript Engineer at Passion.io
+### 8. Senior Full Stack JavaScript Engineer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +90,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Backend Engineer, Growth & Engagement Team at Phantom
+### 9. Backend Engineer, Growth & Engagement Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +100,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Senior Fullstack Engineer at Atticus
+### 10. Senior Fullstack Engineer at Atticus
 
 💰 **Salary**: $170,000-$200,000 USD
 
@@ -62,7 +112,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Senior Software Engineer, Full-Stack at Phantom
+### 11. Senior Software Engineer, Full-Stack at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -74,7 +124,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. AI Growth Lead (AI Automation DRI) at Coinbase
+### 12. AI Growth Lead (AI Automation DRI) at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -86,7 +136,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Palantir Foundry Engineer - Remote Work at BairesDev
+### 13. Palantir Foundry Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +146,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 14. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +156,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 10. Staff Software Engineer, Backend (Consumer) at Coinbase
+### 15. Staff Software Engineer, Backend (Consumer) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -118,7 +168,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Software Engineer - App Stores at Canonical
+### 16. Software Engineer - App Stores at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +178,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 12. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
+### 17. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +188,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Distributed Systems Software Engineer, Python / Go at Canonical
+### 18. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +198,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
+### 19. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +208,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 15. Rust Engineering Lead - Linux and Open Source at Canonical
+### 20. Rust Engineering Lead - Linux and Open Source at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +218,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Software Maintenance Engineer at Canonical
+### 21. Software Maintenance Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +228,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 17. Software Engineer - Industrial IoT at Canonical
+### 22. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +238,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 18. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 23. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +248,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 19. Web Developer at Canonical
+### 24. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +258,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 20. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
+### 25. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -218,7 +268,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 21. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
+### 26. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -228,7 +278,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 22. Growth Engineer at Canonical
+### 27. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -238,7 +288,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 23. Java Architect- Compliance at Binance
+### 28. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -248,7 +298,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 24. Senior Java Developer - Web3 Earn at Binance
+### 29. Senior Java Developer - Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -258,7 +308,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 25. Java Architect- Compliance at Binance
+### 30. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -268,7 +318,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 26. Software Engineer - Blockchain Security at Binance
+### 31. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -278,7 +328,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 27. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+### 32. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -288,7 +338,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 28. Developer Experience Engineer at Chess
+### 33. Developer Experience Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -298,7 +348,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 29. Senior Frontend Engineer at Chess
+### 34. Senior Frontend Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -308,7 +358,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 30. Backend Engineer, Data Platform & APIs at Halcyon
+### 35. Backend Engineer, Data Platform & APIs at Halcyon
 
 💰 **Salary**: $120,000-$170,000 USD
 
@@ -320,7 +370,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 31. Python Engineer at Chess
+### 36. Python Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -330,7 +380,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 32. Staff Engineer, Endpoint Agent at Halcyon
+### 37. Staff Engineer, Endpoint Agent at Halcyon
 
 💰 **Salary**: $220,000-$275,000 USD
 
@@ -342,7 +392,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 33. VP of Product Engineering at Chess
+### 38. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -352,7 +402,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 34. Cloud Test Engineer at Halcyon
+### 39. Cloud Test Engineer at Halcyon
 
 💰 **Salary**: $135,000-$170,000 USD
 
@@ -364,7 +414,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 35. Senior Python/Go Developer at CloudLinux
+### 40. Senior Python/Go Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -374,7 +424,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 36. Infrastructure & Development Engineer at CloudLinux
+### 41. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -384,7 +434,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 37. Infrastructure & Development Engineer at CloudLinux
+### 42. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -394,7 +444,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 38. Senior Go/Python Developer at CloudLinux
+### 43. Senior Go/Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -404,7 +454,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 39. Senior Python Developer at CloudLinux
+### 44. Senior Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -414,7 +464,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 40. C Developer at CloudLinux
+### 45. C Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -424,7 +474,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 41. SDET Automation Engineer at CloudLinux
+### 46. SDET Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -434,7 +484,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 42. Kernel Developer at CloudLinux
+### 47. Kernel Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -444,7 +494,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 43. Senior Product Engineer (Backend) at Buffer
+### 48. Senior Product Engineer (Backend) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -456,7 +506,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 44. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
+### 49. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -468,7 +518,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 45. Contract Senior Web Services Engineer at Fueled
+### 50. Contract Senior Web Services Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -478,22 +528,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 46. Engineering Director, Windows at DuckDuckGo
-
-💰 **Salary**: $243,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-windows-duckduckgo)
 
 ---
 
-
----
-
-**Total Jobs**: 46 positions available
+**Total Jobs**: 50 positions available
 
 ---
 
@@ -521,6 +559,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 28, 2025 at 00:00 UTC_
+_Last updated: October 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
