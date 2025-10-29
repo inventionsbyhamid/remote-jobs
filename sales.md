@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sales Representative at SafetyWing
+### 1. Independent Agent Sales Lead at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/independent-agent-sales-lead-pantom)
+
+---
+
+### 2. Sales Representative at Phantom
+
+💰 **Salary**: $24,000-$36,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-representative-pantom)
+
+---
+
+### 3. Sales Representative at SafetyWing
 
 💰 **Salary**: $24,000-$36,000 USD
 
@@ -20,7 +42,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Head of Growth at SafetyWing
+### 4. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 5. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Partner Sales Director - IHV Alliances at Canonical
+### 6. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 7. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Chief Revenue Officer at Canonical
+### 8. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -70,37 +92,13 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Individual Sales Representative (Mandarin Speaking) at Binance
+### 9. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/individual-sales-representative-binance)
-
----
-
-### 8. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
-
----
-
-### 9. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
 
 ---
 
@@ -112,11 +110,35 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 📍 **Category**: Sales
 
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
+
+---
+
+### 11. Solutions Architect, TOLA at Halcyon
+
+💰 **Salary**: $160,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
+
+---
+
+### 12. Enterprise Account Executive at Halcyon
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
 
 ---
 
-### 11. Enterprise Sales Executive at CloudLinux
+### 13. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +148,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+### 14. Sales Director (Oil & Gas Industry) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +161,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -167,6 +189,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 28, 2025 at 00:00 UTC_
+_Last updated: October 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
