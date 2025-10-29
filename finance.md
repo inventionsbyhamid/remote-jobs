@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Payments Fraud Analyst at Chess
+### 1. Strategic Finance Lead at Atticus
+
+💰 **Salary**: $140,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/strategic-finance-lead-atticus)
+
+---
+
+### 2. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +33,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +61,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 28, 2025 at 00:00 UTC_
+_Last updated: October 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
