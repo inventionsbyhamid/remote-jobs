@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Contract Senior Front-End Engineer at Fueled
+### 1. Android Developer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/android-developer-applaudo)
+
+---
+
+### 2. Frontend Engineer, Growth & Engagement Team at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/frontend-engineer-growth-engagement-team-pantom)
+
+---
+
+### 3. Contract Senior Front-End Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Fullstack Engineer at Atticus
+### 4. Senior Fullstack Engineer at Atticus
 
 💰 **Salary**: $170,000-$200,000 USD
 
@@ -30,7 +50,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Web Developer at Canonical
+### 5. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +60,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Senior Frontend Engineer at Chess
+### 6. Senior Frontend Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +73,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -81,6 +101,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 28, 2025 at 00:00 UTC_
+_Last updated: October 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
