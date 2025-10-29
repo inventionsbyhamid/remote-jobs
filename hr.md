@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Recruiting Manager - Remote Work at BairesDev
+### 1. Recruiter at Atticus
+
+💰 **Salary**: $90,000-$140,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recruiter-atticus)
+
+---
+
+### 2. Recruiting Manager - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Senior Internal Communications Manager at Coinbase
+### 3. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Graduate Talent Scientist at Canonical
+### 4. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Staffing Manager at BairesDev
+### 5. Staffing Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -50,30 +62,10 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Talent Acquisition Specialist at Toggl
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-acquisition-specialist-toggl)
 
 ---
 
-### 6. Talent Sourcing Manager at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-sourcing-manager-bairesdev)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -101,6 +93,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 28, 2025 at 00:00 UTC_
+_Last updated: October 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
