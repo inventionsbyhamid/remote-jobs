@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Strategic Finance Lead at Atticus
+### 1. Crypto Operations Associate at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/crypto-operations-associate-alpaca)
+
+---
+
+### 2. Finance Manager at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/finance-manager-passion-io)
+
+---
+
+### 3. Strategic Finance Lead at Atticus
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -20,7 +40,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Payments Fraud Analyst at Chess
+### 4. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +53,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -61,6 +81,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 29, 2025 at 00:00 UTC_
+_Last updated: October 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
