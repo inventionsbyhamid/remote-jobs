@@ -8,7 +8,49 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Enterprise Customer Success Manager (French speaker) at Canonical
+### 1. Client Experience Associate at Atticus
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/client-experience-associate-atticus)
+
+---
+
+### 2. Crypto Operations Associate at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/crypto-operations-associate-alpaca)
+
+---
+
+### 3. Client Associate at Atticus
+
+💰 **Salary**: $70,000-$85,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/client-associate-atticus)
+
+---
+
+### 4. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-customer-support-agent-pantom)
+
+---
+
+### 5. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Graduate Customer Success Manager at Canonical
+### 6. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Premium Support Senior Specialist (Spanish) at Airbnb
+### 7. Premium Support Senior Specialist (Spanish) at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +80,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Dispute Analyst - P2P at Binance
+### 8. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -51,7 +93,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -79,6 +121,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 29, 2025 at 00:00 UTC_
+_Last updated: October 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
