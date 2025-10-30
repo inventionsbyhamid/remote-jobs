@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Attorney at Atticus
+### 1. Counsel / Senior Counsel at Atticus
+
+💰 **Salary**: $140,000-$175,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/counsel-senior-counsel-atticus)
+
+---
+
+### 2. Client Associate at Atticus
+
+💰 **Salary**: $70,000-$85,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/client-associate-atticus)
+
+---
+
+### 3. Attorney at Atticus
 
 💰 **Salary**: $120,000-$150,000 USD
 
@@ -20,7 +44,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Global Regulatory Legal Lead at Binance
+### 4. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +54,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Corporate Counsel at Binance
+### 5. Corporate Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -43,7 +67,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -71,6 +95,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 29, 2025 at 00:00 UTC_
+_Last updated: October 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
