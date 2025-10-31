@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Crypto Operations Associate at Alpaca
+### 1. Lead Product Manager - Brokerage at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-product-manager-brokerage-alpaca)
+
+---
+
+### 2. Crypto Operations Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Finance Manager at Passion.io
+### 3. Finance Manager at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Strategic Finance Lead at Atticus
+### 4. Strategic Finance Lead at Atticus
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Payments Fraud Analyst at Chess
+### 5. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +63,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -81,6 +91,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 30, 2025 at 00:00 UTC_
+_Last updated: October 31, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
