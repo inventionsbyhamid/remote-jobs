@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Software Engineer, Frontend at Phantom
+### 1. Software Engineer, Frontend (Consumer - Trading) at Coinbase
+
+💰 **Salary**: $152,405-$179,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-frontend-coinbase)
+
+---
+
+### 2. Lead JavaScript Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-javascript-engineer-fueled)
+
+---
+
+### 3. Senior Software Engineer, Frontend at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -20,7 +42,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Software Engineer II at Kit
+### 4. Senior Software Engineer II at Kit
 
 💰 **Salary**: $181,000 USD
 
@@ -32,7 +54,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Staff Frontend Engineer (Platform) at Phantom
+### 5. Staff Frontend Engineer (Platform) at Phantom
 
 💰 **Salary**: $200,000-$270,000 USD
 
@@ -44,7 +66,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Android Developer at Applaudo
+### 6. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +76,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Frontend Engineer, Growth & Engagement Team at Phantom
+### 7. Frontend Engineer, Growth & Engagement Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +86,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Contract Senior Front-End Engineer at Fueled
+### 8. Contract Senior Front-End Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +96,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 7. Senior Fullstack Engineer at Atticus
+### 9. Senior Fullstack Engineer at Atticus
 
 💰 **Salary**: $170,000-$200,000 USD
 
@@ -86,7 +108,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 8. Web Developer at Canonical
+### 10. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +118,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 9. Senior Frontend Engineer at Chess
+### 11. Senior Frontend Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -109,7 +131,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -137,6 +159,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 30, 2025 at 00:00 UTC_
+_Last updated: October 31, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
