@@ -21,28 +21,28 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 8 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 1 remote job available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 32 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 16 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 4 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 8 remote jobs available
+- 🏠 **[Backend](backend.md)** - 36 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 17 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 6 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 9 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 8 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 15 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 19 remote jobs available
-- 🏠 **[Finance](finance.md)** - 4 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 9 remote jobs available
+- 🏠 **[Finance](finance.md)** - 5 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 11 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 11 remote jobs available
-- 🏠 **[HR](hr.md)** - 4 remote jobs available
+- 🏠 **[HR](hr.md)** - 5 remote jobs available
 - 🏠 **[Legal](legal.md)** - 5 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 19 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 10 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 17 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 21 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 11 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 18 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
-- 🏠 **[Research](research.md)** - 4 remote jobs available
-- 🏠 **[Sales](sales.md)** - 14 remote jobs available
+- 🏠 **[Research](research.md)** - 5 remote jobs available
+- 🏠 **[Sales](sales.md)** - 16 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 19 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 57 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 3 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 63 remote jobs available
 
 
 ---
@@ -51,7 +51,151 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Growth Lead (Paid Social) at Atticus
+### 1. Software Engineer, Frontend (Consumer - Trading) at Coinbase
+
+💰 **Salary**: $152,405-$179,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-frontend-coinbase)
+
+---
+
+### 2. Lead User Researcher at Atticus
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-user-researcher-atticus)
+
+---
+
+### 3. Sales Openers Manager at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-openers-manager-pantom)
+
+---
+
+### 4. Staff Backend Engineer (Social) at Phantom
+
+💰 **Salary**: $200,000-$250,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-backend-engineer-pantom)
+
+---
+
+### 5. Senior Software Engineer - Identity at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-identity-alpaca)
+
+---
+
+### 6. Growth Lead - AIOSEO at Awesome Motive
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-lead-aioseo-awesome-motive)
+
+---
+
+### 7. Senior Software Engineer – Advisory Suite at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-advisory-suite-alpaca)
+
+---
+
+### 8. Lead Product Manager - Brokerage at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-product-manager-brokerage-alpaca)
+
+---
+
+### 9. Community Manager at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/community-manager-passion-io)
+
+---
+
+### 10. Talent Operations Manager at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-operations-manager-bairesdev)
+
+---
+
+### 11. Backend Engineer, Blockchain Data Team at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-blockchain-data-team-pantom)
+
+---
+
+### 12. Lead JavaScript Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-javascript-engineer-fueled)
+
+---
+
+### 13. Customer Support Specialist - Contractor at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/customer-support-specialist-contractor-pantom)
+
+---
+
+### 14. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/designing-and-launching-a-global-commission-only-independent-agent-sales-organization-for-remote-health-safetywing)
+
+---
+
+### 15. Growth Lead (Paid Social) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -63,7 +207,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Client Experience Associate at Atticus
+### 16. Client Experience Associate at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +217,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Director of Product Design at Phantom
+### 17. Director of Product Design at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -85,7 +229,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Software Engineer, Frontend at Phantom
+### 18. Senior Software Engineer, Frontend at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -97,7 +241,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Counsel / Senior Counsel at Atticus
+### 19. Counsel / Senior Counsel at Atticus
 
 💰 **Salary**: $140,000-$175,000 USD
 
@@ -109,167 +253,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Crypto Operations Associate at Alpaca
+### 20. Crypto Operations Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Finance
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/crypto-operations-associate-alpaca)
-
----
-
-### 7. Client Associate at Atticus
-
-💰 **Salary**: $70,000-$85,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/client-associate-atticus)
-
----
-
-### 8. Group Product Manager at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/group-product-manager-atticus)
-
----
-
-### 9. Solana Program Engineer at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solana-program-engineer-solana)
-
----
-
-### 10. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-customer-support-agent-pantom)
-
----
-
-### 11. Customer Success Manager at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/customer-success-manager-passion-io)
-
----
-
-### 12. Senior Software Engineer II at Kit
-
-💰 **Salary**: $181,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-ii-kit)
-
----
-
-### 13. Staff Software Engineer, Backend at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-backend-pantom)
-
----
-
-### 14. Senior Rust Engineer at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-rust-engineer-pantom)
-
----
-
-### 15. Finance Manager at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/finance-manager-passion-io)
-
----
-
-### 16. Staff Product Security Engineer (Security) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-product-security-engineer-pantom)
-
----
-
-### 17. Staff Frontend Engineer (Platform) at Phantom
-
-💰 **Salary**: $200,000-$270,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-frontend-engineer-pantom)
-
----
-
-### 18. Senior Software Engineer, Payments at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-payments-solana)
-
----
-
-### 19. Product Designer at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-atticus)
-
----
-
-### 20. Growth Lead (Head of SEM) at Atticus
-
-💰 **Salary**: $130,000-$155,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-lead-atticus)
 
 ---
 
@@ -299,6 +289,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 30, 2025 at 00:00 UTC_
+_Last updated: October 31, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
