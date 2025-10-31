@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Client Experience Associate at Atticus
+### 1. Customer Support Specialist - Contractor at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/customer-support-specialist-contractor-pantom)
+
+---
+
+### 2. Client Experience Associate at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Crypto Operations Associate at Alpaca
+### 3. Crypto Operations Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Client Associate at Atticus
+### 4. Client Associate at Atticus
 
 💰 **Salary**: $70,000-$85,000 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
+### 5. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Enterprise Customer Success Manager (French speaker) at Canonical
+### 6. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Graduate Customer Success Manager at Canonical
+### 7. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Premium Support Senior Specialist (Spanish) at Airbnb
+### 8. Premium Support Senior Specialist (Spanish) at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Dispute Analyst - P2P at Binance
+### 9. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -93,7 +103,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -121,6 +131,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 30, 2025 at 00:00 UTC_
+_Last updated: October 31, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
