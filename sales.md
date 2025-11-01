@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sales Openers Manager at Phantom
+### 1. Business Development Representative at Automattic
+
+💰 **Salary**: $50,000-$70,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-development-representative-automattic)
+
+---
+
+### 2. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 3. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Independent Agent Sales Lead at Phantom
+### 4. Independent Agent Sales Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Sales Representative at Phantom
+### 5. Sales Representative at Phantom
 
 💰 **Salary**: $24,000-$36,000 USD
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Sales Representative at SafetyWing
+### 6. Sales Representative at SafetyWing
 
 💰 **Salary**: $24,000-$36,000 USD
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Head of Growth at SafetyWing
+### 7. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 8. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Partner Sales Director - IHV Alliances at Canonical
+### 9. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +104,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 10. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +114,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Chief Revenue Officer at Canonical
+### 11. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +124,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Individual Sales Representative (Mandarin Speaking) at Binance
+### 12. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +134,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Enterprise Account Executive at Halcyon
+### 13. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -134,7 +146,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Solutions Architect, TOLA at Halcyon
+### 14. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -146,7 +158,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Enterprise Account Executive at Halcyon
+### 15. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -158,7 +170,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Enterprise Sales Executive at CloudLinux
+### 16. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +180,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+### 17. Sales Director (Oil & Gas Industry) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -181,7 +193,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 16 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -209,6 +221,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 31, 2025 at 00:00 UTC_
+_Last updated: November 01, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
