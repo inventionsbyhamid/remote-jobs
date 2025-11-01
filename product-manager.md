@@ -8,7 +8,41 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Lead Product Manager - Brokerage at Alpaca
+### 1. Product Manager - BackWup at WP Media
+
+💰 **Salary**: $120,000-$190,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-backwup-wp-media)
+
+---
+
+### 2. Senior Product Manager, International Derivatives at Coinbase
+
+💰 **Salary**: $207,485-$244,100 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-international-derivatives-coinbase)
+
+---
+
+### 3. Product Manager at Atticus
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-atticus)
+
+---
+
+### 4. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Growth Lead (Paid Social) at Atticus
+### 5. Growth Lead (Paid Social) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -30,7 +64,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Group Product Manager at Atticus
+### 6. Group Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +74,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Growth Lead (Head of SEM) at Atticus
+### 7. Growth Lead (Head of SEM) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -52,7 +86,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Senior Product Manager at Atticus
+### 8. Senior Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +96,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Head of Product at Phantom
+### 9. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +106,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Junior Product Manager at Canonical
+### 10. Junior Product Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +116,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Product Manager - Desktop at Canonical
+### 11. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +126,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Product Manager, LATAM at Airbnb
+### 12. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +136,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 10. Product Manager, LATAM at Airbnb
+### 13. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +146,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 11. Product Operations (Structured Finance) at Binance
+### 14. Product Operations (Structured Finance) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +156,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 12. Senior Product Manager at Binance
+### 15. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +166,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 13. Senior Product Manager, AI/ML at Chess
+### 16. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +176,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 14. Technical Product Manager - Ads and Compliance at Chess
+### 17. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +186,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 15. VP of Product Engineering at Chess
+### 18. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +196,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 16. Director, International Content & Growth at Chess
+### 19. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +206,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 17. Developer Experience (DX) Enablement Manager at CloudLinux
+### 20. Developer Experience (DX) Enablement Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +216,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 18. Head of Product at Toggl
+### 21. Head of Product at Toggl
 
 🌍 **Location**: Worldwide
 
@@ -195,7 +229,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 18 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -223,6 +257,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 31, 2025 at 00:00 UTC_
+_Last updated: November 01, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
