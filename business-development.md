@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 1. Business Development Representative at Automattic
+
+💰 **Salary**: $50,000-$70,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-development-representative-automattic)
+
+---
+
+### 2. Business Operations Lead at Atticus
+
+💰 **Salary**: $130,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-operations-lead-atticus)
+
+---
+
+### 3. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +42,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Head of Account Management at Atticus
+### 4. Head of Account Management at Atticus
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -30,7 +54,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Independent Agent Sales Lead at Phantom
+### 5. Independent Agent Sales Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +64,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Head of Business Development at Phantom
+### 6. Head of Business Development at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +74,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Head of Growth at SafetyWing
+### 7. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +84,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 8. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +94,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Partner Sales Director - IHV Alliances at Canonical
+### 9. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +104,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 10. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +114,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Chief Revenue Officer at Canonical
+### 11. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +124,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Partner Marketing Director at Canonical
+### 12. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +134,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Product Manager, LATAM at Airbnb
+### 13. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -120,37 +144,13 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Product Manager, LATAM at Airbnb
+### 14. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
-
----
-
-### 13. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
-
----
-
-### 14. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
 
 ---
 
@@ -162,11 +162,35 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 📍 **Category**: Business Development
 
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
+
+---
+
+### 16. Solutions Architect, TOLA at Halcyon
+
+💰 **Salary**: $160,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
+
+---
+
+### 17. Enterprise Account Executive at Halcyon
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
 
 ---
 
-### 16. Enterprise Sales Executive at CloudLinux
+### 18. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +200,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 17. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+### 19. Sales Director (Oil & Gas Industry) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -189,7 +213,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 17 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -217,6 +241,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: October 31, 2025 at 00:00 UTC_
+_Last updated: November 01, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
