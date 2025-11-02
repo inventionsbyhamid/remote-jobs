@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Data Scientist at Automattic
+### 1. Scheduling Optimization Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/scheduling-optimization-engineer-applaudo)
+
+---
+
+### 2. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Staff Analytics Engineer at Coinbase
+### 3. Staff Analytics Engineer at Coinbase
 
 💰 **Salary**: $207,000-$244,100 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Data Scientist at Atticus
+### 4. Data Scientist at Atticus
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -44,7 +54,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Data Scientist at Applaudo
+### 5. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +64,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Palantir Foundry Engineer - Remote Work at BairesDev
+### 6. Palantir Foundry Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. Graduate Talent Scientist at Canonical
+### 7. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. On-chain Data Analyst (12 months contract) at Binance
+### 8. On-chain Data Analyst (12 months contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Senior Analytics Manager at Raya
+### 9. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -94,23 +104,13 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 9. Payments Fraud Analyst at Chess
+### 10. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Data Analyst
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/payments-fraud-analyst-chess)
-
----
-
-### 10. Azure Data Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/azure-data-engineer-applaudo)
 
 ---
 
@@ -145,6 +145,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 01, 2025 at 00:00 UTC_
+_Last updated: November 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
