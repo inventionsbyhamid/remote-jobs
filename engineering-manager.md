@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
+### 1. Engineering Manager, CorpSec at Coinbase
+
+💰 **Salary**: $218,025-$256,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-corpsec-coinbase)
+
+---
+
+### 2. Engineering Manager (Platform) at Coinbase
+
+💰 **Salary**: $218,025-$256,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-full-time-coinbase)
+
+---
+
+### 3. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -20,7 +44,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Director of Product Design at Phantom
+### 4. Director of Product Design at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -32,7 +56,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Senior Engineering Manager at Phantom
+### 5. Senior Engineering Manager at Phantom
 
 💰 **Salary**: $200,000-$240,000 USD
 
@@ -44,7 +68,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Head of Product at Phantom
+### 6. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +78,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Senior Engineering Manager- Ubuntu at Canonical
+### 7. Senior Engineering Manager- Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +88,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Billing System Engineering Manager at Canonical
+### 8. Billing System Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +98,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Rust Engineering Lead - Linux and Open Source at Canonical
+### 9. Rust Engineering Lead - Linux and Open Source at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +108,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Engineering Manager - Security Standards and Hardening at Canonical
+### 10. Engineering Manager - Security Standards and Hardening at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +118,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Engineering Manager for IAM (Identity and Access Management) at Canonical
+### 11. Engineering Manager for IAM (Identity and Access Management) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +128,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Senior Analytics Manager at Raya
+### 12. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +138,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Director of AI/ML Engineering at Chess
+### 13. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +148,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. VP of Product Engineering at Chess
+### 14. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +158,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Infrastructure & Development Engineer at CloudLinux
+### 15. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +168,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 14. Security Researcher - Team Lead at CloudLinux
+### 16. Security Researcher - Team Lead at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +178,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 15. Developer Experience (DX) Enablement Manager at CloudLinux
+### 17. Developer Experience (DX) Enablement Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +188,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 16. Scrum Master at CloudLinux
+### 18. Scrum Master at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +198,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 17. Chief Security Officer (CSO) at CloudLinux
+### 19. Chief Security Officer (CSO) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -184,20 +208,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 18. Head of Product at Toggl
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-product-toggl)
 
 ---
 
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -225,6 +239,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 01, 2025 at 00:00 UTC_
+_Last updated: November 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
