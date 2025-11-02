@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Staff Product Security Engineer (Security) at Phantom
+### 1. Engineering Manager, CorpSec at Coinbase
+
+💰 **Salary**: $218,025-$256,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-corpsec-coinbase)
+
+---
+
+### 2. Staff Product Security Engineer (Security) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Product Security Engineer at Alpaca
+### 3. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Staff KMS Security Engineer (Security) at Phantom
+### 4. Staff KMS Security Engineer (Security) at Phantom
 
 💰 **Salary**: $250,000-$285,000 USD
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Senior Security Operations Engineer at Canonical
+### 5. Senior Security Operations Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Software Engineer - Blockchain Security at Binance
+### 6. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Senior Security Engineer - Blue Team at Raya
+### 7. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Solutions Architect, TOLA at Halcyon
+### 8. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Senior Product Security Engineer at Halcyon
+### 9. Senior Product Security Engineer at Halcyon
 
 💰 **Salary**: $175,000-$235,000 USD
 
@@ -96,7 +108,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Staff Engineer, Endpoint Agent at Halcyon
+### 10. Staff Engineer, Endpoint Agent at Halcyon
 
 💰 **Salary**: $220,000-$275,000 USD
 
@@ -108,7 +120,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Recovery Consulting Specialist at Halcyon
+### 11. Recovery Consulting Specialist at Halcyon
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -120,7 +132,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 11. Backend Developer - Patchman Team at CloudLinux
+### 12. Backend Developer - Patchman Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +142,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 12. Backend / Platform Engineer at CloudLinux
+### 13. Backend / Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +152,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 13. Malware Intelligence Analyst at CloudLinux
+### 14. Malware Intelligence Analyst at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +162,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 14. Senior Go/Python Developer at CloudLinux
+### 15. Senior Go/Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +172,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 15. Mail Systems Engineer at CloudLinux
+### 16. Mail Systems Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +182,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 16. Security Researcher - Team Lead at CloudLinux
+### 17. Security Researcher - Team Lead at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +192,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 17. Senior Python Developer at CloudLinux
+### 18. Senior Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +202,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 18. C Developer at CloudLinux
+### 19. C Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -200,7 +212,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 19. Chief Security Officer (CSO) at CloudLinux
+### 20. Chief Security Officer (CSO) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -213,7 +225,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 19 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -241,6 +253,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 01, 2025 at 00:00 UTC_
+_Last updated: November 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
