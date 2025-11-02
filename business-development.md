@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Business Development Representative at Automattic
+### 1. Commercial Account Executive (CAE) at Dandy
+
+💰 **Salary**: $170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/commercial-account-executive-dandy)
+
+---
+
+### 2. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Business Operations Lead at Atticus
+### 3. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 4. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Head of Account Management at Atticus
+### 5. Head of Account Management at Atticus
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -54,7 +66,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Independent Agent Sales Lead at Phantom
+### 6. Independent Agent Sales Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +76,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Head of Business Development at Phantom
+### 7. Head of Business Development at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +86,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Head of Growth at SafetyWing
+### 8. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 9. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +106,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Partner Sales Director - IHV Alliances at Canonical
+### 10. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 11. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +126,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Chief Revenue Officer at Canonical
+### 12. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Partner Marketing Director at Canonical
+### 13. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +146,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Product Manager, LATAM at Airbnb
+### 14. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +156,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Product Manager, LATAM at Airbnb
+### 15. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +166,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 15. Enterprise Account Executive at Halcyon
+### 16. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -166,7 +178,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 16. Solutions Architect, TOLA at Halcyon
+### 17. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -178,7 +190,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 17. Enterprise Account Executive at Halcyon
+### 18. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -190,23 +202,13 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 18. Enterprise Sales Executive at CloudLinux
+### 19. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-sales-executive-cloudlinux)
-
----
-
-### 19. Sales Director (Oil & Gas Industry) - Remote at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-full-time-bairesdev)
 
 ---
 
@@ -241,6 +243,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 01, 2025 at 00:00 UTC_
+_Last updated: November 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
