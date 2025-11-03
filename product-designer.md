@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Dental CAD Prep Designer at Dandy
+### 1. Dental CAD Injection Mold Designer (Blender) at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dental-cad-injection-mold-designer-dandy)
+
+---
+
+### 2. Partial Denture Mold Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partial-denture-mold-designer-dandy)
+
+---
+
+### 3. Thermoform Model Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/thermoform-model-designer-dandy)
+
+---
+
+### 4. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Senior Product Designer at Atticus
+### 5. Senior Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Lead User Researcher at Atticus
+### 6. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Director of Product Design at Phantom
+### 7. Director of Product Design at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Product Designer at Atticus
+### 8. Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +90,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Director of Brand Creative at Phantom
+### 9. Director of Brand Creative at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -72,7 +102,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. Staff Product Designer at Phantom
+### 10. Staff Product Designer at Phantom
 
 💰 **Salary**: $215,000-$250,000 USD
 
@@ -84,7 +114,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. Head of Product at Phantom
+### 11. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +124,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 9. UX Designer - Design systems at Canonical
+### 12. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +134,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 10. Product Designer Lead - UI/UX at Binance
+### 13. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +144,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 11. Product Designer at Binance
+### 14. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +154,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 12. Product Designer at Binance
+### 15. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +164,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 13. ChessKid Product Designer, Growth at Chess
+### 16. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -147,7 +177,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -175,6 +205,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 02, 2025 at 00:00 UTC_
+_Last updated: November 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
