@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Commercial Account Executive (CAE) at Dandy
+### 1. Sales Enablement Manager at Dandy
+
+💰 **Salary**: $124,100-$146,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-enablement-manager-dandy)
+
+---
+
+### 2. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Business Development Representative at Automattic
+### 3. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Sales Openers Manager at Phantom
+### 4. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 5. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Independent Agent Sales Lead at Phantom
+### 6. Independent Agent Sales Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Sales Representative at Phantom
+### 7. Sales Representative at Phantom
 
 💰 **Salary**: $24,000-$36,000 USD
 
@@ -74,7 +86,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Sales Representative at SafetyWing
+### 8. Sales Representative at SafetyWing
 
 💰 **Salary**: $24,000-$36,000 USD
 
@@ -86,7 +98,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Head of Growth at SafetyWing
+### 9. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +108,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 10. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +118,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Partner Sales Director - IHV Alliances at Canonical
+### 11. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +128,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 12. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +138,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Chief Revenue Officer at Canonical
+### 13. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +148,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Individual Sales Representative (Mandarin Speaking) at Binance
+### 14. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +158,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Enterprise Account Executive at Halcyon
+### 15. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -158,7 +170,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Solutions Architect, TOLA at Halcyon
+### 16. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -170,7 +182,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Enterprise Account Executive at Halcyon
+### 17. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -182,7 +194,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Enterprise Sales Executive at CloudLinux
+### 18. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -195,7 +207,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 17 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -223,6 +235,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 02, 2025 at 00:00 UTC_
+_Last updated: November 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
