@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Commercial Account Executive (CAE) at Dandy
+### 1. Sales Enablement Manager at Dandy
+
+💰 **Salary**: $124,100-$146,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-enablement-manager-dandy)
+
+---
+
+### 2. Global Director of Operations at Dandy
+
+💰 **Salary**: $177,600-$222,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-director-of-operations-dandy)
+
+---
+
+### 3. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -20,7 +44,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Business Development Representative at Automattic
+### 4. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -32,7 +56,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Business Operations Lead at Atticus
+### 5. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -44,7 +68,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 6. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +78,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Head of Account Management at Atticus
+### 7. Head of Account Management at Atticus
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -66,7 +90,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Independent Agent Sales Lead at Phantom
+### 8. Independent Agent Sales Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -76,7 +100,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Head of Business Development at Phantom
+### 9. Head of Business Development at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +110,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Head of Growth at SafetyWing
+### 10. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +120,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 11. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +130,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Partner Sales Director - IHV Alliances at Canonical
+### 12. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +140,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 13. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +150,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Chief Revenue Officer at Canonical
+### 14. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +160,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Partner Marketing Director at Canonical
+### 15. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +170,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Product Manager, LATAM at Airbnb
+### 16. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -156,37 +180,13 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 15. Product Manager, LATAM at Airbnb
+### 17. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Business Development
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
-
----
-
-### 16. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
-
----
-
-### 17. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
 
 ---
 
@@ -198,11 +198,35 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 📍 **Category**: Business Development
 
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
+
+---
+
+### 19. Solutions Architect, TOLA at Halcyon
+
+💰 **Salary**: $160,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
+
+---
+
+### 20. Enterprise Account Executive at Halcyon
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
 
 ---
 
-### 19. Enterprise Sales Executive at CloudLinux
+### 21. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -215,7 +239,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 19 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -243,6 +267,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 02, 2025 at 00:00 UTC_
+_Last updated: November 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
