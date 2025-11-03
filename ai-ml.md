@@ -8,7 +8,41 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Scheduling Optimization Engineer at Applaudo
+### 1. Software Engineer, CAD at Dandy
+
+💰 **Salary**: $201,500-$237,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-cad-dandy)
+
+---
+
+### 2. Staff Machine Learning & Computer Vision Engineer at Dandy
+
+💰 **Salary**: $232,500-$258,800 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-machine-learning-computer-vision-engineer-dandy)
+
+---
+
+### 3. Senior Data Scientist I at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-data-scientist-i-dandy)
+
+---
+
+### 4. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +52,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior Data Scientist at Automattic
+### 5. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -30,7 +64,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Staff Analytics Engineer at Coinbase
+### 6. Staff Analytics Engineer at Coinbase
 
 💰 **Salary**: $207,000-$244,100 USD
 
@@ -42,7 +76,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Data Scientist at Atticus
+### 7. Data Scientist at Atticus
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -54,7 +88,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. AI Growth Lead (AI Automation DRI) at Coinbase
+### 8. AI Growth Lead (AI Automation DRI) at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -66,7 +100,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Data Scientist at Applaudo
+### 9. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -76,7 +110,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Graduate Talent Scientist at Canonical
+### 10. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +120,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Distributed Systems Software Engineer, Python / Go at Canonical
+### 11. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +130,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Software Engineer - Industrial IoT at Canonical
+### 12. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +140,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Senior Product Manager, AI/ML at Chess
+### 13. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +150,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. Director of AI/ML Engineering at Chess
+### 14. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -129,7 +163,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 11 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -157,6 +191,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 02, 2025 at 00:00 UTC_
+_Last updated: November 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
