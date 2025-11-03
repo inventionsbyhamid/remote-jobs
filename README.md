@@ -18,31 +18,31 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 11 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 14 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 1 remote job available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
 - 🏠 **[Backend](backend.md)** - 34 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 19 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 21 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 6 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 9 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 10 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 16 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 19 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 11 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 17 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 20 remote jobs available
 - 🏠 **[Finance](finance.md)** - 5 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 13 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 12 remote jobs available
-- 🏠 **[HR](hr.md)** - 5 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 13 remote jobs available
+- 🏠 **[HR](hr.md)** - 6 remote jobs available
 - 🏠 **[Legal](legal.md)** - 5 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 21 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 13 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 16 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 21 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
-- 🏠 **[Research](research.md)** - 5 remote jobs available
-- 🏠 **[Sales](sales.md)** - 17 remote jobs available
+- 🏠 **[Research](research.md)** - 6 remote jobs available
+- 🏠 **[Sales](sales.md)** - 18 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 20 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 3 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 66 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 68 remote jobs available
 
 
 ---
@@ -51,7 +51,115 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Commercial Account Executive (CAE) at Dandy
+### 1. Software Engineer, CAD at Dandy
+
+💰 **Salary**: $201,500-$237,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-cad-dandy)
+
+---
+
+### 2. Sales Enablement Manager at Dandy
+
+💰 **Salary**: $124,100-$146,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-enablement-manager-dandy)
+
+---
+
+### 3. Platform Engineer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-dandy)
+
+---
+
+### 4. Dental CAD Injection Mold Designer (Blender) at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dental-cad-injection-mold-designer-dandy)
+
+---
+
+### 5. Partial Denture Mold Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partial-denture-mold-designer-dandy)
+
+---
+
+### 6. Global Director of Operations at Dandy
+
+💰 **Salary**: $177,600-$222,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-director-of-operations-dandy)
+
+---
+
+### 7. Staff Machine Learning & Computer Vision Engineer at Dandy
+
+💰 **Salary**: $232,500-$258,800 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-machine-learning-computer-vision-engineer-dandy)
+
+---
+
+### 8. Full-Stack Java + React Technical Leader at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/full-stack-java-react-technical-leader-bairesdev)
+
+---
+
+### 9. Senior Data Scientist I at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-data-scientist-i-dandy)
+
+---
+
+### 10. Thermoform Model Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/thermoform-model-designer-dandy)
+
+---
+
+### 11. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -63,7 +171,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Dental CAD Prep Designer at Dandy
+### 12. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +181,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Senior Front-End Software Engineer, Email Hub at Circle
+### 13. Senior Front-End Software Engineer, Email Hub at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -85,7 +193,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 14. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -97,7 +205,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Engineering Manager, CorpSec at Coinbase
+### 15. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -109,7 +217,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Scheduling Optimization Engineer at Applaudo
+### 16. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -119,7 +227,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Software Engineer, Backend (Platform) at Coinbase
+### 17. Senior Software Engineer, Backend (Platform) at Coinbase
 
 💰 **Salary**: $191,000 CAD
 
@@ -131,7 +239,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Product Manager at Awesome Motive
+### 18. Product Manager at Awesome Motive
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -143,7 +251,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Experienced Software Engineer at Automattic
+### 19. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -155,7 +263,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Engineering Manager (Platform) at Coinbase
+### 20. Engineering Manager (Platform) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -164,122 +272,6 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-full-time-coinbase)
-
----
-
-### 11. Product Manager - BackWup at WP Media
-
-💰 **Salary**: $120,000-$190,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-backwup-wp-media)
-
----
-
-### 12. Senior Product Manager, International Derivatives at Coinbase
-
-💰 **Salary**: $207,485-$244,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-international-derivatives-coinbase)
-
----
-
-### 13. Senior Data Scientist at Automattic
-
-💰 **Salary**: $90,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-data-scientist-automattic)
-
----
-
-### 14. Business Development Representative at Automattic
-
-💰 **Salary**: $50,000-$70,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-development-representative-automattic)
-
----
-
-### 15. Staff Analytics Engineer at Coinbase
-
-💰 **Salary**: $207,000-$244,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-analytics-engineer-coinbase)
-
----
-
-### 16. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-remote-coinbase)
-
----
-
-### 17. Senior Product Engineer (Frontend) - Growth at Buffer
-
-💰 **Salary**: $156,500-$202,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-growth-buffer)
-
----
-
-### 18. Business Operations Lead at Atticus
-
-💰 **Salary**: $130,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-operations-lead-atticus)
-
----
-
-### 19. Fullstack Developer (Next.js) at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/fullstack-developer-applaudo)
-
----
-
-### 20. Product Manager at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-atticus)
 
 ---
 
@@ -309,6 +301,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 02, 2025 at 00:00 UTC_
+_Last updated: November 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
