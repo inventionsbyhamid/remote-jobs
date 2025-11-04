@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Full-Stack Java + React Technical Leader at BairesDev
+### 1. Engineering Manager, Machine Learning at Dandy
+
+💰 **Salary**: $216,800-$255,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-machine-learning-dandy)
+
+---
+
+### 2. Color Management Lead at Dandy
+
+💰 **Salary**: $109,700-$129,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/color-management-lead-dandy)
+
+---
+
+### 3. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +42,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Engineering Manager, CorpSec at Coinbase
+### 4. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -30,7 +54,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Engineering Manager (Platform) at Coinbase
+### 5. Engineering Manager (Platform) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -42,7 +66,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
+### 6. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -54,7 +78,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Director of Product Design at Phantom
+### 7. Director of Product Design at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -66,7 +90,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Senior Engineering Manager at Phantom
+### 8. Senior Engineering Manager at Phantom
 
 💰 **Salary**: $200,000-$240,000 USD
 
@@ -78,7 +102,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Head of Product at Phantom
+### 9. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +112,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Senior Engineering Manager- Ubuntu at Canonical
+### 10. Senior Engineering Manager- Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +122,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Billing System Engineering Manager at Canonical
+### 11. Billing System Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +132,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Rust Engineering Lead - Linux and Open Source at Canonical
+### 12. Rust Engineering Lead - Linux and Open Source at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +142,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Engineering Manager - Security Standards and Hardening at Canonical
+### 13. Engineering Manager - Security Standards and Hardening at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +152,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Engineering Manager for IAM (Identity and Access Management) at Canonical
+### 14. Engineering Manager for IAM (Identity and Access Management) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +162,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Senior Analytics Manager at Raya
+### 15. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +172,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 14. Director of AI/ML Engineering at Chess
+### 16. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +182,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 15. VP of Product Engineering at Chess
+### 17. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +192,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 16. Infrastructure & Development Engineer at CloudLinux
+### 18. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +202,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 17. Security Researcher - Team Lead at CloudLinux
+### 19. Security Researcher - Team Lead at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -188,33 +212,13 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 18. Developer Experience (DX) Enablement Manager at CloudLinux
+### 20. Developer Experience (DX) Enablement Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experienceenablement-manager-cloudlinux)
-
----
-
-### 19. Scrum Master at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/scrum-master-cloudlinux)
-
----
-
-### 20. Chief Security Officer (CSO) at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chief-security-officer-cloudlinux)
 
 ---
 
@@ -249,6 +253,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 03, 2025 at 00:00 UTC_
+_Last updated: November 04, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
