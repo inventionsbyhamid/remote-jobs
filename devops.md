@@ -8,13 +8,13 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Platform Engineer at Dandy
+### 1. Platform Engineer - Developer Experience at Dandy
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: DevOps
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-mexico-remote-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-developer-experience-dandy)
 
 ---
 
@@ -24,11 +24,21 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 📍 **Category**: DevOps
 
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-mexico-remote-dandy)
+
+---
+
+### 3. Platform Engineer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-dandy)
 
 ---
 
-### 3. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 4. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. System Administrator at Atticus
+### 5. System Administrator at Atticus
 
 💰 **Salary**: $110,000-$150,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. Platform Engineer - Database at Appwrite
+### 6. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Senior Systems Engineer at Automattic
+### 7. Senior Systems Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Platform Engineer - Integrations at Appwrite
+### 8. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 9. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
+### 10. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 10. Distributed Systems Software Engineer, Python / Go at Canonical
+### 11. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 11. Developer Experience Engineer at Chess
+### 12. Developer Experience Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 12. Cloud Test Engineer at Halcyon
+### 13. Cloud Test Engineer at Halcyon
 
 💰 **Salary**: $135,000-$170,000 USD
 
@@ -136,7 +146,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 13. Senior Python/Go Developer at CloudLinux
+### 14. Senior Python/Go Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +156,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 14. Infrastructure & Development Engineer at CloudLinux
+### 15. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -156,7 +166,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 15. Backend Developer - Patchman Team at CloudLinux
+### 16. Backend Developer - Patchman Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +176,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 16. Backend / Platform Engineer at CloudLinux
+### 17. Backend / Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 17. Infrastructure & Development Engineer at CloudLinux
+### 18. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 18. Mail Systems Engineer at CloudLinux
+### 19. Mail Systems Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -199,7 +209,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 18 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -227,6 +237,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 04, 2025 at 00:00 UTC_
+_Last updated: November 05, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
