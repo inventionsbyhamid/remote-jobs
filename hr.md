@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Talent Acquisition Manager at BairesDev
+### 1. Global Director of Operations at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-director-of-operations-uk-london-dandy)
+
+---
+
+### 2. Talent Acquisition Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Global Director of Operations at Dandy
+### 3. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Talent Operations Manager at BairesDev
+### 4. Talent Operations Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Recruiter at Atticus
+### 5. Recruiter at Atticus
 
 💰 **Salary**: $90,000-$140,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Recruiting Manager - Remote Work at BairesDev
+### 6. Recruiting Manager - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Senior Internal Communications Manager at Coinbase
+### 7. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Graduate Talent Scientist at Canonical
+### 8. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +97,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -115,6 +125,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 04, 2025 at 00:00 UTC_
+_Last updated: November 05, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
