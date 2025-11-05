@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Full Dentures Preppers at Dandy
+### 1. Night Guard Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/night-guard-designer-dandy)
+
+---
+
+### 2. Full Dentures Preppers at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Clear Aligner Designer at Dandy
+### 3. Clear Aligner Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Dental CAD Injection Mold Designer (Blender) at Dandy
+### 4. Dental CAD Injection Mold Designer (Blender) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Partial Denture Mold Designer at Dandy
+### 5. Partial Denture Mold Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Thermoform Model Designer at Dandy
+### 6. Thermoform Model Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Dental CAD Prep Designer at Dandy
+### 7. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. Senior Product Designer at Atticus
+### 8. Senior Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. Lead User Researcher at Atticus
+### 9. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 9. Director of Product Design at Phantom
+### 10. Director of Product Design at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 10. Product Designer at Atticus
+### 11. Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 11. Director of Brand Creative at Phantom
+### 12. Director of Brand Creative at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 12. Staff Product Designer at Phantom
+### 13. Staff Product Designer at Phantom
 
 💰 **Salary**: $215,000-$250,000 USD
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 13. Head of Product at Phantom
+### 14. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 14. UX Designer - Design systems at Canonical
+### 15. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 15. Product Designer Lead - UI/UX at Binance
+### 16. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +174,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 16. Product Designer at Binance
+### 17. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +184,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 17. Product Designer at Binance
+### 18. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +194,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 18. ChessKid Product Designer, Growth at Chess
+### 19. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -197,7 +207,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 18 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -225,6 +235,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 04, 2025 at 00:00 UTC_
+_Last updated: November 05, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
