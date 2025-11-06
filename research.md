@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Color Management Lead at Dandy
+### 1. Machine Learning Engineer, Computer Vision at Dandy
+
+💰 **Salary**: $144,400-$213,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/machine-learning-engineer-computer-vision-dandy)
+
+---
+
+### 2. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 3. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Lead User Researcher at Atticus
+### 4. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. AI Growth Lead (AI Automation DRI) at Coinbase
+### 5. AI Growth Lead (AI Automation DRI) at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -54,7 +66,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Senior Product Security Engineer at Halcyon
+### 6. Senior Product Security Engineer at Halcyon
 
 💰 **Salary**: $175,000-$235,000 USD
 
@@ -66,23 +78,13 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. Malware Intelligence Analyst at CloudLinux
+### 7. Malware Intelligence Analyst at CloudLinux
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Research
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/malware-intelligence-analyst-cloudlinux)
-
----
-
-### 7. Security Researcher - Team Lead at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/security-researcher-team-lead-cloudlinux)
 
 ---
 
@@ -117,6 +119,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 05, 2025 at 00:00 UTC_
+_Last updated: November 06, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
