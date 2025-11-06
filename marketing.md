@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Marketing at WP Media
+### 1. Senior Marketing Campaigns Manager at GitLab
+
+💰 **Salary**: $94,100-$201,600 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-marketing-campaigns-manager-gitlab)
+
+---
+
+### 2. Paid Campaign Manager at Cloudbeds
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/paid-campaign-manager-cloudbeds)
+
+---
+
+### 3. Head of Marketing at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Head of Product Marketing at Dandy
+### 4. Head of Product Marketing at Dandy
 
 💰 **Salary**: $232,000-$290,000 USD
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Sales Openers Manager at Phantom
+### 5. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Growth Lead - AIOSEO at Awesome Motive
+### 6. Growth Lead - AIOSEO at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Growth Lead (Paid Social) at Atticus
+### 7. Growth Lead (Paid Social) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -62,7 +84,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Growth Lead (Head of SEM) at Atticus
+### 8. Growth Lead (Head of SEM) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -74,7 +96,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Brand Marketer at Phantom
+### 9. Brand Marketer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +106,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Director of Brand Creative at Phantom
+### 10. Director of Brand Creative at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -96,7 +118,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Senior Product Marketer at Phantom
+### 11. Senior Product Marketer at Phantom
 
 💰 **Salary**: $150,000-$180,000 USD
 
@@ -108,7 +130,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Lifecycle Marketing Lead (Head of Lifecycle Marketing) at Atticus
+### 12. Lifecycle Marketing Lead (Head of Lifecycle Marketing) at Atticus
 
 💰 **Salary**: $130,000-$170,000 USD
 
@@ -120,7 +142,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Content Marketing Manager - Social Media at Kit
+### 13. Content Marketing Manager - Social Media at Kit
 
 💰 **Salary**: $125,000 USD
 
@@ -132,7 +154,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Head of Growth at SafetyWing
+### 14. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +164,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. SEO Specialist / Manager at WP Media
+### 15. SEO Specialist / Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +174,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 14. Senior Internal Communications Manager at Coinbase
+### 16. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -164,7 +186,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 15. Content marketing team manager at Canonical
+### 17. Content marketing team manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +196,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 16. EMEA Marketing Manager at Canonical
+### 18. EMEA Marketing Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +206,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 17. Events Manager at Canonical
+### 19. Events Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +216,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 18. Growth Engineer at Canonical
+### 20. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +226,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Partner Marketing Director at Canonical
+### 21. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -214,7 +236,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 20. Product Manager, LATAM at Airbnb
+### 22. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -224,7 +246,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 21. Product Manager, LATAM at Airbnb
+### 23. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -234,7 +256,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 22. Global Community Manager at Binance
+### 24. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -244,7 +266,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 23. Director, International Content & Growth at Chess
+### 25. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -257,7 +279,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 23 positions available
+**Total Jobs**: 25 positions available
 
 ---
 
@@ -285,6 +307,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 05, 2025 at 00:00 UTC_
+_Last updated: November 06, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
