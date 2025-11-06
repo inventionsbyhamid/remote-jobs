@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Principal Product Manager, Foundational ML Models at Dandy
+### 1. Senior Product Manager at Dandy
+
+💰 **Salary**: $183,600-$216,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-dandy)
+
+---
+
+### 2. Principal Product Manager, Foundational ML Models at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Principal Product Manager, Growth at Dandy
+### 3. Principal Product Manager, Growth at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Product Manager at Awesome Motive
+### 4. Product Manager at Awesome Motive
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -44,7 +56,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Product Manager - BackWup at WP Media
+### 5. Product Manager - BackWup at WP Media
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -56,7 +68,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Senior Product Manager, International Derivatives at Coinbase
+### 6. Senior Product Manager, International Derivatives at Coinbase
 
 💰 **Salary**: $207,485-$244,100 USD
 
@@ -68,7 +80,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Product Manager at Atticus
+### 7. Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +90,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Lead Product Manager - Brokerage at Alpaca
+### 8. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +100,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Growth Lead (Paid Social) at Atticus
+### 9. Growth Lead (Paid Social) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -100,7 +112,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Group Product Manager at Atticus
+### 10. Group Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +122,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 10. Growth Lead (Head of SEM) at Atticus
+### 11. Growth Lead (Head of SEM) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -122,7 +134,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 11. Senior Product Manager at Atticus
+### 12. Senior Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +144,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 12. Head of Product at Phantom
+### 13. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 13. Junior Product Manager at Canonical
+### 14. Junior Product Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +164,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 14. Product Manager - Desktop at Canonical
+### 15. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +174,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 15. Product Manager, LATAM at Airbnb
+### 16. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +184,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 16. Product Manager, LATAM at Airbnb
+### 17. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +194,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 17. Product Operations (Structured Finance) at Binance
+### 18. Product Operations (Structured Finance) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +204,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 18. Senior Product Manager at Binance
+### 19. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +214,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 19. Senior Product Manager, AI/ML at Chess
+### 20. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -212,7 +224,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 20. Technical Product Manager - Ads and Compliance at Chess
+### 21. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -222,7 +234,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 21. VP of Product Engineering at Chess
+### 22. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -232,23 +244,13 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 22. Director, International Content & Growth at Chess
+### 23. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-international-content-growth-chess)
-
----
-
-### 23. Developer Experience (DX) Enablement Manager at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experienceenablement-manager-cloudlinux)
 
 ---
 
@@ -283,6 +285,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 05, 2025 at 00:00 UTC_
+_Last updated: November 06, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
