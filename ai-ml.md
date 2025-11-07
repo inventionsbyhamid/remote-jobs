@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Machine Learning Engineer, Computer Vision at Dandy
+### 1. Senior Machine Learning Engineer - Computer Vision at Dandy
+
+💰 **Salary**: $216,800-$255,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-machine-learning-engineer-computer-vision-remote-dandy)
+
+---
+
+### 2. Staff Data Scientist at Automattic
+
+💰 **Salary**: $200,000-$275,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-data-scientist-automattic)
+
+---
+
+### 3. Machine Learning Engineer, Computer Vision at Dandy
 
 💰 **Salary**: $144,400-$213,000 USD
 
@@ -20,7 +44,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Principal Product Manager, Foundational ML Models at Dandy
+### 4. Principal Product Manager, Foundational ML Models at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -32,7 +56,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Engineering Manager, Machine Learning at Dandy
+### 5. Engineering Manager, Machine Learning at Dandy
 
 💰 **Salary**: $216,800-$255,000 USD
 
@@ -44,7 +68,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Software Engineer, CAD at Dandy
+### 6. Software Engineer, CAD at Dandy
 
 💰 **Salary**: $201,500-$237,000 USD
 
@@ -56,7 +80,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 7. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -68,7 +92,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Senior Data Scientist I at Dandy
+### 8. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +102,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Scheduling Optimization Engineer at Applaudo
+### 9. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +112,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior Data Scientist at Automattic
+### 10. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -100,7 +124,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Staff Analytics Engineer at Coinbase
+### 11. Staff Analytics Engineer at Coinbase
 
 💰 **Salary**: $207,000-$244,100 USD
 
@@ -112,7 +136,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Data Scientist at Atticus
+### 12. Data Scientist at Atticus
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -124,7 +148,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. AI Growth Lead (AI Automation DRI) at Coinbase
+### 13. AI Growth Lead (AI Automation DRI) at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -136,7 +160,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Data Scientist at Applaudo
+### 14. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +170,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. Graduate Talent Scientist at Canonical
+### 15. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -156,7 +180,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 14. Distributed Systems Software Engineer, Python / Go at Canonical
+### 16. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +190,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 15. Software Engineer - Industrial IoT at Canonical
+### 17. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +200,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 16. Senior Product Manager, AI/ML at Chess
+### 18. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +210,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 17. Director of AI/ML Engineering at Chess
+### 19. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -199,7 +223,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 17 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -227,6 +251,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 06, 2025 at 00:00 UTC_
+_Last updated: November 07, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
