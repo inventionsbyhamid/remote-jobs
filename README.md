@@ -18,31 +18,31 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 17 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 19 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 1 remote job available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 31 remote jobs available
+- 🏠 **[Backend](backend.md)** - 29 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 21 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 7 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 9 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 11 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 18 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 20 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 12 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 15 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 21 remote jobs available
 - 🏠 **[Finance](finance.md)** - 5 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 15 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 16 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 15 remote jobs available
-- 🏠 **[HR](hr.md)** - 8 remote jobs available
+- 🏠 **[HR](hr.md)** - 9 remote jobs available
 - 🏠 **[Legal](legal.md)** - 5 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 25 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 21 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 23 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 24 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
 - 🏠 **[Research](research.md)** - 7 remote jobs available
 - 🏠 **[Sales](sales.md)** - 19 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 15 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 11 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 3 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 69 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 70 remote jobs available
 
 
 ---
@@ -51,7 +51,87 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Software Engineer, Practice Engagement at Dandy
+### 1. Senior Backend Engineer (Platform and API) at Buffer
+
+💰 **Salary**: $156,500-$202,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-backend-engineer-buffer)
+
+---
+
+### 2. React Frontend Developer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/react-frontend-developer-applaudo)
+
+---
+
+### 3. Senior Machine Learning Engineer - Computer Vision at Dandy
+
+💰 **Salary**: $216,800-$255,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-machine-learning-engineer-computer-vision-remote-dandy)
+
+---
+
+### 4. Staff Data Scientist at Automattic
+
+💰 **Salary**: $200,000-$275,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-data-scientist-automattic)
+
+---
+
+### 5. Talent Acquisition Associate at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-acquisition-associate-bairesdev)
+
+---
+
+### 6. Engineering Director, Web Platform at DuckDuckGo
+
+💰 **Salary**: $243,800 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-web-platform-duckduckgo)
+
+---
+
+### 7. Senior Director of Supply Chain and Manufacturing Technology at Dandy
+
+💰 **Salary**: $248,000-$310,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-director-of-supply-chain-and-manufacturing-technology-dandy)
+
+---
+
+### 8. Senior Software Engineer, Practice Engagement at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +141,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Marketing Campaigns Manager at GitLab
+### 9. Senior Marketing Campaigns Manager at GitLab
 
 💰 **Salary**: $94,100-$201,600 USD
 
@@ -73,7 +153,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Prep Designer at Dandy
+### 10. Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -83,7 +163,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Engineering Manager, Product at Dandy
+### 11. Engineering Manager, Product at Dandy
 
 💰 **Salary**: $221,100-$268,000 USD
 
@@ -95,7 +175,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Machine Learning Engineer, Computer Vision at Dandy
+### 12. Machine Learning Engineer, Computer Vision at Dandy
 
 💰 **Salary**: $144,400-$213,000 USD
 
@@ -107,7 +187,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Implant Designer at Dandy
+### 13. Implant Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -117,7 +197,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Product Manager at Dandy
+### 14. Senior Product Manager at Dandy
 
 💰 **Salary**: $183,600-$216,000 USD
 
@@ -129,7 +209,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Paid Campaign Manager at Cloudbeds
+### 15. Paid Campaign Manager at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +219,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Night Guard Designer at Dandy
+### 16. Night Guard Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -149,7 +229,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Manager of Enterprise Account Management at Dandy
+### 17. Senior Manager of Enterprise Account Management at Dandy
 
 💰 **Salary**: $140,000-$192,000 USD
 
@@ -161,7 +241,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Partner Manager (Automattic for Agencies) at Automattic
+### 18. Partner Manager (Automattic for Agencies) at Automattic
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -173,7 +253,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Senior Software Engineer at Dandy
+### 19. Senior Software Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -183,89 +263,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Global Director of Operations at Dandy
+### 20. Global Director of Operations at Dandy
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-director-of-operations-uk-london-dandy)
-
----
-
-### 14. Platform Engineer - Developer Experience at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-developer-experience-dandy)
-
----
-
-### 15. Senior Product Engineer (Frontend) at Buffer
-
-💰 **Salary**: $156,500-$202,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-engineer-buffer)
-
----
-
-### 16. Principal Product Manager, Foundational ML Models at Dandy
-
-💰 **Salary**: $202,100-$245,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/principal-product-manager-foundational-ml-models-dandy)
-
----
-
-### 17. Platform Engineer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-mexico-remote-dandy)
-
----
-
-### 18. Contract Senior JavaScript Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-javascript-engineer-fueled)
-
----
-
-### 19. Engineering Manager, Machine Learning at Dandy
-
-💰 **Salary**: $216,800-$255,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-machine-learning-dandy)
-
----
-
-### 20. Head of Marketing at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-marketing-wp-media)
 
 ---
 
@@ -295,6 +299,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 06, 2025 at 00:00 UTC_
+_Last updated: November 07, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
