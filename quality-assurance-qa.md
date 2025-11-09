@@ -8,25 +8,23 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. QA Specialist at Chess
+### 1. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
+
+---
+
+### 2. QA Specialist at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Quality Assurance (QA)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-specialist-chess)
-
----
-
-### 2. Cloud Test Engineer at Halcyon
-
-💰 **Salary**: $135,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
 
 ---
 
@@ -61,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 08, 2025 at 00:00 UTC_
+_Last updated: November 09, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
