@@ -214,20 +214,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 21. ChessKid Product Designer, Growth at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chesskid-product-designer-growth-chess)
 
 ---
 
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -255,6 +245,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 08, 2025 at 00:00 UTC_
+_Last updated: November 09, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
