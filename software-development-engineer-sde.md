@@ -736,42 +736,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 69. VP of Product Engineering at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-of-product-engineering-chess)
 
 ---
 
-### 70. Cloud Test Engineer at Halcyon
-
-💰 **Salary**: $135,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
-
----
-
-### 71. Senior Python/Go Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 71 positions available
+**Total Jobs**: 68 positions available
 
 ---
 
@@ -799,6 +767,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 08, 2025 at 00:00 UTC_
+_Last updated: November 09, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
