@@ -236,22 +236,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 22. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
 
 ---
 
-
----
-
-**Total Jobs**: 22 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -279,6 +267,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 09, 2025 at 00:00 UTC_
+_Last updated: November 10, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
