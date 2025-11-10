@@ -210,20 +210,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 19. Director of AI/ML Engineering at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-ai-ml-engineering-chess)
 
 ---
 
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -251,6 +241,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 09, 2025 at 00:00 UTC_
+_Last updated: November 10, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
