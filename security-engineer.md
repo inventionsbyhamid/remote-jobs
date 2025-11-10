@@ -108,34 +108,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Staff Engineer, Endpoint Agent at Halcyon
-
-💰 **Salary**: $220,000-$275,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-endpoint-agent-halcyon)
 
 ---
 
-### 11. Recovery Consulting Specialist at Halcyon
-
-💰 **Salary**: $140,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recovery-consulting-specialist-halcyon)
-
----
-
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -163,6 +139,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 09, 2025 at 00:00 UTC_
+_Last updated: November 10, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
