@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Manager, CorpSec at Coinbase
+### 1. Protocol Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-engineer-matterlabs)
+
+---
+
+### 2. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Staff Product Security Engineer (Security) at Phantom
+### 3. Staff Product Security Engineer (Security) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Product Security Engineer at Alpaca
+### 4. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Staff KMS Security Engineer (Security) at Phantom
+### 5. Staff KMS Security Engineer (Security) at Phantom
 
 💰 **Salary**: $250,000-$285,000 USD
 
@@ -54,7 +64,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Senior Security Operations Engineer at Canonical
+### 6. Senior Security Operations Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Software Engineer - Blockchain Security at Binance
+### 7. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Senior Security Engineer - Blue Team at Raya
+### 8. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
@@ -84,34 +94,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
 
 ---
 
-### 9. Senior Product Security Engineer at Halcyon
-
-💰 **Salary**: $175,000-$235,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-security-engineer-halcyon)
-
----
-
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -139,6 +125,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 10, 2025 at 00:00 UTC_
+_Last updated: November 11, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
