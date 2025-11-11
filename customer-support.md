@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Support Specialist - Contractor at Phantom
+### 1. Technical Account Manager, Pressable at Automattic
+
+💰 **Salary**: $70,000-$130,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-account-manager-pressable-automattic)
+
+---
+
+### 2. Customer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Client Experience Associate at Atticus
+### 3. Client Experience Associate at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Crypto Operations Associate at Alpaca
+### 4. Crypto Operations Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Client Associate at Atticus
+### 5. Client Associate at Atticus
 
 💰 **Salary**: $70,000-$85,000 USD
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
+### 6. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Enterprise Customer Success Manager (French speaker) at Canonical
+### 7. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Graduate Customer Success Manager at Canonical
+### 8. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Premium Support Senior Specialist (Spanish) at Airbnb
+### 9. Premium Support Senior Specialist (Spanish) at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +102,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. Dispute Analyst - P2P at Binance
+### 10. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -103,7 +115,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -131,6 +143,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 10, 2025 at 00:00 UTC_
+_Last updated: November 11, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
