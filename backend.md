@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Backend Software Engineer (PHP/Python) at WP Media
+### 1. Senior Full Stack Engineer at Zircuit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-engineer-zircuit)
+
+---
+
+### 2. Software Engineer, Backend (Consumer - Growth) at Coinbase
+
+💰 **Salary**: $147,000-$174,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-backend-coinbase)
+
+---
+
+### 3. Protocol Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-engineer-matterlabs)
+
+---
+
+### 4. Backend Software Engineer (PHP/Python) at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +50,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Backend Engineer at Clerk
+### 5. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +60,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. EDI Developer at Applaudo
+### 6. EDI Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +70,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Engineering Director, Web Platform at DuckDuckGo
+### 7. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -50,7 +82,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Senior Backend Engineer (Platform and API) at Buffer
+### 8. Senior Backend Engineer (Platform and API) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -62,7 +94,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 9. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -74,7 +106,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Senior Software Engineer, Backend (Platform) at Coinbase
+### 10. Senior Software Engineer, Backend (Platform) at Coinbase
 
 💰 **Salary**: $191,000 CAD
 
@@ -86,7 +118,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Senior .NET Engineer - Remote Work at BairesDev
+### 11. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +128,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 9. Staff Backend Engineer (Social) at Phantom
+### 12. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -108,7 +140,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 10. Senior Software Engineer - Identity at Alpaca
+### 13. Senior Software Engineer - Identity at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +150,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 11. Senior Software Engineer – Advisory Suite at Alpaca
+### 14. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +160,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 12. Backend Engineer, Blockchain Data Team at Phantom
+### 15. Backend Engineer, Blockchain Data Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +170,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 13. Solana Program Engineer at Solana
+### 16. Solana Program Engineer at Solana
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +180,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 14. Staff Software Engineer, Backend at Phantom
+### 17. Staff Software Engineer, Backend at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -160,7 +192,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 15. Senior Rust Engineer at Phantom
+### 18. Senior Rust Engineer at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -172,7 +204,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 16. Senior Software Engineer, Payments at Solana
+### 19. Senior Software Engineer, Payments at Solana
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +214,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 17. Contract Senior Web Engineer at Fueled
+### 20. Contract Senior Web Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +224,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 18. Platform Engineer - Database at Appwrite
+### 21. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +234,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 19. Backend Engineer, Growth & Engagement Team at Phantom
+### 22. Backend Engineer, Growth & Engagement Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -212,7 +244,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 20. Senior Systems Engineer at Automattic
+### 23. Senior Systems Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -224,7 +256,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 21. Palantir Foundry Engineer - Remote Work at BairesDev
+### 24. Palantir Foundry Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -234,7 +266,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 22. Platform Engineer - Integrations at Appwrite
+### 25. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -244,7 +276,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 23. Staff Software Engineer, Backend (Consumer) at Coinbase
+### 26. Staff Software Engineer, Backend (Consumer) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -256,7 +288,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 24. Software Engineer - App Stores at Canonical
+### 27. Software Engineer - App Stores at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -266,7 +298,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 25. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
+### 28. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -276,7 +308,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 26. Java Architect- Compliance at Binance
+### 29. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -286,7 +318,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 27. Senior Java Developer - Web3 Earn at Binance
+### 30. Senior Java Developer - Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -296,7 +328,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 28. Java Architect- Compliance at Binance
+### 31. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -306,7 +338,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 29. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+### 32. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -316,22 +348,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 30. Backend Engineer, Data Platform & APIs at Halcyon
-
-💰 **Salary**: $120,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-data-platform-apis-halcyon)
 
 ---
 
-
----
-
-**Total Jobs**: 30 positions available
+**Total Jobs**: 32 positions available
 
 ---
 
@@ -359,6 +379,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 10, 2025 at 00:00 UTC_
+_Last updated: November 11, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
