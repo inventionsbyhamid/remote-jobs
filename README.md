@@ -21,17 +21,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 18 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 1 remote job available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 30 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 21 remote jobs available
+- 🏠 **[Backend](backend.md)** - 32 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 20 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
-- 🏠 **[Customer Success](customer-success.md)** - 6 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 9 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 7 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 10 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 13 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 12 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 11 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 22 remote jobs available
 - 🏠 **[Finance](finance.md)** - 5 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 19 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 18 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 18 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 19 remote jobs available
 - 🏠 **[HR](hr.md)** - 11 remote jobs available
 - 🏠 **[Legal](legal.md)** - 5 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 25 remote jobs available
@@ -39,9 +39,9 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Product Manager](product-manager.md)** - 22 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
-- 🏠 **[Research](research.md)** - 7 remote jobs available
+- 🏠 **[Research](research.md)** - 6 remote jobs available
 - 🏠 **[Sales](sales.md)** - 19 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 9 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 8 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 5 remote jobs available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 67 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
@@ -53,7 +53,51 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Full Stack Developer at 90 Seconds
+### 1. Senior Full Stack Engineer at Zircuit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-engineer-zircuit)
+
+---
+
+### 2. Software Engineer, Backend (Consumer - Growth) at Coinbase
+
+💰 **Salary**: $147,000-$174,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-backend-coinbase)
+
+---
+
+### 3. Protocol Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-engineer-matterlabs)
+
+---
+
+### 4. Technical Account Manager, Pressable at Automattic
+
+💰 **Salary**: $70,000-$130,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-account-manager-pressable-automattic)
+
+---
+
+### 5. Senior Full Stack Developer at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -63,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Backend Software Engineer (PHP/Python) at WP Media
+### 6. Backend Software Engineer (PHP/Python) at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Recruiting Analyst at BairesDev
+### 7. Recruiting Analyst at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -83,7 +127,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Business Development Manager at 90 Seconds
+### 8. Business Development Manager at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -93,7 +137,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Hunting Manager at BairesDev
+### 9. Hunting Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -103,7 +147,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 10. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -113,7 +157,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+### 11. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -123,7 +167,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Backend Engineer at Clerk
+### 12. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -133,7 +177,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. General Application Globally at 90 Seconds
+### 13. General Application Globally at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -143,7 +187,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
+### 14. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -153,7 +197,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Product Manager at WP Media
+### 15. Senior Product Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -163,7 +207,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. EDI Developer at Applaudo
+### 16. EDI Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -173,7 +217,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Staff Engineer at Clerk
+### 17. Staff Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -183,7 +227,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Engineering Director, Web Platform at DuckDuckGo
+### 18. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -195,7 +239,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior Project Manager - Remote Work at BairesDev
+### 19. Senior Project Manager - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -205,59 +249,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. WordPress Developer at Awesome Motive
+### 20. WordPress Developer at Awesome Motive
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/wordpress-developer-awesome-motive)
-
----
-
-### 17. Senior Backend Engineer (Platform and API) at Buffer
-
-💰 **Salary**: $156,500-$202,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-backend-engineer-buffer)
-
----
-
-### 18. React Frontend Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/react-frontend-developer-applaudo)
-
----
-
-### 19. Senior Machine Learning Engineer - Computer Vision at Dandy
-
-💰 **Salary**: $216,800-$255,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-machine-learning-engineer-computer-vision-remote-dandy)
-
----
-
-### 20. Staff Data Scientist at Automattic
-
-💰 **Salary**: $200,000-$275,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-data-scientist-automattic)
 
 ---
 
@@ -287,6 +285,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 10, 2025 at 00:00 UTC_
+_Last updated: November 11, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
