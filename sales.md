@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 1. Technical Account Manager, Pressable at Automattic
+
+💰 **Salary**: $70,000-$130,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-account-manager-pressable-automattic)
+
+---
+
+### 2. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Senior Manager of Enterprise Account Management at Dandy
+### 3. Senior Manager of Enterprise Account Management at Dandy
 
 💰 **Salary**: $140,000-$192,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Partner Manager (Automattic for Agencies) at Automattic
+### 4. Partner Manager (Automattic for Agencies) at Automattic
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Sales Enablement Manager at Dandy
+### 5. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -54,7 +66,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Commercial Account Executive (CAE) at Dandy
+### 6. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -66,7 +78,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Business Development Representative at Automattic
+### 7. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -78,7 +90,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Sales Openers Manager at Phantom
+### 8. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +100,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 9. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +110,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Independent Agent Sales Lead at Phantom
+### 10. Independent Agent Sales Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +120,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Sales Representative at Phantom
+### 11. Sales Representative at Phantom
 
 💰 **Salary**: $24,000-$36,000 USD
 
@@ -120,7 +132,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Sales Representative at SafetyWing
+### 12. Sales Representative at SafetyWing
 
 💰 **Salary**: $24,000-$36,000 USD
 
@@ -132,7 +144,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Head of Growth at SafetyWing
+### 13. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 14. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +164,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Partner Sales Director - IHV Alliances at Canonical
+### 15. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +174,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 16. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +184,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Chief Revenue Officer at Canonical
+### 17. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +194,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Individual Sales Representative (Mandarin Speaking) at Binance
+### 18. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +204,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Enterprise Account Executive at Halcyon
+### 19. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -201,18 +213,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-remote-halcyon)
-
----
-
-### 19. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
 
 ---
 
@@ -247,6 +247,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 10, 2025 at 00:00 UTC_
+_Last updated: November 11, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
