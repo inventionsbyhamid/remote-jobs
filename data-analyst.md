@@ -136,20 +136,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 13. Payments Fraud Analyst at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/payments-fraud-analyst-chess)
 
 ---
 
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -177,6 +167,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 11, 2025 at 00:00 UTC_
+_Last updated: November 12, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
