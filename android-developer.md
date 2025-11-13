@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Android Developer at Applaudo
+### 1. Contract Flutter Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Android Developer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-flutter-engineer-fueled)
+
+---
+
+### 2. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +31,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 12, 2025 at 00:00 UTC_
+_Last updated: November 13, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
