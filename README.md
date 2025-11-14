@@ -35,14 +35,14 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[HR](hr.md)** - 12 remote jobs available
 - 🏠 **[Intern](intern.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 5 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 25 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 26 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 20 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 21 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 1 remote job available
 - 🏠 **[Research](research.md)** - 6 remote jobs available
 - 🏠 **[Sales](sales.md)** - 19 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 8 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 7 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 5 remote jobs available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 69 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
@@ -54,7 +54,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Contract Flutter Engineer at Fueled
+### 1. Digital Marketing Manager at WP Media
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/digital-marketing-manager-wp-media)
+
+---
+
+### 2. Contract Flutter Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +74,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Recruiter at BairesDev
+### 3. Senior Recruiter at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Engineering Internship at Appwrite
+### 4. Engineering Internship at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Outside Sales Executive at BairesDev
+### 5. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Engineer- Experience Anywhere at VRChat
+### 6. Senior Engineer- Experience Anywhere at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior Full Stack Engineer at Zircuit
+### 7. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Software Engineer, Backend (Consumer - Growth) at Coinbase
+### 8. Software Engineer, Backend (Consumer - Growth) at Coinbase
 
 💰 **Salary**: $147,000-$174,000 USD
 
@@ -126,7 +136,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Protocol Engineer at MatterLabs
+### 9. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +146,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Technical Account Manager, Pressable at Automattic
+### 10. Technical Account Manager, Pressable at Automattic
 
 💰 **Salary**: $70,000-$130,000 USD
 
@@ -148,7 +158,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Full Stack Developer at 90 Seconds
+### 11. Senior Full Stack Developer at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +168,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Backend Software Engineer (PHP/Python) at WP Media
+### 12. Backend Software Engineer (PHP/Python) at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +178,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Recruiting Analyst at BairesDev
+### 13. Recruiting Analyst at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +188,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Business Development Manager at 90 Seconds
+### 14. Business Development Manager at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +198,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Hunting Manager at BairesDev
+### 15. Hunting Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +208,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 16. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +218,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+### 17. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -218,7 +228,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Backend Engineer at Clerk
+### 18. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -228,7 +238,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. General Application Globally at 90 Seconds
+### 19. General Application Globally at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -238,23 +248,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
+### 20. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/desarrollador-senior-react-typescript-trabajo-remoto-bairesdev)
-
----
-
-### 20. Senior Product Manager at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-wp-media)
 
 ---
 
@@ -284,6 +284,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 13, 2025 at 00:00 UTC_
+_Last updated: November 14, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
