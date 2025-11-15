@@ -74,20 +74,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Software Engineer - Blockchain Security at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-blockchain-security-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -115,6 +105,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 14, 2025 at 00:00 UTC_
+_Last updated: November 15, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
