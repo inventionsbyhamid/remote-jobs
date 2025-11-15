@@ -50,20 +50,10 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 5. Global Community Manager at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-community-manager-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -91,6 +81,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 14, 2025 at 00:00 UTC_
+_Last updated: November 15, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
