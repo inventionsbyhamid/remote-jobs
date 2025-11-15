@@ -102,20 +102,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. Dispute Analyst - P2P at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dispute-analyst-p2p-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -143,6 +133,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 14, 2025 at 00:00 UTC_
+_Last updated: November 15, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
