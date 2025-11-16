@@ -37,12 +37,12 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Legal](legal.md)** - 3 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 25 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 18 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 19 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 20 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 1 remote job available
-- 🏠 **[Research](research.md)** - 6 remote jobs available
+- 🏠 **[Research](research.md)** - 7 remote jobs available
 - 🏠 **[Sales](sales.md)** - 18 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 6 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 7 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 4 remote jobs available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 67 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
@@ -54,7 +54,27 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
+### 1. Protocol Security Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-security-engineer-matterlabs)
+
+---
+
+### 2. Executive Producer, Content at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/executive-producer-content-vrchat)
+
+---
+
+### 3. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +84,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Fullstack Engineer, Contributor Success, Strategy at GitLab
+### 4. Fullstack Engineer, Contributor Success, Strategy at GitLab
 
 💰 **Salary**: $98,000-$210,000 USD
 
@@ -76,7 +96,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Digital Marketing Manager at WP Media
+### 5. Digital Marketing Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +106,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Contract Flutter Engineer at Fueled
+### 6. Contract Flutter Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +116,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Recruiter at BairesDev
+### 7. Senior Recruiter at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +126,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Engineering Internship at Appwrite
+### 8. Engineering Internship at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +136,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Outside Sales Executive at BairesDev
+### 9. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +146,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior Engineer- Experience Anywhere at VRChat
+### 10. Senior Engineer- Experience Anywhere at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +156,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Full Stack Engineer at Zircuit
+### 11. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +166,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Software Engineer, Backend (Consumer - Growth) at Coinbase
+### 12. Software Engineer, Backend (Consumer - Growth) at Coinbase
 
 💰 **Salary**: $147,000-$174,000 USD
 
@@ -158,7 +178,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Protocol Engineer at MatterLabs
+### 13. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +188,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Technical Account Manager, Pressable at Automattic
+### 14. Technical Account Manager, Pressable at Automattic
 
 💰 **Salary**: $70,000-$130,000 USD
 
@@ -180,7 +200,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Senior Full Stack Developer at 90 Seconds
+### 15. Senior Full Stack Developer at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +210,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Backend Software Engineer (PHP/Python) at WP Media
+### 16. Backend Software Engineer (PHP/Python) at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -200,7 +220,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Recruiting Analyst at BairesDev
+### 17. Recruiting Analyst at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -210,7 +230,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Business Development Manager at 90 Seconds
+### 18. Business Development Manager at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -220,7 +240,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Hunting Manager at BairesDev
+### 19. Hunting Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -230,33 +250,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 20. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-work-remote-bairesdev)
-
----
-
-### 19. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
-
----
-
-### 20. Backend Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-clerk)
 
 ---
 
@@ -286,6 +286,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 15, 2025 at 00:00 UTC_
+_Last updated: November 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
