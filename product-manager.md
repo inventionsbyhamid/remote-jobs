@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Manager at WP Media
+### 1. Executive Producer, Content at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/executive-producer-content-vrchat)
+
+---
+
+### 2. Senior Product Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Senior Director of Supply Chain and Manufacturing Technology at Dandy
+### 3. Senior Director of Supply Chain and Manufacturing Technology at Dandy
 
 💰 **Salary**: $248,000-$310,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Senior Product Manager at Dandy
+### 4. Senior Product Manager at Dandy
 
 💰 **Salary**: $183,600-$216,000 USD
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Principal Product Manager, Foundational ML Models at Dandy
+### 5. Principal Product Manager, Foundational ML Models at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -54,7 +64,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Principal Product Manager, Growth at Dandy
+### 6. Principal Product Manager, Growth at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -66,7 +76,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Product Manager at Awesome Motive
+### 7. Product Manager at Awesome Motive
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Product Manager - BackWup at WP Media
+### 8. Product Manager - BackWup at WP Media
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Senior Product Manager, International Derivatives at Coinbase
+### 9. Senior Product Manager, International Derivatives at Coinbase
 
 💰 **Salary**: $207,485-$244,100 USD
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Product Manager at Atticus
+### 10. Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 10. Lead Product Manager - Brokerage at Alpaca
+### 11. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 11. Growth Lead (Paid Social) at Atticus
+### 12. Growth Lead (Paid Social) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 12. Group Product Manager at Atticus
+### 13. Group Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 13. Growth Lead (Head of SEM) at Atticus
+### 14. Growth Lead (Head of SEM) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -156,7 +166,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 14. Senior Product Manager at Atticus
+### 15. Senior Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +176,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 15. Head of Product at Phantom
+### 16. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 16. Junior Product Manager at Canonical
+### 17. Junior Product Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 17. Product Manager - Desktop at Canonical
+### 18. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +206,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 18. Product Manager, LATAM at Airbnb
+### 19. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -206,7 +216,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 19. Product Manager, LATAM at Airbnb
+### 20. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -219,7 +229,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 19 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -247,6 +257,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 15, 2025 at 00:00 UTC_
+_Last updated: November 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
