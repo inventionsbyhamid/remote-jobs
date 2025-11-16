@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Machine Learning Engineer - Computer Vision at Dandy
+### 1. Protocol Security Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-security-engineer-matterlabs)
+
+---
+
+### 2. Senior Machine Learning Engineer - Computer Vision at Dandy
 
 💰 **Salary**: $216,800-$255,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Machine Learning Engineer, Computer Vision at Dandy
+### 3. Machine Learning Engineer, Computer Vision at Dandy
 
 💰 **Salary**: $144,400-$213,000 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Color Management Lead at Dandy
+### 4. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -44,7 +54,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 5. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -56,7 +66,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Lead User Researcher at Atticus
+### 6. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -66,7 +76,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. AI Growth Lead (AI Automation DRI) at Coinbase
+### 7. AI Growth Lead (AI Automation DRI) at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -81,7 +91,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -109,6 +119,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 15, 2025 at 00:00 UTC_
+_Last updated: November 16, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
