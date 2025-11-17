@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Platform Engineer - Developer Experience at Dandy
+### 1. Senior Infrastructure Security Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-infrastructure-security-engineer-matterlabs)
+
+---
+
+### 2. Platform Engineer - Developer Experience at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Platform Engineer at Dandy
+### 3. Platform Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Platform Engineer at Dandy
+### 4. Platform Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 5. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. System Administrator at Atticus
+### 6. System Administrator at Atticus
 
 💰 **Salary**: $110,000-$150,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Platform Engineer - Database at Appwrite
+### 7. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Senior Systems Engineer at Automattic
+### 8. Senior Systems Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. Platform Engineer - Integrations at Appwrite
+### 9. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 10. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 10. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
+### 11. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 11. Distributed Systems Software Engineer, Python / Go at Canonical
+### 12. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -127,7 +137,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 11 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -155,6 +165,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 16, 2025 at 00:00 UTC_
+_Last updated: November 17, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
