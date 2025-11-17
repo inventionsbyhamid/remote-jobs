@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Protocol Security Engineer at MatterLabs
+### 1. Senior Infrastructure Security Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-infrastructure-security-engineer-matterlabs)
+
+---
+
+### 2. Protocol Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Protocol Engineer at MatterLabs
+### 3. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Engineering Manager, CorpSec at Coinbase
+### 4. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Staff Product Security Engineer (Security) at Phantom
+### 5. Staff Product Security Engineer (Security) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Product Security Engineer at Alpaca
+### 6. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Staff KMS Security Engineer (Security) at Phantom
+### 7. Staff KMS Security Engineer (Security) at Phantom
 
 💰 **Salary**: $250,000-$285,000 USD
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Senior Security Operations Engineer at Canonical
+### 8. Senior Security Operations Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +97,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -115,6 +125,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 16, 2025 at 00:00 UTC_
+_Last updated: November 17, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
