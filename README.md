@@ -32,7 +32,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Finance](finance.md)** - 4 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 20 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 21 remote jobs available
-- 🏠 **[HR](hr.md)** - 12 remote jobs available
+- 🏠 **[HR](hr.md)** - 13 remote jobs available
 - 🏠 **[Intern](intern.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 3 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 26 remote jobs available
@@ -54,7 +54,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Infrastructure Security Engineer at MatterLabs
+### 1. Staffing Solution Architect at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staffing-solution-architect-bairesdev)
+
+---
+
+### 2. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +74,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Director of Product Marketing at MatterLabs
+### 3. Director of Product Marketing at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Protocol Security Engineer at MatterLabs
+### 4. Protocol Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Executive Producer, Content at VRChat
+### 5. Executive Producer, Content at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
+### 6. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Fullstack Engineer, Contributor Success, Strategy at GitLab
+### 7. Fullstack Engineer, Contributor Success, Strategy at GitLab
 
 💰 **Salary**: $98,000-$210,000 USD
 
@@ -116,7 +126,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Digital Marketing Manager at WP Media
+### 8. Digital Marketing Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +136,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Contract Flutter Engineer at Fueled
+### 9. Contract Flutter Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +146,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Recruiter at BairesDev
+### 10. Senior Recruiter at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +156,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Engineering Internship at Appwrite
+### 11. Engineering Internship at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -156,7 +166,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Outside Sales Executive at BairesDev
+### 12. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +176,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Senior Engineer- Experience Anywhere at VRChat
+### 13. Senior Engineer- Experience Anywhere at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +186,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Senior Full Stack Engineer at Zircuit
+### 14. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Software Engineer, Backend (Consumer - Growth) at Coinbase
+### 15. Software Engineer, Backend (Consumer - Growth) at Coinbase
 
 💰 **Salary**: $147,000-$174,000 USD
 
@@ -198,7 +208,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Protocol Engineer at MatterLabs
+### 16. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +218,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Technical Account Manager, Pressable at Automattic
+### 17. Technical Account Manager, Pressable at Automattic
 
 💰 **Salary**: $70,000-$130,000 USD
 
@@ -220,7 +230,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Senior Full Stack Developer at 90 Seconds
+### 18. Senior Full Stack Developer at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -230,7 +240,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Backend Software Engineer (PHP/Python) at WP Media
+### 19. Backend Software Engineer (PHP/Python) at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -240,23 +250,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. Recruiting Analyst at BairesDev
+### 20. Recruiting Analyst at BairesDev
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recruiting-analyst-bairesdev)
-
----
-
-### 20. Business Development Manager at 90 Seconds
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-development-manager-90-seconds)
 
 ---
 
@@ -286,6 +286,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 17, 2025 at 00:00 UTC_
+_Last updated: November 18, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
