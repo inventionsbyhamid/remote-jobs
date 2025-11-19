@@ -328,20 +328,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 31. Java Architect- Compliance at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-worldwide-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 31 positions available
+**Total Jobs**: 30 positions available
 
 ---
 
@@ -369,6 +359,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 18, 2025 at 00:00 UTC_
+_Last updated: November 19, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
