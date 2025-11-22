@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. VP, Growth at beehiiv
+### 1. Sales Director (Retail Background) - Remote at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-bairesdev)
+
+---
+
+### 2. VP, Growth at beehiiv
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Sales Director (Financial Services) - Remote at BairesDev
+### 3. Sales Director (Financial Services) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Senior Outside Sales Executive at BairesDev
+### 4. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 5. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Partner Manager (Automattic for Agencies) at Automattic
+### 6. Partner Manager (Automattic for Agencies) at Automattic
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Sales Enablement Manager at Dandy
+### 7. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Global Director of Operations at Dandy
+### 8. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -86,7 +96,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Commercial Account Executive (CAE) at Dandy
+### 9. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Business Development Representative at Automattic
+### 10. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Business Operations Lead at Atticus
+### 11. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 12. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +142,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Head of Account Management at Atticus
+### 13. Head of Account Management at Atticus
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Independent Agent Sales Lead at Phantom
+### 14. Independent Agent Sales Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Head of Business Development at Phantom
+### 15. Head of Business Development at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +174,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 15. Head of Growth at SafetyWing
+### 16. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +184,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 16. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 17. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +194,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 17. Partner Sales Director - IHV Alliances at Canonical
+### 18. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +204,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 18. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 19. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +214,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 19. Chief Revenue Officer at Canonical
+### 20. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -214,7 +224,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 20. Partner Marketing Director at Canonical
+### 21. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -224,7 +234,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 21. Product Manager, LATAM at Airbnb
+### 22. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -234,7 +244,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 22. Product Manager, LATAM at Airbnb
+### 23. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -247,7 +257,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 22 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -275,6 +285,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 21, 2025 at 00:00 UTC_
+_Last updated: November 22, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
