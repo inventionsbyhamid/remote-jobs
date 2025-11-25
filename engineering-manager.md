@@ -200,60 +200,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 18. Senior Engineering Manager- Ubuntu at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-engineering-manager-ubuntu-canonical)
 
 ---
 
-### 19. Billing System Engineering Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/billing-system-engineering-manager-canonical)
-
----
-
-### 20. Rust Engineering Lead - Linux and Open Source at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/rust-engineering-lead-linux-and-open-source-canonical)
-
----
-
-### 21. Engineering Manager - Security Standards and Hardening at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-security-standards-and-hardening-canonical)
-
----
-
-### 22. Engineering Manager for IAM (Identity and Access Management) at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-for-iam-canonical)
-
----
-
-
----
-
-**Total Jobs**: 22 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -281,6 +231,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 24, 2025 at 00:00 UTC_
+_Last updated: November 25, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
