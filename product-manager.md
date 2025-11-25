@@ -186,50 +186,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 17. Junior Product Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/junior-product-manager-canonical)
 
 ---
 
-### 18. Product Manager - Desktop at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-desktop-canonical)
-
----
-
-### 19. Product Manager, LATAM at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
-
----
-
-### 20. Product Manager, LATAM at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
-
----
-
-
----
-
-**Total Jobs**: 20 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -257,6 +217,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 24, 2025 at 00:00 UTC_
+_Last updated: November 25, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
