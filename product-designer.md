@@ -174,20 +174,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 17. UX Designer - Design systems at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ux-designer-design-systems-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 17 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -215,6 +205,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 24, 2025 at 00:00 UTC_
+_Last updated: November 25, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
