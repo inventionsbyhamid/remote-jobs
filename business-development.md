@@ -204,60 +204,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 19. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-sales-manager-hewlett-packard-enterprise-india-canonical)
 
 ---
 
-### 20. Chief Revenue Officer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chief-revenue-officer-canonical)
-
----
-
-### 21. Partner Marketing Director at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-marketing-director-canonical)
-
----
-
-### 22. Product Manager, LATAM at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
-
----
-
-### 23. Product Manager, LATAM at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
-
----
-
-
----
-
-**Total Jobs**: 23 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -285,6 +235,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 24, 2025 at 00:00 UTC_
+_Last updated: November 25, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
