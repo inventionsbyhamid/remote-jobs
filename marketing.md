@@ -258,60 +258,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 24. Events Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/events-manager-canonical)
 
 ---
 
-### 25. Growth Engineer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-engineer-canonical)
-
----
-
-### 26. Partner Marketing Director at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-marketing-director-canonical)
-
----
-
-### 27. Product Manager, LATAM at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
-
----
-
-### 28. Product Manager, LATAM at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
-
----
-
-
----
-
-**Total Jobs**: 28 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -339,6 +289,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 24, 2025 at 00:00 UTC_
+_Last updated: November 25, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
