@@ -94,50 +94,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Platform Engineer - Integrations at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-integrations-appwrite)
 
 ---
 
-### 10. Senior Site Reliability Engineer, Environment Automation at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-site-reliability-engineer-environment-automation-gitlab)
-
----
-
-### 11. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/telco-cloud-engineer-americas-canonical)
-
----
-
-### 12. Distributed Systems Software Engineer, Python / Go at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/distributed-systems-software-engineer-python-go-canonical)
-
----
-
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -165,6 +125,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 25, 2025 at 00:00 UTC_
+_Last updated: November 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
