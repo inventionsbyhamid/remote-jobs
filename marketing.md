@@ -206,62 +206,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Head of Growth at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-growth-safetywing)
 
 ---
 
-### 20. SEO Specialist / Manager at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/seo-specialist-manager-wp-media)
-
----
-
-### 21. Senior Internal Communications Manager at Coinbase
-
-💰 **Salary**: $201,365-$236,900 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-internal-communications-manager-coinbase)
-
----
-
-### 22. Content marketing team manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/content-marketing-team-manager-canonical)
-
----
-
-### 23. EMEA Marketing Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/emea-marketing-manager-canonical)
-
----
-
-
----
-
-**Total Jobs**: 23 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -289,6 +237,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 25, 2025 at 00:00 UTC_
+_Last updated: November 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
