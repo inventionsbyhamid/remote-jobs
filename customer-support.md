@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Technical Account Manager, Pressable at Automattic
+### 1. Junior Developer Support Specialist - Contractor at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/junior-developer-support-specialist-contractor-phantom)
+
+---
+
+### 2. Technical Account Manager, Pressable at Automattic
 
 💰 **Salary**: $70,000-$130,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Customer Support Specialist - Contractor at Phantom
+### 3. Customer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Client Experience Associate at Atticus
+### 4. Client Experience Associate at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Crypto Operations Associate at Alpaca
+### 5. Crypto Operations Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Client Associate at Atticus
+### 6. Client Associate at Atticus
 
 💰 **Salary**: $70,000-$85,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
+### 7. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -75,7 +85,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -103,6 +113,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 25, 2025 at 00:00 UTC_
+_Last updated: November 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
