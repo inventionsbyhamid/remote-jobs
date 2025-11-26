@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. EDI Developer at Applaudo
+### 1. Senior Data Engineer at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-data-engineer-phantom)
+
+---
+
+### 2. EDI Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Staff Data Scientist at Automattic
+### 3. Staff Data Scientist at Automattic
 
 💰 **Salary**: $200,000-$275,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Senior Data Scientist I at Dandy
+### 4. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Scheduling Optimization Engineer at Applaudo
+### 5. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Senior Data Scientist at Automattic
+### 6. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. Staff Analytics Engineer at Coinbase
+### 7. Staff Analytics Engineer at Coinbase
 
 💰 **Salary**: $207,000-$244,100 USD
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Data Scientist at Atticus
+### 8. Data Scientist at Atticus
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -86,40 +96,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Data Scientist at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-scientist-applaudo)
 
 ---
 
-### 9. Palantir Foundry Engineer - Remote Work at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/palantir-foundry-engineer-remote-work-bairesdev)
-
----
-
-### 10. Graduate Talent Scientist at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-talent-scientist-canonical)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -147,6 +127,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 25, 2025 at 00:00 UTC_
+_Last updated: November 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
