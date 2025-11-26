@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sales Director (Retail Background) - Remote at BairesDev
+### 1. Senior account Executive at Toggl
+
+💰 **Salary**: $80,000+ USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-account-executive-toggl)
+
+---
+
+### 2. Sales Director (Retail Background) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. VP, Growth at beehiiv
+### 3. VP, Growth at beehiiv
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Sales Director (Financial Services) - Remote at BairesDev
+### 4. Sales Director (Financial Services) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Senior Outside Sales Executive at BairesDev
+### 5. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 6. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Partner Manager (Automattic for Agencies) at Automattic
+### 7. Partner Manager (Automattic for Agencies) at Automattic
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Sales Enablement Manager at Dandy
+### 8. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Global Director of Operations at Dandy
+### 9. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -96,7 +108,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Commercial Account Executive (CAE) at Dandy
+### 10. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -108,7 +120,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Business Development Representative at Automattic
+### 11. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -120,7 +132,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Business Operations Lead at Atticus
+### 12. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -132,7 +144,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 13. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Head of Account Management at Atticus
+### 14. Head of Account Management at Atticus
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -154,7 +166,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Independent Agent Sales Lead at Phantom
+### 15. Independent Agent Sales Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +176,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 15. Head of Business Development at Phantom
+### 16. Head of Business Development at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -174,40 +186,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 16. Head of Growth at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-growth-safetywing)
 
 ---
 
-### 17. Sales Director (B2B IT Services) - Remote Work: at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-work-bairesdev)
-
----
-
-### 18. Partner Sales Director - IHV Alliances at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-sales-director-ihv-alliances-canonical)
-
----
-
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -235,6 +217,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 25, 2025 at 00:00 UTC_
+_Last updated: November 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
