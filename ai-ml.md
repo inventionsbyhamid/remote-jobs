@@ -148,52 +148,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. AI Growth Lead (AI Automation DRI) at Coinbase
-
-💰 **Salary**: $217,900 CAD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ai-growth-lead-coinbase)
 
 ---
 
-### 14. Data Scientist at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-scientist-applaudo)
-
----
-
-### 15. Graduate Talent Scientist at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-talent-scientist-canonical)
-
----
-
-### 16. Distributed Systems Software Engineer, Python / Go at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/distributed-systems-software-engineer-python-go-canonical)
-
----
-
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -221,6 +179,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 25, 2025 at 00:00 UTC_
+_Last updated: November 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
