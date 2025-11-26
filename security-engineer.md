@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Infrastructure Security Engineer at MatterLabs
+### 1. Senior/Staff Security Engineer - Corporate Security at Phantom
+
+💰 **Salary**: $225,000-$285,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-staff-security-engineer-corporate-security-phantom)
+
+---
+
+### 2. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Protocol Security Engineer at MatterLabs
+### 3. Protocol Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Protocol Engineer at MatterLabs
+### 4. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Engineering Manager, CorpSec at Coinbase
+### 5. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Staff Product Security Engineer (Security) at Phantom
+### 6. Staff Product Security Engineer (Security) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Product Security Engineer at Alpaca
+### 7. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Staff KMS Security Engineer (Security) at Phantom
+### 8. Staff KMS Security Engineer (Security) at Phantom
 
 💰 **Salary**: $250,000-$285,000 USD
 
@@ -81,16 +93,6 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-kms-security-engineer-pantom)
-
----
-
-### 8. Senior Security Operations Engineer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-security-operations-engineer-canonical)
 
 ---
 
@@ -125,6 +127,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 25, 2025 at 00:00 UTC_
+_Last updated: November 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
