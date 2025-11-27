@@ -202,32 +202,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 19. Contract Senior Front-End Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-front-end-engineer-fueled)
 
 ---
 
-### 20. Senior Fullstack Engineer at Atticus
-
-💰 **Salary**: $170,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-fullstack-engineer-atticus)
-
----
-
-
----
-
-**Total Jobs**: 20 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -255,6 +233,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 26, 2025 at 00:00 UTC_
+_Last updated: November 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
