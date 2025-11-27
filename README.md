@@ -18,33 +18,33 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 12 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 11 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 1 remote job available
 - 🏠 **[Android Developer](android-developer.md)** - 2 remote jobs available
-- 🏠 **[Backend](backend.md)** - 27 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 16 remote jobs available
+- 🏠 **[Backend](backend.md)** - 25 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 15 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
 - 🏠 **[Customer Success](customer-success.md)** - 7 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 7 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 8 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 8 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 18 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 8 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 7 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 6 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 16 remote jobs available
 - 🏠 **[Finance](finance.md)** - 4 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 20 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 22 remote jobs available
-- 🏠 **[HR](hr.md)** - 13 remote jobs available
-- 🏠 **[Intern](intern.md)** - 1 remote job available
-- 🏠 **[Legal](legal.md)** - 3 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 18 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 16 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 16 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 18 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 17 remote jobs available
+- 🏠 **[HR](hr.md)** - 12 remote jobs available
+- 🏠 **[Intern](intern.md)** - 2 remote jobs available
+- 🏠 **[Legal](legal.md)** - 2 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 17 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 15 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 14 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
 - 🏠 **[Research](research.md)** - 6 remote jobs available
-- 🏠 **[Sales](sales.md)** - 16 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 8 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 4 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 55 remote jobs available
+- 🏠 **[Sales](sales.md)** - 15 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 7 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 3 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 51 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 1 remote job available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
@@ -55,7 +55,47 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior/Staff Security Engineer - Corporate Security at Phantom
+### 1. Junior Trust & Safety Moderator - Contractor at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/junior-trust-safety-moderator-contractor-phantom)
+
+---
+
+### 2. Contract Senior Web Services Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-web-services-engineer-fueled)
+
+---
+
+### 3. Product Engineering Intern at Appwrite
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Intern
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-engineering-intern-appwrite)
+
+---
+
+### 4. Senior Software Engineer, Backend (Money Movement) at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-backend-phantom)
+
+---
+
+### 5. Senior/Staff Security Engineer - Corporate Security at Phantom
 
 💰 **Salary**: $225,000-$285,000 USD
 
@@ -67,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Junior Developer Support Specialist - Contractor at Phantom
+### 6. Junior Developer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -77,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Senior Software Engineer, Frontend (Money Movement) at Phantom
+### 7. Senior Software Engineer, Frontend (Money Movement) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +127,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Data Engineer at Phantom
+### 8. Senior Data Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -97,7 +137,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Engineering Director, Windows at DuckDuckGo
+### 9. Engineering Director, Windows at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -109,7 +149,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior account Executive at Toggl
+### 10. Senior account Executive at Toggl
 
 💰 **Salary**: $80,000+ USD
 
@@ -121,7 +161,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Talent Acquisition Specialist at Toggl
+### 11. Talent Acquisition Specialist at Toggl
 
 🌍 **Location**: Worldwide
 
@@ -131,7 +171,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior/Staff Backend Engineer, Identity Platform at Phantom
+### 12. Senior/Staff Backend Engineer, Identity Platform at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -141,7 +181,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Product Communications Lead at Phantom
+### 13. Product Communications Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -151,7 +191,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Software Engineer (Trading) at Phantom
+### 14. Software Engineer (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -163,7 +203,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Talent Sourcing Manager at BairesDev
+### 15. Talent Sourcing Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -173,7 +213,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. QA Automation Engineer at Applaudo
+### 16. QA Automation Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -183,7 +223,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Sales Director (Retail Background) - Remote at BairesDev
+### 17. Sales Director (Retail Background) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -193,7 +233,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. VP, Growth at beehiiv
+### 18. VP, Growth at beehiiv
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -205,7 +245,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Sales Director (Financial Services) - Remote at BairesDev
+### 19. Sales Director (Financial Services) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -215,53 +255,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Full-Stack Java + React Technical Leader at BairesDev
+### 20. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/full-stack-java-react-technical-leader-remote-bairesdev)
-
----
-
-### 17. Staffing Solution Architect at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staffing-solution-architect-bairesdev)
-
----
-
-### 18. Senior Infrastructure Security Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-infrastructure-security-engineer-matterlabs)
-
----
-
-### 19. Director of Product Marketing at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-product-marketing-matterlabs)
-
----
-
-### 20. Protocol Security Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/protocol-security-engineer-matterlabs)
 
 ---
 
@@ -291,6 +291,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 26, 2025 at 00:00 UTC_
+_Last updated: November 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
