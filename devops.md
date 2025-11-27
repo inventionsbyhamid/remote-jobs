@@ -72,32 +72,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Platform Engineer - Database at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-database-appwrite)
 
 ---
 
-### 8. Senior Systems Engineer at Automattic
-
-💰 **Salary**: $120,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-systems-engineer-automattic)
-
----
-
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -125,6 +103,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 26, 2025 at 00:00 UTC_
+_Last updated: November 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
