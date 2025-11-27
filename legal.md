@@ -32,22 +32,10 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Attorney at Atticus
-
-💰 **Salary**: $120,000-$150,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/attorney-atticus)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -75,6 +63,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 26, 2025 at 00:00 UTC_
+_Last updated: November 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
