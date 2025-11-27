@@ -190,32 +190,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 17. Senior Engineering Manager at Phantom
-
-💰 **Salary**: $200,000-$240,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-engineering-manager-pantom)
 
 ---
 
-### 18. Head of Product at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-product-pantom)
-
----
-
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -243,6 +221,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 26, 2025 at 00:00 UTC_
+_Last updated: November 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
