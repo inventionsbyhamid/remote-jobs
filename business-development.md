@@ -176,20 +176,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 16. Head of Business Development at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-business-development-pantom)
 
 ---
 
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -217,6 +207,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 26, 2025 at 00:00 UTC_
+_Last updated: November 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
