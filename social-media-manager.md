@@ -38,22 +38,10 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 4. Content Marketing Manager - Social Media at Kit
-
-💰 **Salary**: $125,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/content-marketing-manager-social-media-kit)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +69,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 26, 2025 at 00:00 UTC_
+_Last updated: November 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
