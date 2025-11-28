@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Talent Acquisition Specialist at Toggl
+### 1. Staffing Manager at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staffing-manager-bairesdev)
+
+---
+
+### 2. Talent Acquisition Specialist at Toggl
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Talent Sourcing Manager at BairesDev
+### 3. Talent Sourcing Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Staffing Solution Architect at BairesDev
+### 4. Staffing Solution Architect at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Senior Recruiter at BairesDev
+### 5. Senior Recruiter at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Recruiting Analyst at BairesDev
+### 6. Recruiting Analyst at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Hunting Manager at BairesDev
+### 7. Hunting Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Talent Acquisition Associate at BairesDev
+### 8. Talent Acquisition Associate at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. Global Director of Operations at Dandy
+### 9. Global Director of Operations at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 9. Talent Acquisition Manager at BairesDev
+### 10. Talent Acquisition Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 10. Global Director of Operations at Dandy
+### 11. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -110,25 +120,13 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 11. Talent Operations Manager at BairesDev
+### 12. Talent Operations Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-operations-manager-bairesdev)
-
----
-
-### 12. Recruiter at Atticus
-
-💰 **Salary**: $90,000-$140,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/recruiter-atticus)
 
 ---
 
@@ -163,6 +161,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
