@@ -168,30 +168,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 16. Senior Full Stack JavaScript Engineer at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-javascript-engineer-remote-passion-io)
 
 ---
 
-### 17. Dream Job at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dream-job-appwrite)
-
----
-
-
----
-
-**Total Jobs**: 17 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -219,6 +199,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
