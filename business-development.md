@@ -154,32 +154,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Head of Account Management at Atticus
-
-💰 **Salary**: $140,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-account-management-atticus)
 
 ---
 
-### 15. Independent Agent Sales Lead at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/independent-agent-sales-lead-pantom)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -207,6 +185,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
