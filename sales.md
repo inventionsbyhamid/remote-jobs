@@ -152,32 +152,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Independent Agent Sales Lead at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/independent-agent-sales-lead-pantom)
 
 ---
 
-### 15. Sales Representative at Phantom
-
-💰 **Salary**: $24,000-$36,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-representative-pantom)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -205,6 +183,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
