@@ -130,44 +130,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 13. Product Designer at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-atticus)
 
 ---
 
-### 14. Director of Brand Creative at Phantom
-
-💰 **Salary**: $220,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-brand-creative-pantom)
-
----
-
-### 15. Staff Product Designer at Phantom
-
-💰 **Salary**: $215,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-product-designer-pantom)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -195,6 +161,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
