@@ -60,22 +60,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. System Administrator at Atticus
-
-💰 **Salary**: $110,000-$150,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/system-administrator-atticus)
 
 ---
 
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -103,6 +91,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
