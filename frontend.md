@@ -182,30 +182,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 17. Android Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/android-developer-applaudo)
 
 ---
 
-### 18. Frontend Engineer, Growth & Engagement Team at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/frontend-engineer-growth-engagement-team-pantom)
-
----
-
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -233,6 +213,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
