@@ -510,60 +510,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 47. Product Security Engineer at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-security-engineer-alpaca)
 
 ---
 
-### 48. Android Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/android-developer-applaudo)
-
----
-
-### 49. Senior Full Stack JavaScript Engineer at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-full-stack-javascript-engineer-remote-passion-io)
-
----
-
-### 50. Frontend Engineer, Growth & Engagement Team at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/frontend-engineer-growth-engagement-team-pantom)
-
----
-
-### 51. Dream Job at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dream-job-appwrite)
-
----
-
-
----
-
-**Total Jobs**: 51 positions available
+**Total Jobs**: 46 positions available
 
 ---
 
@@ -591,6 +541,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
