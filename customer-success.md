@@ -72,22 +72,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 7. Head of Account Management at Atticus
-
-💰 **Salary**: $140,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-account-management-atticus)
 
 ---
 
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -115,6 +103,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
