@@ -136,68 +136,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Growth Lead (Head of SEM) at Atticus
-
-💰 **Salary**: $130,000-$155,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-lead-atticus)
 
 ---
 
-### 14. Brand Marketer at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/brand-marketer-pantom)
-
----
-
-### 15. Director of Brand Creative at Phantom
-
-💰 **Salary**: $220,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-brand-creative-pantom)
-
----
-
-### 16. Senior Product Marketer at Phantom
-
-💰 **Salary**: $150,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-marketer-pantom)
-
----
-
-### 17. Lifecycle Marketing Lead (Head of Lifecycle Marketing) at Atticus
-
-💰 **Salary**: $130,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lifecycle-marketing-lead-atticus)
-
----
-
-
----
-
-**Total Jobs**: 17 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -225,6 +167,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
