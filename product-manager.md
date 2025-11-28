@@ -154,22 +154,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 14. Growth Lead (Head of SEM) at Atticus
-
-💰 **Salary**: $130,000-$155,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-lead-atticus)
 
 ---
 
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -197,6 +185,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 27, 2025 at 00:00 UTC_
+_Last updated: November 28, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
