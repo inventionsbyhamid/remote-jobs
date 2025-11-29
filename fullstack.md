@@ -132,46 +132,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 13. Senior Software Engineer II at Kit
-
-💰 **Salary**: $181,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-ii-kit)
 
 ---
 
-### 14. Staff Software Engineer, Backend at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-backend-pantom)
-
----
-
-### 15. Senior Rust Engineer at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-rust-engineer-pantom)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -199,6 +163,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 28, 2025 at 00:00 UTC_
+_Last updated: November 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
