@@ -50,52 +50,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Client Experience Associate at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/client-experience-associate-atticus)
 
 ---
 
-### 6. Crypto Operations Associate at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/crypto-operations-associate-alpaca)
-
----
-
-### 7. Client Associate at Atticus
-
-💰 **Salary**: $70,000-$85,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/client-associate-atticus)
-
----
-
-### 8. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-customer-support-agent-pantom)
-
----
-
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -123,6 +81,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 28, 2025 at 00:00 UTC_
+_Last updated: November 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
