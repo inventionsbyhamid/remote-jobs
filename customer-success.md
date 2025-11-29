@@ -52,30 +52,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 5. Client Experience Associate at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/client-experience-associate-atticus)
 
 ---
 
-### 6. Customer Success Manager at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/customer-success-manager-passion-io)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -103,6 +83,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 28, 2025 at 00:00 UTC_
+_Last updated: November 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
