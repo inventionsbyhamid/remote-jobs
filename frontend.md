@@ -146,46 +146,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 14. Senior Software Engineer, Frontend at Phantom
-
-💰 **Salary**: $180,000-$220,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-frontend-pantom)
 
 ---
 
-### 15. Senior Software Engineer II at Kit
-
-💰 **Salary**: $181,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-ii-kit)
-
----
-
-### 16. Staff Frontend Engineer (Platform) at Phantom
-
-💰 **Salary**: $200,000-$270,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-frontend-engineer-pantom)
-
----
-
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -213,6 +177,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 28, 2025 at 00:00 UTC_
+_Last updated: November 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
