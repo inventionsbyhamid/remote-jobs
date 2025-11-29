@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Director, Windows at DuckDuckGo
+### 1. Engineering Manager (Consumer - Trading) at Coinbase
+
+💰 **Salary**: $218,025-$256,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-engineering-manager-coinbase)
+
+---
+
+### 2. Engineering Director, Windows at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Full-Stack Java + React Technical Leader at BairesDev
+### 3. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+### 4. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Engineering Director, Web Platform at DuckDuckGo
+### 5. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Senior Project Manager - Remote Work at BairesDev
+### 6. Senior Project Manager - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Engineering Director, Web Platform at DuckDuckGo
+### 7. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -74,7 +86,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Senior Director of Supply Chain and Manufacturing Technology at Dandy
+### 8. Senior Director of Supply Chain and Manufacturing Technology at Dandy
 
 💰 **Salary**: $248,000-$310,000 USD
 
@@ -86,7 +98,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Engineering Manager, Product at Dandy
+### 9. Engineering Manager, Product at Dandy
 
 💰 **Salary**: $221,100-$268,000 USD
 
@@ -98,7 +110,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Global Director of Operations at Dandy
+### 10. Global Director of Operations at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +120,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Engineering Manager, Machine Learning at Dandy
+### 11. Engineering Manager, Machine Learning at Dandy
 
 💰 **Salary**: $216,800-$255,000 USD
 
@@ -120,7 +132,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Color Management Lead at Dandy
+### 12. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -132,7 +144,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Full-Stack Java + React Technical Leader at BairesDev
+### 13. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Engineering Manager, CorpSec at Coinbase
+### 14. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -154,7 +166,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 14. Engineering Manager (Platform) at Coinbase
+### 15. Engineering Manager (Platform) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -166,7 +178,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 15. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
+### 16. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -175,18 +187,6 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-remote-coinbase)
-
----
-
-### 16. Director of Product Design at Phantom
-
-💰 **Salary**: $220,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-product-design-pantom)
 
 ---
 
@@ -221,6 +221,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 28, 2025 at 00:00 UTC_
+_Last updated: November 29, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
