@@ -32,30 +32,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Community Manager at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/community-manager-passion-io)
 
 ---
 
-### 4. Customer Support Specialist - Contractor at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/customer-support-specialist-contractor-pantom)
-
----
-
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -83,6 +63,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 29, 2025 at 00:00 UTC_
+_Last updated: November 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
