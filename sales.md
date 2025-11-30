@@ -132,30 +132,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Sales Openers Manager at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-openers-manager-pantom)
 
 ---
 
-### 13. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/designing-and-launching-a-global-commission-only-independent-agent-sales-organization-for-remote-health-safetywing)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -183,6 +163,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 29, 2025 at 00:00 UTC_
+_Last updated: November 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
