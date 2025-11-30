@@ -124,32 +124,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 12. Software Engineer, Frontend (Consumer - Trading) at Coinbase
-
-💰 **Salary**: $152,405-$179,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-frontend-coinbase)
 
 ---
 
-### 13. Lead JavaScript Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-javascript-engineer-fueled)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -177,6 +155,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 29, 2025 at 00:00 UTC_
+_Last updated: November 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
