@@ -104,30 +104,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Sales Openers Manager at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-openers-manager-pantom)
 
 ---
 
-### 11. Growth Lead - AIOSEO at Awesome Motive
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-lead-aioseo-awesome-motive)
-
----
-
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -155,6 +135,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 29, 2025 at 00:00 UTC_
+_Last updated: November 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
