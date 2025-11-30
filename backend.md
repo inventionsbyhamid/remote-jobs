@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Manager (Consumer - Trading) at Coinbase
+### 1. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
+
+💰 **Salary**: $211,650-$249,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-backend-remote-coinbase)
+
+---
+
+### 2. Engineering Manager (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Contract Senior Web Services Engineer at Fueled
+### 3. Contract Senior Web Services Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Senior Software Engineer, Backend (Money Movement) at Phantom
+### 4. Senior Software Engineer, Backend (Money Movement) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Senior/Staff Backend Engineer, Identity Platform at Phantom
+### 5. Senior/Staff Backend Engineer, Identity Platform at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Software Engineer (Trading) at Phantom
+### 6. Software Engineer (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Engineering Internship at Appwrite
+### 7. Engineering Internship at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Senior Engineer- Experience Anywhere at VRChat
+### 8. Senior Engineer- Experience Anywhere at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Senior Full Stack Engineer at Zircuit
+### 9. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +104,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 9. Software Engineer, Backend (Consumer - Growth) at Coinbase
+### 10. Software Engineer, Backend (Consumer - Growth) at Coinbase
 
 💰 **Salary**: $147,000-$174,000 USD
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 10. Protocol Engineer at MatterLabs
+### 11. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +126,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 11. Backend Software Engineer (PHP/Python) at WP Media
+### 12. Backend Software Engineer (PHP/Python) at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 12. Backend Engineer at Clerk
+### 13. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +146,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 13. EDI Developer at Applaudo
+### 14. EDI Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +156,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 14. Engineering Director, Web Platform at DuckDuckGo
+### 15. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -156,7 +168,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 15. Senior Backend Engineer (Platform and API) at Buffer
+### 16. Senior Backend Engineer (Platform and API) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -168,7 +180,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 16. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 17. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -180,7 +192,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 17. Senior Software Engineer, Backend (Platform) at Coinbase
+### 18. Senior Software Engineer, Backend (Platform) at Coinbase
 
 💰 **Salary**: $191,000 CAD
 
@@ -192,7 +204,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 18. Senior .NET Engineer - Remote Work at BairesDev
+### 19. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -202,52 +214,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 19. Staff Backend Engineer (Social) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-backend-engineer-pantom)
 
 ---
 
-### 20. Senior Software Engineer - Identity at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-identity-alpaca)
-
----
-
-### 21. Senior Software Engineer – Advisory Suite at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-advisory-suite-alpaca)
-
----
-
-### 22. Backend Engineer, Blockchain Data Team at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-engineer-blockchain-data-team-pantom)
-
----
-
-
----
-
-**Total Jobs**: 22 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -275,6 +245,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 29, 2025 at 00:00 UTC_
+_Last updated: November 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
