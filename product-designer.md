@@ -108,20 +108,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 11. Lead User Researcher at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-user-researcher-atticus)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -149,6 +139,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 29, 2025 at 00:00 UTC_
+_Last updated: November 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
