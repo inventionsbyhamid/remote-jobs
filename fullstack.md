@@ -122,20 +122,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 12. Fullstack Developer (Next.js) at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/fullstack-developer-applaudo)
 
 ---
 
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -163,6 +153,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 30, 2025 at 00:00 UTC_
+_Last updated: December 01, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
