@@ -88,44 +88,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Product Manager - BackWup at WP Media
-
-💰 **Salary**: $120,000-$190,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-backwup-wp-media)
 
 ---
 
-### 9. Senior Product Manager, International Derivatives at Coinbase
-
-💰 **Salary**: $207,485-$244,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-international-derivatives-coinbase)
-
----
-
-### 10. Product Manager at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-atticus)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -153,6 +119,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 30, 2025 at 00:00 UTC_
+_Last updated: December 01, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
