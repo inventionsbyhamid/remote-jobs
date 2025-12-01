@@ -18,30 +18,30 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 11 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 9 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 19 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 12 remote jobs available
+- 🏠 **[Backend](backend.md)** - 18 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 11 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
 - 🏠 **[Customer Success](customer-success.md)** - 2 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 3 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 7 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 5 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 5 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 16 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 11 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 12 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 15 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 10 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 11 remote jobs available
 - 🏠 **[HR](hr.md)** - 11 remote jobs available
 - 🏠 **[Intern](intern.md)** - 2 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 9 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 10 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 10 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 7 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
 - 🏠 **[Research](research.md)** - 5 remote jobs available
 - 🏠 **[Sales](sales.md)** - 11 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 5 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 33 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 32 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 1 remote job available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
@@ -52,7 +52,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
+### 1. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-full-time-bairesdev)
+
+---
+
+### 2. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -64,7 +74,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Engineering Manager (Consumer - Trading) at Coinbase
+### 3. Engineering Manager (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -76,7 +86,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Staffing Manager at BairesDev
+### 4. Staffing Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +96,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Junior Trust & Safety Moderator - Contractor at Phantom
+### 5. Junior Trust & Safety Moderator - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +106,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Contract Senior Web Services Engineer at Fueled
+### 6. Contract Senior Web Services Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +116,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Product Engineering Intern at Appwrite
+### 7. Product Engineering Intern at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +126,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Software Engineer, Backend (Money Movement) at Phantom
+### 8. Senior Software Engineer, Backend (Money Movement) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +136,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior/Staff Security Engineer - Corporate Security at Phantom
+### 9. Senior/Staff Security Engineer - Corporate Security at Phantom
 
 💰 **Salary**: $225,000-$285,000 USD
 
@@ -138,7 +148,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Junior Developer Support Specialist - Contractor at Phantom
+### 10. Junior Developer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +158,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Software Engineer, Frontend (Money Movement) at Phantom
+### 11. Senior Software Engineer, Frontend (Money Movement) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +168,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Data Engineer at Phantom
+### 12. Senior Data Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +178,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Engineering Director, Windows at DuckDuckGo
+### 13. Engineering Director, Windows at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -180,7 +190,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Senior account Executive at Toggl
+### 14. Senior account Executive at Toggl
 
 💰 **Salary**: $80,000+ USD
 
@@ -192,7 +202,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Talent Acquisition Specialist at Toggl
+### 15. Talent Acquisition Specialist at Toggl
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +212,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior/Staff Backend Engineer, Identity Platform at Phantom
+### 16. Senior/Staff Backend Engineer, Identity Platform at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -212,7 +222,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Product Communications Lead at Phantom
+### 17. Product Communications Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -222,7 +232,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Software Engineer (Trading) at Phantom
+### 18. Software Engineer (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -234,7 +244,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Talent Sourcing Manager at BairesDev
+### 19. Talent Sourcing Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -244,23 +254,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. QA Automation Engineer at Applaudo
+### 20. QA Automation Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Quality Assurance (QA)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-automation-engineer-applaudo)
-
----
-
-### 20. Sales Director (Retail Background) - Remote at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-bairesdev)
 
 ---
 
@@ -290,6 +290,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 30, 2025 at 00:00 UTC_
+_Last updated: December 01, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
