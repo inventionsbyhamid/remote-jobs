@@ -112,34 +112,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Senior Data Scientist at Automattic
-
-💰 **Salary**: $90,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-data-scientist-automattic)
 
 ---
 
-### 11. Staff Analytics Engineer at Coinbase
-
-💰 **Salary**: $207,000-$244,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-analytics-engineer-coinbase)
-
----
-
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -167,6 +143,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 30, 2025 at 00:00 UTC_
+_Last updated: December 01, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
