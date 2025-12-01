@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior account Executive at Toggl
+### 1. Sales Director (Oil & Gas Industry) - Remote at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-full-time-bairesdev)
+
+---
+
+### 2. Senior account Executive at Toggl
 
 💰 **Salary**: $80,000+ USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Sales Director (Retail Background) - Remote at BairesDev
+### 3. Sales Director (Retail Background) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Sales Director (Financial Services) - Remote at BairesDev
+### 4. Sales Director (Financial Services) - Remote at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Senior Outside Sales Executive at BairesDev
+### 5. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Technical Account Manager, Pressable at Automattic
+### 6. Technical Account Manager, Pressable at Automattic
 
 💰 **Salary**: $70,000-$130,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 7. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Senior Manager of Enterprise Account Management at Dandy
+### 8. Senior Manager of Enterprise Account Management at Dandy
 
 💰 **Salary**: $140,000-$192,000 USD
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Partner Manager (Automattic for Agencies) at Automattic
+### 9. Partner Manager (Automattic for Agencies) at Automattic
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -96,7 +106,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Sales Enablement Manager at Dandy
+### 10. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -108,7 +118,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Commercial Account Executive (CAE) at Dandy
+### 11. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -117,18 +127,6 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/commercial-account-executive-dandy)
-
----
-
-### 11. Business Development Representative at Automattic
-
-💰 **Salary**: $50,000-$70,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/business-development-representative-automattic)
 
 ---
 
@@ -163,6 +161,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: November 30, 2025 at 00:00 UTC_
+_Last updated: December 01, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
