@@ -308,58 +308,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 29. Senior Front-End Software Engineer, Email Hub at Circle
-
-💰 **Salary**: $130,000-$140,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-front-end-software-engineer-email-hub-circle)
 
 ---
 
-### 30. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
-
-💰 **Salary**: $185,500 CAD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-infrastructure-coinbase)
-
----
-
-### 31. Senior Software Engineer, Backend (Platform) at Coinbase
-
-💰 **Salary**: $191,000 CAD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-backend-coinbase)
-
----
-
-### 32. Experienced Software Engineer at Automattic
-
-💰 **Salary**: $70,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/experienced-software-engineer-automattic)
-
----
-
-
----
-
-**Total Jobs**: 32 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -387,6 +339,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 01, 2025 at 00:00 UTC_
+_Last updated: December 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
