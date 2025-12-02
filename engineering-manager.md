@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Manager (Consumer - Trading) at Coinbase
+### 1. Head of Product at Toggl
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-product-toggl)
+
+---
+
+### 2. Engineering Manager (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Engineering Director, Windows at DuckDuckGo
+### 3. Engineering Director, Windows at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Full-Stack Java + React Technical Leader at BairesDev
+### 4. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+### 5. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Engineering Director, Web Platform at DuckDuckGo
+### 6. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Senior Project Manager - Remote Work at BairesDev
+### 7. Senior Project Manager - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Engineering Director, Web Platform at DuckDuckGo
+### 8. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -86,7 +96,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Senior Director of Supply Chain and Manufacturing Technology at Dandy
+### 9. Senior Director of Supply Chain and Manufacturing Technology at Dandy
 
 💰 **Salary**: $248,000-$310,000 USD
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Engineering Manager, Product at Dandy
+### 10. Engineering Manager, Product at Dandy
 
 💰 **Salary**: $221,100-$268,000 USD
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Global Director of Operations at Dandy
+### 11. Global Director of Operations at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Engineering Manager, Machine Learning at Dandy
+### 12. Engineering Manager, Machine Learning at Dandy
 
 💰 **Salary**: $216,800-$255,000 USD
 
@@ -132,7 +142,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Color Management Lead at Dandy
+### 13. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Full-Stack Java + React Technical Leader at BairesDev
+### 14. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -154,34 +164,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 14. Engineering Manager, CorpSec at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-corpsec-coinbase)
 
 ---
 
-### 15. Engineering Manager (Platform) at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-full-time-coinbase)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -209,6 +195,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 01, 2025 at 00:00 UTC_
+_Last updated: December 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
