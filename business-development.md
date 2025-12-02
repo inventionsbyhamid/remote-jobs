@@ -118,22 +118,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Commercial Account Executive (CAE) at Dandy
-
-💰 **Salary**: $170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/commercial-account-executive-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -161,6 +149,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 01, 2025 at 00:00 UTC_
+_Last updated: December 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
