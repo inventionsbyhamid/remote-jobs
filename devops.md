@@ -48,22 +48,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
-
-💰 **Salary**: $185,500 CAD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-infrastructure-coinbase)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -91,6 +79,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 01, 2025 at 00:00 UTC_
+_Last updated: December 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
