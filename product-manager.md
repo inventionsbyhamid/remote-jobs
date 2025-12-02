@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Executive Producer, Content at VRChat
+### 1. Head of Product at Toggl
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-product-toggl)
+
+---
+
+### 2. Executive Producer, Content at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Senior Product Manager at WP Media
+### 3. Senior Product Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Senior Director of Supply Chain and Manufacturing Technology at Dandy
+### 4. Senior Director of Supply Chain and Manufacturing Technology at Dandy
 
 💰 **Salary**: $248,000-$310,000 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Senior Product Manager at Dandy
+### 5. Senior Product Manager at Dandy
 
 💰 **Salary**: $183,600-$216,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Principal Product Manager, Foundational ML Models at Dandy
+### 6. Principal Product Manager, Foundational ML Models at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Principal Product Manager, Growth at Dandy
+### 7. Principal Product Manager, Growth at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -73,18 +83,6 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/principal-product-manager-growth-dandy)
-
----
-
-### 7. Product Manager at Awesome Motive
-
-💰 **Salary**: $70,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-awesome-motive)
 
 ---
 
@@ -119,6 +117,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 01, 2025 at 00:00 UTC_
+_Last updated: December 02, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
