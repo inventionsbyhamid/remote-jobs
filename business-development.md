@@ -94,34 +94,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Sales Enablement Manager at Dandy
-
-💰 **Salary**: $124,100-$146,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-enablement-manager-dandy)
 
 ---
 
-### 10. Global Director of Operations at Dandy
-
-💰 **Salary**: $177,600-$222,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-director-of-operations-dandy)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -149,6 +125,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 02, 2025 at 00:00 UTC_
+_Last updated: December 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
