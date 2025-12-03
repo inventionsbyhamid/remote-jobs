@@ -54,22 +54,10 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Staff Machine Learning & Computer Vision Engineer at Dandy
-
-💰 **Salary**: $232,500-$258,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-machine-learning-computer-vision-engineer-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -97,6 +85,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 02, 2025 at 00:00 UTC_
+_Last updated: December 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
