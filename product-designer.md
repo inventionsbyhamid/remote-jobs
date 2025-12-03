@@ -58,40 +58,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Dental CAD Injection Mold Designer (Blender) at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/dental-cad-injection-mold-designer-dandy)
 
 ---
 
-### 7. Partial Denture Mold Designer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partial-denture-mold-designer-dandy)
-
----
-
-### 8. Thermoform Model Designer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/thermoform-model-designer-dandy)
-
----
-
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -119,6 +89,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 02, 2025 at 00:00 UTC_
+_Last updated: December 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
