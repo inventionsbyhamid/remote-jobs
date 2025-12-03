@@ -68,44 +68,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Software Engineer, CAD at Dandy
-
-💰 **Salary**: $201,500-$237,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-cad-dandy)
 
 ---
 
-### 7. Staff Machine Learning & Computer Vision Engineer at Dandy
-
-💰 **Salary**: $232,500-$258,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-machine-learning-computer-vision-engineer-dandy)
-
----
-
-### 8. Senior Data Scientist I at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-data-scientist-i-dandy)
-
----
-
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -133,6 +99,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 02, 2025 at 00:00 UTC_
+_Last updated: December 03, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
