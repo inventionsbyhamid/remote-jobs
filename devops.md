@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Infrastructure Security Engineer at MatterLabs
+### 1. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/intermediate-backendengineer-gitlab-delivery-operate-gitlab)
+
+---
+
+### 2. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -18,23 +28,13 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Platform Engineer - Developer Experience at Dandy
+### 3. Platform Engineer - Developer Experience at Dandy
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: DevOps
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-developer-experience-dandy)
-
----
-
-### 3. Platform Engineer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/platform-engineer-mexico-remote-dandy)
 
 ---
 
@@ -69,6 +69,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 03, 2025 at 00:00 UTC_
+_Last updated: December 04, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
