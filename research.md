@@ -42,22 +42,10 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Color Management Lead at Dandy
-
-💰 **Salary**: $109,700-$129,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/color-management-lead-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -85,6 +73,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 03, 2025 at 00:00 UTC_
+_Last updated: December 04, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
