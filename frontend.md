@@ -90,20 +90,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 9. Contract Senior JavaScript Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-javascript-engineer-fueled)
 
 ---
 
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -131,6 +121,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 03, 2025 at 00:00 UTC_
+_Last updated: December 04, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
