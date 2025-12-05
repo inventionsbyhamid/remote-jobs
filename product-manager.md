@@ -62,22 +62,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Principal Product Manager, Foundational ML Models at Dandy
-
-💰 **Salary**: $202,100-$245,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/principal-product-manager-foundational-ml-models-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -105,6 +93,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 04, 2025 at 00:00 UTC_
+_Last updated: December 05, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
