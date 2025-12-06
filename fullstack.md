@@ -80,20 +80,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. Senior Software Engineer, Practice Engagement at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-practice-engagement-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -121,6 +111,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 05, 2025 at 00:00 UTC_
+_Last updated: December 06, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
