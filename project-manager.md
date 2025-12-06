@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Project Manager - Remote Work at BairesDev
+### 1. Scrum Master at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/scrum-master-cloudlinux)
+
+---
+
+### 2. Senior Project Manager - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +31,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 05, 2025 at 00:00 UTC_
+_Last updated: December 06, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
