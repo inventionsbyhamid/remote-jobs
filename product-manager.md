@@ -50,22 +50,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Senior Product Manager at Dandy
-
-💰 **Salary**: $183,600-$216,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -93,6 +81,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 05, 2025 at 00:00 UTC_
+_Last updated: December 06, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
