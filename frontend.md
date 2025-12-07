@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Software Engineer, Frontend (Money Movement) at Phantom
+### 1. Software Engineer, Frontend - Risk Platform at Coinbase
+
+💰 **Salary**: $152,405-$179,360 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/software-engineer-frontend-risk-platform-coinbase)
+
+---
+
+### 2. Senior Software Engineer, Frontend (Money Movement) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
+### 3. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Contract Flutter Engineer at Fueled
+### 4. Contract Flutter Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
+### 5. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Staff Engineer at Clerk
+### 6. Staff Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -58,23 +70,13 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. WordPress Developer at Awesome Motive
+### 7. WordPress Developer at Awesome Motive
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/wordpress-developer-awesome-motive)
-
----
-
-### 7. React Frontend Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/react-frontend-developer-applaudo)
 
 ---
 
@@ -109,6 +111,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 06, 2025 at 00:00 UTC_
+_Last updated: December 07, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
