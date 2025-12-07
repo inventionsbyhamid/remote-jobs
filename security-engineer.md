@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Chief Security Officer (CSO) at CloudLinux
+### 1. C Developer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/c-developer-cloudlinux)
+
+---
+
+### 2. Chief Security Officer (CSO) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Senior/Staff Security Engineer - Corporate Security at Phantom
+### 3. Senior/Staff Security Engineer - Corporate Security at Phantom
 
 💰 **Salary**: $225,000-$285,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Senior Infrastructure Security Engineer at MatterLabs
+### 4. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Protocol Security Engineer at MatterLabs
+### 5. Protocol Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Protocol Engineer at MatterLabs
+### 6. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -63,7 +73,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -91,6 +101,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 06, 2025 at 00:00 UTC_
+_Last updated: December 07, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
