@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Product at Toggl
+### 1. Developer Experience (DX) Enablement Manager at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experienceenablement-manager-cloudlinux)
+
+---
+
+### 2. Head of Product at Toggl
 
 🌍 **Location**: Worldwide
 
@@ -18,23 +28,13 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Executive Producer, Content at VRChat
+### 3. Executive Producer, Content at VRChat
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/executive-producer-content-vrchat)
-
----
-
-### 3. Senior Product Manager at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-wp-media)
 
 ---
 
@@ -69,6 +69,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 07, 2025 at 00:00 UTC_
+_Last updated: December 08, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
