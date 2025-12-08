@@ -60,30 +60,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Staff Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-engineer-clerk)
 
 ---
 
-### 7. WordPress Developer at Awesome Motive
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/wordpress-developer-awesome-motive)
-
----
-
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -111,6 +91,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 07, 2025 at 00:00 UTC_
+_Last updated: December 08, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
