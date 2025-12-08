@@ -28,20 +28,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. EDI Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/edi-developer-applaudo)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -69,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 07, 2025 at 00:00 UTC_
+_Last updated: December 08, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
