@@ -92,20 +92,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
 
 ---
 
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -133,6 +123,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 08, 2025 at 00:00 UTC_
+_Last updated: December 09, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
