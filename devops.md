@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
+### 1. Mail Systems Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/mail-systems-engineer-cloudlinux)
+
+---
+
+### 2. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Senior Infrastructure Security Engineer at MatterLabs
+### 3. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +41,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +69,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 08, 2025 at 00:00 UTC_
+_Last updated: December 09, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
