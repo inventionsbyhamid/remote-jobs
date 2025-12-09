@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Security Researcher - Team Lead at CloudLinux
+### 1. Malware Intelligence Analyst at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/malware-intelligence-analyst-cloudlinux)
+
+---
+
+### 2. Senior Go/Python Developer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-go-python-developer-cloudlinux)
+
+---
+
+### 3. Mail Systems Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/mail-systems-engineer-cloudlinux)
+
+---
+
+### 4. Security Researcher - Team Lead at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Senior Python Developer at CloudLinux
+### 5. Senior Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. C Developer at CloudLinux
+### 6. C Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Chief Security Officer (CSO) at CloudLinux
+### 7. Chief Security Officer (CSO) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +78,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Senior/Staff Security Engineer - Corporate Security at Phantom
+### 8. Senior/Staff Security Engineer - Corporate Security at Phantom
 
 💰 **Salary**: $225,000-$285,000 USD
 
@@ -60,7 +90,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Senior Infrastructure Security Engineer at MatterLabs
+### 9. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +100,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Protocol Security Engineer at MatterLabs
+### 10. Protocol Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +110,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Protocol Engineer at MatterLabs
+### 11. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -93,7 +123,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -121,6 +151,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 08, 2025 at 00:00 UTC_
+_Last updated: December 09, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
