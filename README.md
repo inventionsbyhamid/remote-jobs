@@ -19,29 +19,26 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 19 remote jobs available
+- 🏠 **[Backend](backend.md)** - 20 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 7 remote jobs available
-- 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
 - 🏠 **[Customer Success](customer-success.md)** - 1 remote job available
 - 🏠 **[Customer Support](customer-support.md)** - 3 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 2 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 3 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 8 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 6 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 9 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 4 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
-- 🏠 **[HR](hr.md)** - 7 remote jobs available
+- 🏠 **[HR](hr.md)** - 5 remote jobs available
 - 🏠 **[Intern](intern.md)** - 2 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 5 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 4 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 3 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
 - 🏠 **[Research](research.md)** - 3 remote jobs available
 - 🏠 **[Sales](sales.md)** - 7 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 11 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 13 remote jobs available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 22 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 1 remote job available
-- 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
 
 ---
@@ -50,7 +47,37 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Malware Intelligence Analyst at CloudLinux
+### 1. Backend Developer - Patchman Team at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-developer-patchman-team-cloudlinux)
+
+---
+
+### 2. Backend / Platform Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-platform-engineer-cloudlinux)
+
+---
+
+### 3. Infrastructure & Development Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-cloudlinux)
+
+---
+
+### 4. Malware Intelligence Analyst at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +87,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Go/Python Developer at CloudLinux
+### 5. Senior Go/Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +97,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Mail Systems Engineer at CloudLinux
+### 6. Mail Systems Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Security Researcher - Team Lead at CloudLinux
+### 7. Security Researcher - Team Lead at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Developer Experience (DX) Enablement Manager at CloudLinux
+### 8. Developer Experience (DX) Enablement Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +127,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior Python Developer at CloudLinux
+### 9. Senior Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +137,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Enterprise Sales Executive at CloudLinux
+### 10. Enterprise Sales Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +147,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. C Developer at CloudLinux
+### 11. C Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +157,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Software Engineer, Frontend - Risk Platform at Coinbase
+### 12. Software Engineer, Frontend - Risk Platform at Coinbase
 
 💰 **Salary**: $152,405-$179,360 USD
 
@@ -142,7 +169,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. SDET Automation Engineer at CloudLinux
+### 13. SDET Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +179,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Scrum Master at CloudLinux
+### 14. Scrum Master at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +189,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Chief Security Officer (CSO) at CloudLinux
+### 15. Chief Security Officer (CSO) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +199,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Kernel Developer at CloudLinux
+### 16. Kernel Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +209,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Senior Product Engineer (Backend) at Buffer
+### 17. Senior Product Engineer (Backend) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -194,7 +221,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
+### 18. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +231,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Azure Data Engineer at Applaudo
+### 19. Azure Data Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -214,47 +241,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Head of Product at Toggl
+### 20. Head of Product at Toggl
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/head-of-product-toggl)
-
----
-
-### 18. Sales Director (Oil & Gas Industry) - Remote at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-full-time-bairesdev)
-
----
-
-### 19. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
-
-💰 **Salary**: $211,650-$249,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-backend-remote-coinbase)
-
----
-
-### 20. Engineering Manager (Consumer - Trading) at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-engineering-manager-coinbase)
 
 ---
 
@@ -284,6 +277,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 09, 2025 at 00:00 UTC_
+_Last updated: December 10, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
