@@ -28,22 +28,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Technical Account Manager, Pressable at Automattic
-
-💰 **Salary**: $70,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-account-manager-pressable-automattic)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -71,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 10, 2025 at 00:00 UTC_
+_Last updated: December 11, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
