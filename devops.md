@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Backend Developer - Patchman Team at CloudLinux
+### 1. Senior Python/Go Developer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
+
+---
+
+### 2. Infrastructure & Development Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-worldwide-cloudlinux)
+
+---
+
+### 3. Backend Developer - Patchman Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Backend / Platform Engineer at CloudLinux
+### 4. Backend / Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Infrastructure & Development Engineer at CloudLinux
+### 5. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Mail Systems Engineer at CloudLinux
+### 6. Mail Systems Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +68,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
+### 7. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +78,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Senior Infrastructure Security Engineer at MatterLabs
+### 8. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -71,7 +91,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -99,6 +119,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 10, 2025 at 00:00 UTC_
+_Last updated: December 11, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
