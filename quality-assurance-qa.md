@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. SDET Automation Engineer at CloudLinux
+### 1. Cloud Test Engineer at Halcyon
+
+💰 **Salary**: $135,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
+
+---
+
+### 2. SDET Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. QA Automation Engineer at Applaudo
+### 3. QA Automation Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +43,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +71,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 11, 2025 at 00:00 UTC_
+_Last updated: December 12, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
