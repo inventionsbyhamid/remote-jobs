@@ -40,20 +40,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Digital Marketing Manager at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/digital-marketing-manager-wp-media)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +71,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 13, 2025 at 00:00 UTC_
+_Last updated: December 14, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
