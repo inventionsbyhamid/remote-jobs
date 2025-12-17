@@ -90,20 +90,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Senior Infrastructure Security Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-infrastructure-security-engineer-matterlabs)
 
 ---
 
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -131,6 +121,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 16, 2025 at 00:00 UTC_
+_Last updated: December 17, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
