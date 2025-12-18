@@ -26,7 +26,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 9 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 2 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 1 remote job available
-- 🏠 **[HR](hr.md)** - 4 remote jobs available
+- 🏠 **[HR](hr.md)** - 3 remote jobs available
 - 🏠 **[Intern](intern.md)** - 1 remote job available
 - 🏠 **[Marketing](marketing.md)** - 2 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 2 remote jobs available
@@ -277,6 +277,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 17, 2025 at 00:00 UTC_
+_Last updated: December 18, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
