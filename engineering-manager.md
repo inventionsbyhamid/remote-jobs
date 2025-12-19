@@ -92,20 +92,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Full-Stack Java + React Technical Leader at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/full-stack-java-react-technical-leader-remote-bairesdev)
 
 ---
 
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -133,6 +123,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 18, 2025 at 00:00 UTC_
+_Last updated: December 19, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
