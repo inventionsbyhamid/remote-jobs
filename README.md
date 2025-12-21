@@ -19,7 +19,7 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[Backend](backend.md)** - 17 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 5 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 4 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 2 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 2 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 8 remote jobs available
@@ -27,7 +27,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Frontend](frontend.md)** - 2 remote jobs available
 - 🏠 **[HR](hr.md)** - 3 remote jobs available
 - 🏠 **[Intern](intern.md)** - 1 remote job available
-- 🏠 **[Marketing](marketing.md)** - 2 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 1 remote job available
 - 🏠 **[Product Manager](product-manager.md)** - 2 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
@@ -276,6 +276,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 20, 2025 at 00:00 UTC_
+_Last updated: December 21, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
