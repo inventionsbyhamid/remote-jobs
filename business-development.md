@@ -40,20 +40,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Sales Director (Retail Background) - Remote at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sales-director-remote-bairesdev)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +71,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 21, 2025 at 00:00 UTC_
+_Last updated: December 22, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
