@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Cloud Test Engineer at Halcyon
+### 1. Data Platform Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-platform-engineer-cloudlinux)
+
+---
+
+### 2. Cloud Test Engineer at Halcyon
 
 💰 **Salary**: $135,000-$170,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Senior Python/Go Developer at CloudLinux
+### 3. Senior Python/Go Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Infrastructure & Development Engineer at CloudLinux
+### 4. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Backend Developer - Patchman Team at CloudLinux
+### 5. Backend Developer - Patchman Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. Backend / Platform Engineer at CloudLinux
+### 6. Backend / Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Infrastructure & Development Engineer at CloudLinux
+### 7. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Mail Systems Engineer at CloudLinux
+### 8. Mail Systems Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
+### 9. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -93,7 +103,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -121,6 +131,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 22, 2025 at 00:00 UTC_
+_Last updated: December 23, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
