@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Backend Developer - Patchman Team at CloudLinux
+### 1. Java Security Researcher at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-security-researcher-cloudlinux)
+
+---
+
+### 2. Support Engineer - Security Focus at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/support-engineer-security-focus-cloudlinux)
+
+---
+
+### 3. Backend Developer - Patchman Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Backend / Platform Engineer at CloudLinux
+### 4. Backend / Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Malware Intelligence Analyst at CloudLinux
+### 5. Malware Intelligence Analyst at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Senior Go/Python Developer at CloudLinux
+### 6. Senior Go/Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +68,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Mail Systems Engineer at CloudLinux
+### 7. Mail Systems Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +78,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Security Researcher - Team Lead at CloudLinux
+### 8. Security Researcher - Team Lead at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +88,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Senior Python Developer at CloudLinux
+### 9. Senior Python Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +98,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. C Developer at CloudLinux
+### 10. C Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +108,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Chief Security Officer (CSO) at CloudLinux
+### 11. Chief Security Officer (CSO) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +118,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Senior/Staff Security Engineer - Corporate Security at Phantom
+### 12. Senior/Staff Security Engineer - Corporate Security at Phantom
 
 💰 **Salary**: $225,000-$285,000 USD
 
@@ -113,7 +133,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -141,6 +161,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 23, 2025 at 00:00 UTC_
+_Last updated: December 24, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
