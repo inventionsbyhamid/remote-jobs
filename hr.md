@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Staffing Manager at BairesDev
+### 1. People Operations Manager (global) at beehiiv
+
+💰 **Salary**: $110,000-$140,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/people-operations-manager-beehiiv)
+
+---
+
+### 2. Staffing Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,23 +30,13 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Talent Acquisition Specialist at Toggl
+### 3. Talent Acquisition Specialist at Toggl
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-acquisition-specialist-toggl)
-
----
-
-### 3. Talent Sourcing Manager at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/talent-sourcing-manager-bairesdev)
 
 ---
 
@@ -69,6 +71,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 23, 2025 at 00:00 UTC_
+_Last updated: December 24, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
