@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Python/Full Stack Developer (with a strong focus on Django) at CloudLinux
+### 1. Kernel Build Engineer Interns at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/kernel-build-engineer-interns-cloudlinux)
+
+---
+
+### 2. Lead Application Security Engineer / DevSecOps Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-application-security-engineer-devsecops-engineer-cloudlinux)
+
+---
+
+### 3. Lead Security Operations Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/lead-security-operations-engineer-cloudlinux)
+
+---
+
+### 4. Senior Python/Full Stack Developer (with a strong focus on Django) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Data Platform Engineer at CloudLinux
+### 5. Data Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Cloud Test Engineer at Halcyon
+### 6. Cloud Test Engineer at Halcyon
 
 💰 **Salary**: $135,000-$170,000 USD
 
@@ -40,7 +70,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Senior Python/Go Developer at CloudLinux
+### 7. Senior Python/Go Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. Infrastructure & Development Engineer at CloudLinux
+### 8. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +90,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Backend Developer - Patchman Team at CloudLinux
+### 9. Backend Developer - Patchman Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +100,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Backend / Platform Engineer at CloudLinux
+### 10. Backend / Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +110,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. Infrastructure & Development Engineer at CloudLinux
+### 11. Infrastructure & Development Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +120,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Mail Systems Engineer at CloudLinux
+### 12. Mail Systems Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +130,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 10. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
+### 13. Intermediate Backend (Ruby or Go) Engineer, GitLab Delivery - Operate at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -113,7 +143,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -141,6 +171,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 24, 2025 at 00:00 UTC_
+_Last updated: December 25, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
