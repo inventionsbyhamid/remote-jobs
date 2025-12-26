@@ -138,22 +138,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 14. Senior/Staff Security Engineer - Corporate Security at Phantom
-
-💰 **Salary**: $225,000-$285,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-staff-security-engineer-corporate-security-phantom)
 
 ---
 
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -181,6 +169,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 25, 2025 at 00:00 UTC_
+_Last updated: December 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
