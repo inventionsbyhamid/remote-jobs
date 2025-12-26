@@ -206,32 +206,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 20. Senior Software Engineer, Frontend (Money Movement) at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-frontend-phantom)
 
 ---
 
-### 21. Engineering Director, Windows at DuckDuckGo
-
-💰 **Salary**: $243,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-director-windows-duckduckgo)
-
----
-
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -259,6 +237,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 25, 2025 at 00:00 UTC_
+_Last updated: December 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
