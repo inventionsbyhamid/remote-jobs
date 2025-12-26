@@ -28,20 +28,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Junior Developer Support Specialist - Contractor at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/junior-developer-support-specialist-contractor-phantom)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -69,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 25, 2025 at 00:00 UTC_
+_Last updated: December 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
