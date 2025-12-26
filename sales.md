@@ -28,22 +28,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Senior account Executive at Toggl
-
-💰 **Salary**: $80,000+ USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-account-executive-toggl)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -71,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 25, 2025 at 00:00 UTC_
+_Last updated: December 26, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
