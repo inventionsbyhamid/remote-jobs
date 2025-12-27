@@ -18,16 +18,16 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[Backend](backend.md)** - 18 remote jobs available
+- 🏠 **[Backend](backend.md)** - 16 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 2 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 2 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
 - 🏠 **[Data Analyst](data-analyst.md)** - 2 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 13 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 7 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 1 remote job available
 - 🏠 **[Fullstack](fullstack.md)** - 2 remote jobs available
 - 🏠 **[HR](hr.md)** - 2 remote jobs available
-- 🏠 **[Intern](intern.md)** - 2 remote jobs available
+- 🏠 **[Intern](intern.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 1 remote job available
 - 🏠 **[Marketing](marketing.md)** - 3 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 4 remote jobs available
@@ -36,7 +36,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Research](research.md)** - 3 remote jobs available
 - 🏠 **[Sales](sales.md)** - 2 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 13 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 19 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 17 remote jobs available
 
 
 ---
@@ -279,6 +279,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 26, 2025 at 00:00 UTC_
+_Last updated: December 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
