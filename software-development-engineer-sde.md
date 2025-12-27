@@ -186,30 +186,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 18. Contract Senior Web Services Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/contract-senior-web-services-engineer-fueled)
 
 ---
 
-### 19. Senior Software Engineer, Backend (Money Movement) at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-backend-phantom)
-
----
-
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -237,6 +217,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 26, 2025 at 00:00 UTC_
+_Last updated: December 27, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
