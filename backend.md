@@ -150,22 +150,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 15. Staff Software Engineer, Backend (Institutional - Foundations) at Coinbase
-
-💰 **Salary**: $211,650-$249,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-backend-remote-coinbase)
 
 ---
 
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -193,6 +181,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: December 29, 2025 at 00:00 UTC_
+_Last updated: December 30, 2025 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
