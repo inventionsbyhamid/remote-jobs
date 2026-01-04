@@ -152,20 +152,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 15. Kernel Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/kernel-developer-cloudlinux)
 
 ---
 
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -193,6 +183,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 03, 2026 at 00:00 UTC_
+_Last updated: January 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
