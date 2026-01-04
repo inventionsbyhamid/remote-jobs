@@ -108,20 +108,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 11. Kernel Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/kernel-developer-cloudlinux)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -149,6 +139,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 03, 2026 at 00:00 UTC_
+_Last updated: January 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
