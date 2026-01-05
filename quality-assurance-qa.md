@@ -20,20 +20,10 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. SDET Automation Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/sdet-automation-engineer-cloudlinux)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -61,6 +51,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 04, 2026 at 00:00 UTC_
+_Last updated: January 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
