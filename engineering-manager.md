@@ -18,30 +18,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Security Researcher - Team Lead at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/security-researcher-team-lead-cloudlinux)
 
 ---
 
-### 3. Developer Experience (DX) Enablement Manager at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/developer-experienceenablement-manager-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -69,6 +49,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 06, 2026 at 00:00 UTC_
+_Last updated: January 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
