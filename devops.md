@@ -120,20 +120,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 12. Mail Systems Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/mail-systems-engineer-cloudlinux)
 
 ---
 
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -161,6 +151,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 07, 2026 at 00:00 UTC_
+_Last updated: January 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
