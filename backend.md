@@ -78,20 +78,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Senior Go/Python Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-go-python-developer-cloudlinux)
 
 ---
 
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -119,6 +109,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 07, 2026 at 00:00 UTC_
+_Last updated: January 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
