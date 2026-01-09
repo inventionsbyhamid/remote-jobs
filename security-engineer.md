@@ -48,30 +48,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Backend Developer - Patchman Team at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-developer-patchman-team-cloudlinux)
 
 ---
 
-### 6. Backend / Platform Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-platform-engineer-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -99,6 +79,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 08, 2026 at 00:00 UTC_
+_Last updated: January 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
