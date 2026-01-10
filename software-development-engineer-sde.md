@@ -82,30 +82,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Senior Python/Go Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
 
 ---
 
-### 9. Infrastructure & Development Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-worldwide-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -133,6 +113,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 09, 2026 at 00:00 UTC_
+_Last updated: January 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
