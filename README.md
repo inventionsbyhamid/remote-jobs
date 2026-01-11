@@ -21,17 +21,16 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Backend](backend.md)** - 3 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
 - 🏠 **[Data Analyst](data-analyst.md)** - 1 remote job available
-- 🏠 **[DevOps](devops.md)** - 6 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 5 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 2 remote jobs available
 - 🏠 **[HR](hr.md)** - 1 remote job available
 - 🏠 **[Intern](intern.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 1 remote job available
 - 🏠 **[Marketing](marketing.md)** - 3 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 2 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 1 remote job available
 - 🏠 **[Research](research.md)** - 1 remote job available
 - 🏠 **[Security Engineer](security-engineer.md)** - 4 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 7 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 6 remote jobs available
 
 
 ---
@@ -274,6 +273,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 10, 2026 at 00:00 UTC_
+_Last updated: January 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
