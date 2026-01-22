@@ -60,20 +60,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Data Platform Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-platform-engineer-cloudlinux)
 
 ---
 
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -101,6 +91,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 21, 2026 at 00:00 UTC_
+_Last updated: January 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
