@@ -28,30 +28,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Java Security Researcher at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-security-researcher-cloudlinux)
 
 ---
 
-### 4. Support Engineer - Security Focus at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/support-engineer-security-focus-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -79,6 +59,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 22, 2026 at 00:00 UTC_
+_Last updated: January 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
