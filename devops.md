@@ -38,20 +38,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Senior Python/Full Stack Developer (with a strong focus on Django) at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-full-stack-developer-cloudlinux)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -79,6 +69,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 22, 2026 at 00:00 UTC_
+_Last updated: January 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
