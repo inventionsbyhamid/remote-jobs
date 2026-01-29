@@ -18,7 +18,13 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-_No categories with jobs in the last 30 days._
+- 🏠 **[DevOps](devops.md)** - 1 remote job available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 2 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 1 remote job available
+- 🏠 **[Product Designer](product-designer.md)** - 1 remote job available
+- 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
+- 🏠 **[Security Engineer](security-engineer.md)** - 3 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
 
 
 ---
@@ -27,7 +33,71 @@ _No categories with jobs in the last 30 days._
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Marketing & Community Manager at CloudLinux
+### 1. Product Designer, Social at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-social-chess)
+
+---
+
+### 2. DevSecOps Engineer at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/devsecops-engineer-alpaca)
+
+---
+
+### 3. Social Growth Specialist at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/social-growth-specialist-chess)
+
+---
+
+### 4. Engineering Manager, Software Supply Chain Security: Pipeline Security at GitLab
+
+💰 **Salary**: $131,600-$282,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-software-supply-chain-security-pipeline-security-gitlab)
+
+---
+
+### 5. Engineering Manager, Software Supply Chain Security: Pipeline Security at Canonical
+
+💰 **Salary**: $131,600-$282,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-software-supply-chain-security-pipeline-security-canonical)
+
+---
+
+### 6. Senior Project Manager at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-project-manager-fueled)
+
+---
+
+### 7. Marketing & Community Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -37,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Software Engineer, Full-stack (global) at beehiiv
+### 8. Senior Software Engineer, Full-stack (global) at beehiiv
 
 💰 **Salary**: $150,000-$210,000 USD
 
@@ -49,7 +119,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Kernel Build Engineer Interns at CloudLinux
+### 9. Kernel Build Engineer Interns at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -59,7 +129,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Product Manager - API at Alpaca
+### 10. Senior Product Manager - API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -69,7 +139,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Engineer, Chess Analysis at Chess
+### 11. Senior Engineer, Chess Analysis at Chess
 
 🌍 **Location**: Worldwide
 
@@ -79,7 +149,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Lead Application Security Engineer / DevSecOps Engineer at CloudLinux
+### 12. Lead Application Security Engineer / DevSecOps Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -89,7 +159,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Director, Global Licensing at Alpaca
+### 13. Director, Global Licensing at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -99,7 +169,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Product Marketing Manager (global) at beehiiv
+### 14. Product Marketing Manager (global) at beehiiv
 
 💰 **Salary**: $130,000-$150,000 USD
 
@@ -111,7 +181,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Lead Security Operations Engineer at CloudLinux
+### 15. Lead Security Operations Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -121,7 +191,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Staff Engineer at CloudLinux
+### 16. Staff Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -131,7 +201,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Growth Analyst (global) at beehiiv
+### 17. Growth Analyst (global) at beehiiv
 
 🌍 **Location**: Worldwide
 
@@ -141,7 +211,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Java Security Researcher at CloudLinux
+### 18. Java Security Researcher at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -151,7 +221,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Support Engineer - Security Focus at CloudLinux
+### 19. Support Engineer - Security Focus at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -161,7 +231,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. People Operations Manager (global) at beehiiv
+### 20. People Operations Manager (global) at beehiiv
 
 💰 **Salary**: $110,000-$140,000 USD
 
@@ -170,68 +240,6 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 📍 **Category**: HR
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/people-operations-manager-beehiiv)
-
----
-
-### 15. Senior Python/Full Stack Developer (with a strong focus on Django) at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-full-stack-developer-cloudlinux)
-
----
-
-### 16. Data Platform Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/data-platform-engineer-cloudlinux)
-
----
-
-### 17. Cloud Test Engineer at Halcyon
-
-💰 **Salary**: $135,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/cloud-test-engineer-halcyon)
-
----
-
-### 18. Senior Python/Go Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-python-go-developer-cloudlinux)
-
----
-
-### 19. Infrastructure & Development Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/infrastructure-development-engineer-worldwide-cloudlinux)
-
----
-
-### 20. Backend Developer - Patchman Team at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/backend-developer-patchman-team-cloudlinux)
 
 ---
 
@@ -261,6 +269,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: January 28, 2026 at 00:00 UTC_
+_Last updated: January 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
