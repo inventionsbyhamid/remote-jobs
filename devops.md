@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. DevSecOps Engineer at Alpaca
+### 1. Engineering Manager (Infrastructure) at Coinbase
+
+💰 **Salary**: $211,650-$249,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-coinbase)
+
+---
+
+### 2. DevSecOps Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +33,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +61,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: February 25, 2026 at 00:00 UTC_
+_Last updated: February 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
