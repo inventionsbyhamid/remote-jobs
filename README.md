@@ -19,14 +19,14 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[Backend](backend.md)** - 1 remote job available
-- 🏠 **[DevOps](devops.md)** - 1 remote job available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 2 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 2 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 3 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 1 remote job available
 - 🏠 **[Product Designer](product-designer.md)** - 1 remote job available
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
 - 🏠 **[Security Engineer](security-engineer.md)** - 3 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 1 remote job available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 2 remote jobs available
 
 
 ---
@@ -35,7 +35,19 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Software Engineer - Market Data at Alpaca
+### 1. Engineering Manager (Infrastructure) at Coinbase
+
+💰 **Salary**: $211,650-$249,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-coinbase)
+
+---
+
+### 2. Senior Software Engineer - Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -45,7 +57,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Product Designer, Social at Chess
+### 3. Product Designer, Social at Chess
 
 🌍 **Location**: Worldwide
 
@@ -55,7 +67,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. DevSecOps Engineer at Alpaca
+### 4. DevSecOps Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -65,7 +77,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Social Growth Specialist at Chess
+### 5. Social Growth Specialist at Chess
 
 🌍 **Location**: Worldwide
 
@@ -75,7 +87,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Engineering Manager, Software Supply Chain Security: Pipeline Security at GitLab
+### 6. Engineering Manager, Software Supply Chain Security: Pipeline Security at GitLab
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -87,7 +99,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Engineering Manager, Software Supply Chain Security: Pipeline Security at Canonical
+### 7. Engineering Manager, Software Supply Chain Security: Pipeline Security at Canonical
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -99,7 +111,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Project Manager at Fueled
+### 8. Senior Project Manager at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -109,7 +121,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Marketing & Community Manager at CloudLinux
+### 9. Marketing & Community Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -119,7 +131,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Software Engineer, Full-stack (global) at beehiiv
+### 10. Senior Software Engineer, Full-stack (global) at beehiiv
 
 💰 **Salary**: $150,000-$210,000 USD
 
@@ -131,7 +143,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Kernel Build Engineer Interns at CloudLinux
+### 11. Kernel Build Engineer Interns at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -141,7 +153,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Product Manager - API at Alpaca
+### 12. Senior Product Manager - API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -151,7 +163,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Senior Engineer, Chess Analysis at Chess
+### 13. Senior Engineer, Chess Analysis at Chess
 
 🌍 **Location**: Worldwide
 
@@ -161,7 +173,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Lead Application Security Engineer / DevSecOps Engineer at CloudLinux
+### 14. Lead Application Security Engineer / DevSecOps Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -171,7 +183,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Director, Global Licensing at Alpaca
+### 15. Director, Global Licensing at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -181,7 +193,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Product Marketing Manager (global) at beehiiv
+### 16. Product Marketing Manager (global) at beehiiv
 
 💰 **Salary**: $130,000-$150,000 USD
 
@@ -193,7 +205,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Lead Security Operations Engineer at CloudLinux
+### 17. Lead Security Operations Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -203,7 +215,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Staff Engineer at CloudLinux
+### 18. Staff Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -213,7 +225,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Growth Analyst (global) at beehiiv
+### 19. Growth Analyst (global) at beehiiv
 
 🌍 **Location**: Worldwide
 
@@ -223,23 +235,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. Java Security Researcher at CloudLinux
+### 20. Java Security Researcher at CloudLinux
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-security-researcher-cloudlinux)
-
----
-
-### 20. Support Engineer - Security Focus at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/support-engineer-security-focus-cloudlinux)
 
 ---
 
@@ -269,6 +271,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: February 25, 2026 at 00:00 UTC_
+_Last updated: February 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
