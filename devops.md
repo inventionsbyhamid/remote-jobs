@@ -20,20 +20,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. DevSecOps Engineer at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/devsecops-engineer-alpaca)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -61,6 +51,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: February 27, 2026 at 00:00 UTC_
+_Last updated: February 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
