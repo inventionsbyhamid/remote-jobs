@@ -20,34 +20,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Engineering Manager, Software Supply Chain Security: Pipeline Security at GitLab
-
-💰 **Salary**: $131,600-$282,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-software-supply-chain-security-pipeline-security-gitlab)
 
 ---
 
-### 3. Engineering Manager, Software Supply Chain Security: Pipeline Security at Canonical
-
-💰 **Salary**: $131,600-$282,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-software-supply-chain-security-pipeline-security-canonical)
-
----
-
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -75,6 +51,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: February 27, 2026 at 00:00 UTC_
+_Last updated: February 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
