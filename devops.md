@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Manager (Infrastructure) at Coinbase
+### 1. Senior Site Reliability Engineer - (Institutional) at Coinbase
+
+💰 **Salary**: $140,250-$165,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-site-reliability-engineer-coinbase)
+
+---
+
+### 2. Engineering Manager (Infrastructure) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -23,7 +35,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -51,6 +63,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: March 16, 2026 at 00:00 UTC_
+_Last updated: March 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
