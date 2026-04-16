@@ -19,13 +19,13 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[AI/ML](ai-ml.md)** - 1 remote job available
-- 🏠 **[DevOps](devops.md)** - 1 remote job available
+- 🏠 **[Backend](backend.md)** - 1 remote job available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 2 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 1 remote job available
 - 🏠 **[Marketing](marketing.md)** - 1 remote job available
-- 🏠 **[Product Designer](product-designer.md)** - 1 remote job available
+- 🏠 **[Product Designer](product-designer.md)** - 2 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 3 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 1 remote job available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 3 remote jobs available
 
 
 ---
@@ -34,7 +34,39 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Director of AI/ML Engineering at Chess
+### 1. Senior Frontend Engineer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-frontend-engineer-chess)
+
+---
+
+### 2. Python Engineer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/python-engineer-chess)
+
+---
+
+### 3. Staff Product Designer - Consumer at Coinbase
+
+💰 **Salary**: $217,900 CAD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-product-designer-consumer-coinbase)
+
+---
+
+### 4. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -44,7 +76,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Technical Product Manager - Ads and Compliance at Chess
+### 5. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +86,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. VP of Product Engineering at Chess
+### 6. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +96,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Director, International Content & Growth at Chess
+### 7. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +106,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. ChessKid Product Designer, Growth at Chess
+### 8. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +116,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior Site Reliability Engineer - (Institutional) at Coinbase
+### 9. Senior Site Reliability Engineer - (Institutional) at Coinbase
 
 💰 **Salary**: $140,250-$165,000 USD
 
@@ -96,7 +128,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Software Engineer, Frontend (Consumer Products) at Coinbase
+### 10. Software Engineer, Frontend (Consumer Products) at Coinbase
 
 💰 **Salary**: $152,405-$179,300 USD
 
@@ -108,7 +140,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Engineering Manager (Infrastructure) at Coinbase
+### 11. Engineering Manager (Infrastructure) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -120,7 +152,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Software Engineer - Market Data at Alpaca
+### 12. Senior Software Engineer - Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +162,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Product Designer, Social at Chess
+### 13. Product Designer, Social at Chess
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +172,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. DevSecOps Engineer at Alpaca
+### 14. DevSecOps Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +182,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Social Growth Specialist at Chess
+### 15. Social Growth Specialist at Chess
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +192,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Engineering Manager, Software Supply Chain Security: Pipeline Security at GitLab
+### 16. Engineering Manager, Software Supply Chain Security: Pipeline Security at GitLab
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -172,7 +204,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Engineering Manager, Software Supply Chain Security: Pipeline Security at Canonical
+### 17. Engineering Manager, Software Supply Chain Security: Pipeline Security at Canonical
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -184,7 +216,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior Project Manager at Fueled
+### 18. Senior Project Manager at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +226,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Marketing & Community Manager at CloudLinux
+### 19. Marketing & Community Manager at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +236,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Senior Software Engineer, Full-stack (global) at beehiiv
+### 20. Senior Software Engineer, Full-stack (global) at beehiiv
 
 💰 **Salary**: $150,000-$210,000 USD
 
@@ -213,36 +245,6 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-software-engineer-full-stack-beehiiv)
-
----
-
-### 18. Kernel Build Engineer Interns at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Intern
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/kernel-build-engineer-interns-cloudlinux)
-
----
-
-### 19. Senior Product Manager - API at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-api-alpaca)
-
----
-
-### 20. Senior Engineer, Chess Analysis at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-engineer-chess-analysis-chess)
 
 ---
 
@@ -272,6 +274,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 15, 2026 at 00:00 UTC_
+_Last updated: April 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
