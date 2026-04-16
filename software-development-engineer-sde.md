@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. VP of Product Engineering at Chess
+### 1. Senior Frontend Engineer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-frontend-engineer-chess)
+
+---
+
+### 2. Python Engineer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/python-engineer-chess)
+
+---
+
+### 3. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +41,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -49,6 +69,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 15, 2026 at 00:00 UTC_
+_Last updated: April 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
