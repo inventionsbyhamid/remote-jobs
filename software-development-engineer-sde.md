@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Developer Experience Engineer at Chess
+### 1. Staff Software Engineer, Infrastructure (Compute) at Coinbase
+
+💰 **Salary**: $211,650-$249,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-infrastructure-coinbase)
+
+---
+
+### 2. Developer Experience Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Senior Frontend Engineer at Chess
+### 3. Senior Frontend Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Python Engineer at Chess
+### 4. Python Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. VP of Product Engineering at Chess
+### 5. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -51,7 +63,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -79,6 +91,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 17, 2026 at 00:00 UTC_
+_Last updated: April 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
