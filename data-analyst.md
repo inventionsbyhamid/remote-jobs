@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Analytics Manager at Raya
+### 1. On-chain Data Analyst (12 months contract) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/on-chain-data-analyst-binance)
+
+---
+
+### 2. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Payments Fraud Analyst at Chess
+### 3. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +41,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +69,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 19, 2026 at 00:00 UTC_
+_Last updated: April 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
