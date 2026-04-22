@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Manager at Binance
+### 1. Product Operations (Structured Finance) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-operations-binance)
+
+---
+
+### 2. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Senior Product Manager, AI/ML at Chess
+### 3. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Technical Product Manager - Ads and Compliance at Chess
+### 4. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. VP of Product Engineering at Chess
+### 5. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Director, International Content & Growth at Chess
+### 6. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +71,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -89,6 +99,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 21, 2026 at 00:00 UTC_
+_Last updated: April 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
