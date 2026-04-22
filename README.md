@@ -19,7 +19,7 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[AI/ML](ai-ml.md)** - 2 remote jobs available
-- 🏠 **[Backend](backend.md)** - 3 remote jobs available
+- 🏠 **[Backend](backend.md)** - 4 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 1 remote job available
 - 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
 - 🏠 **[Data Analyst](data-analyst.md)** - 3 remote jobs available
@@ -28,13 +28,14 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Finance](finance.md)** - 1 remote job available
 - 🏠 **[Frontend](frontend.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 1 remote job available
+- 🏠 **[Marketing](marketing.md)** - 2 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 2 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 5 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 6 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 1 remote job available
 - 🏠 **[Sales](sales.md)** - 1 remote job available
 - 🏠 **[Security Engineer](security-engineer.md)** - 3 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 7 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 8 remote jobs available
 
 
 ---
@@ -43,7 +44,37 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Software Engineer - Blockchain Security at Binance
+### 1. Product Operations (Structured Finance) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-operations-binance)
+
+---
+
+### 2. Java Architect- Compliance at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-binance)
+
+---
+
+### 3. Global Community Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-community-manager-binance)
+
+---
+
+### 4. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +84,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Product Manager at Binance
+### 5. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -63,7 +94,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Global Regulatory Legal Lead at Binance
+### 6. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +104,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Corporate Counsel at Binance
+### 7. Corporate Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -83,7 +114,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+### 8. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -93,7 +124,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. On-chain Data Analyst (12 months contract) at Binance
+### 9. On-chain Data Analyst (12 months contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -103,7 +134,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Dispute Analyst - P2P at Binance
+### 10. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -113,7 +144,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior Analytics Manager at Raya
+### 11. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -123,7 +154,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Security Engineer - Blue Team at Raya
+### 12. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
@@ -133,7 +164,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Payments Fraud Analyst at Chess
+### 13. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -143,7 +174,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. QA Specialist at Chess
+### 14. QA Specialist at Chess
 
 🌍 **Location**: Worldwide
 
@@ -153,7 +184,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Staff Software Engineer, Infrastructure (Compute) at Coinbase
+### 15. Staff Software Engineer, Infrastructure (Compute) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -165,7 +196,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Senior Product Manager, AI/ML at Chess
+### 16. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -175,7 +206,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Solutions Architect, TOLA at Halcyon
+### 17. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -187,7 +218,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Developer Experience Engineer at Chess
+### 18. Developer Experience Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -197,7 +228,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Senior Frontend Engineer at Chess
+### 19. Senior Frontend Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -207,45 +238,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Python Engineer at Chess
+### 20. Python Engineer at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/python-engineer-chess)
-
----
-
-### 18. Staff Product Designer - Consumer at Coinbase
-
-💰 **Salary**: $217,900 CAD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-product-designer-consumer-coinbase)
-
----
-
-### 19. Director of AI/ML Engineering at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-of-ai-ml-engineering-chess)
-
----
-
-### 20. Technical Product Manager - Ads and Compliance at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-product-manager-ads-and-compliance-chess)
 
 ---
 
@@ -275,6 +274,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 21, 2026 at 00:00 UTC_
+_Last updated: April 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
