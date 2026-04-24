@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Designer at Binance
+### 1. Product Designer Lead - UI/UX at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-lead-ui-ux-binance)
+
+---
+
+### 2. Product Designer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-remote-binance)
+
+---
+
+### 3. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Staff Product Designer - Consumer at Coinbase
+### 4. Staff Product Designer - Consumer at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -30,7 +50,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. ChessKid Product Designer, Growth at Chess
+### 5. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -43,7 +63,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -71,6 +91,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 23, 2026 at 00:00 UTC_
+_Last updated: April 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
