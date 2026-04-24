@@ -19,7 +19,7 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[AI/ML](ai-ml.md)** - 2 remote jobs available
-- 🏠 **[Backend](backend.md)** - 5 remote jobs available
+- 🏠 **[Backend](backend.md)** - 6 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 1 remote job available
 - 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
 - 🏠 **[Data Analyst](data-analyst.md)** - 3 remote jobs available
@@ -29,13 +29,13 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Frontend](frontend.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 2 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 3 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 5 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 6 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 1 remote job available
 - 🏠 **[Sales](sales.md)** - 2 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 3 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 9 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 10 remote jobs available
 
 
 ---
@@ -44,23 +44,23 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Individual Sales Representative (Mandarin Speaking) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/individual-sales-representative-binance)
-
----
-
-### 2. Senior Java Developer - Web3 Earn at Binance
+### 1. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-java-developer-web3-earn-binance)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-worldwide-binance)
+
+---
+
+### 2. Product Designer Lead - UI/UX at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-lead-ui-ux-binance)
 
 ---
 
@@ -70,11 +70,41 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 📍 **Category**: Product Designer
 
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-remote-binance)
+
+---
+
+### 4. Individual Sales Representative (Mandarin Speaking) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/individual-sales-representative-binance)
+
+---
+
+### 5. Senior Java Developer - Web3 Earn at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-java-developer-web3-earn-binance)
+
+---
+
+### 6. Product Designer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-binance)
 
 ---
 
-### 4. Product Operations (Structured Finance) at Binance
+### 7. Product Operations (Structured Finance) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +114,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Java Architect- Compliance at Binance
+### 8. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +124,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Global Community Manager at Binance
+### 9. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +134,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Software Engineer - Blockchain Security at Binance
+### 10. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +144,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior Product Manager at Binance
+### 11. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +154,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Global Regulatory Legal Lead at Binance
+### 12. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +164,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Corporate Counsel at Binance
+### 13. Corporate Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +174,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+### 14. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +184,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. On-chain Data Analyst (12 months contract) at Binance
+### 15. On-chain Data Analyst (12 months contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +194,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Dispute Analyst - P2P at Binance
+### 16. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +204,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Senior Analytics Manager at Raya
+### 17. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +214,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior Security Engineer - Blue Team at Raya
+### 18. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +224,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Payments Fraud Analyst at Chess
+### 19. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -204,47 +234,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. QA Specialist at Chess
+### 20. QA Specialist at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Quality Assurance (QA)
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/qa-specialist-chess)
-
----
-
-### 18. Staff Software Engineer, Infrastructure (Compute) at Coinbase
-
-💰 **Salary**: $211,650-$249,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-infrastructure-coinbase)
-
----
-
-### 19. Senior Product Manager, AI/ML at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-ai-ml-chess)
-
----
-
-### 20. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/solutions-architect-tola-halcyon)
 
 ---
 
@@ -274,6 +270,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 23, 2026 at 00:00 UTC_
+_Last updated: April 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
