@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Community Manager at Binance
+### 1. Product Manager, LATAM at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
+
+---
+
+### 2. Product Manager, LATAM at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
+
+---
+
+### 3. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Director, International Content & Growth at Chess
+### 4. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +51,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -59,6 +79,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 24, 2026 at 00:00 UTC_
+_Last updated: April 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
