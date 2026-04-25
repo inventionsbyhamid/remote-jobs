@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Solutions Architect, TOLA at Halcyon
+### 1. Product Manager, LATAM at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
+
+---
+
+### 2. Product Manager, LATAM at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
+
+---
+
+### 3. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -23,7 +43,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -51,6 +71,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 24, 2026 at 00:00 UTC_
+_Last updated: April 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
