@@ -8,13 +8,13 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Manager, LATAM at Airbnb
+### 1. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-engineer-canonical)
 
 ---
 
@@ -24,11 +24,21 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
+
+---
+
+### 3. Product Manager, LATAM at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
 
 ---
 
-### 3. Global Community Manager at Binance
+### 4. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Director, International Content & Growth at Chess
+### 5. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -51,7 +61,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -79,6 +89,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: April 27, 2026 at 00:00 UTC_
+_Last updated: April 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
