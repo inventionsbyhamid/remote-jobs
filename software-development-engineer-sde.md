@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Staff Full Stack Engineer (Wallet Platform) at Phantom
+### 1. Contract Senior Web Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/contract-senior-web-engineer-fueled)
+
+---
+
+### 2. Staff Full Stack Engineer (Wallet Platform) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Senior Full Stack JavaScript Engineer at Passion.io
+### 3. Senior Full Stack JavaScript Engineer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Backend Engineer, Growth & Engagement Team at Phantom
+### 4. Backend Engineer, Growth & Engagement Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Senior Fullstack Engineer at Atticus
+### 5. Senior Fullstack Engineer at Atticus
 
 💰 **Salary**: $170,000-$200,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Senior Software Engineer, Full-Stack at Phantom
+### 6. Senior Software Engineer, Full-Stack at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Staff Engineer, Endpoint Agent at Halcyon
+### 7. Staff Engineer, Endpoint Agent at Halcyon
 
 💰 **Salary**: $220,000-$275,000 USD
 
@@ -76,7 +86,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Palantir Foundry Engineer - Remote Work at BairesDev
+### 8. Palantir Foundry Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +96,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Backend Engineer, Data Platform & APIs at Halcyon
+### 9. Backend Engineer, Data Platform & APIs at Halcyon
 
 💰 **Salary**: $120,000-$170,000 USD
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. C Developer at Crossover
+### 10. C Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +118,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 10. Quality Engineer at Applaudo
+### 11. Quality Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +128,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Functional QA Engineer at Applaudo
+### 12. Functional QA Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +138,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 12. Senior Software Engineer, Backend at Customer.io
+### 13. Senior Software Engineer, Backend at Customer.io
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Application Architect at Applaudo
+### 14. Application Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +160,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. Product Builder at Camunda
+### 15. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -165,7 +175,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -193,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 25, 2026 at 00:00 UTC_
+_Last updated: July 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
