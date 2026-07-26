@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Growth at SafetyWing
+### 1. Sales Representative at SafetyWing
+
+💰 **Salary**: $24,000-$36,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-representative-safetywing)
+
+---
+
+### 2. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Enterprise Account Executive at Halcyon
+### 3. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -33,7 +45,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +73,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 25, 2026 at 00:00 UTC_
+_Last updated: July 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
