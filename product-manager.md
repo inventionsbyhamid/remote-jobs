@@ -48,22 +48,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Product Builder at Camunda
-
-💰 **Salary**: $119,900-$193,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-builder-camunda)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -91,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 26, 2026 at 00:00 UTC_
+_Last updated: July 27, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
