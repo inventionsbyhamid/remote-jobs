@@ -170,20 +170,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Application Architect at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/application-architect-applaudo)
 
 ---
 
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -211,6 +201,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 27, 2026 at 00:01 UTC_
+_Last updated: July 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
