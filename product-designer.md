@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Product at Phantom
+### 1. Staff Product Designer at Phantom
+
+💰 **Salary**: $215,000-$250,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-product-designer-pantom)
+
+---
+
+### 2. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Senior Product Designer at Solana
+### 3. Senior Product Designer at Solana
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +43,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 27, 2026 at 00:01 UTC_
+_Last updated: July 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
