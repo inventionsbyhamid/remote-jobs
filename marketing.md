@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Content Marketing Manager - Social Media at Kit
+### 1. Senior Product Marketer at Phantom
+
+💰 **Salary**: $150,000-$180,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-marketer-pantom)
+
+---
+
+### 2. Lifecycle Marketing Lead (Head of Lifecycle Marketing) at Atticus
+
+💰 **Salary**: $130,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lifecycle-marketing-lead-atticus)
+
+---
+
+### 3. Content Marketing Manager - Social Media at Kit
 
 💰 **Salary**: $125,000 USD
 
@@ -20,7 +44,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Head of Growth at SafetyWing
+### 4. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +54,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Japanese Creative Copywriter (Contractor) at Wikimedia
+### 5. Japanese Creative Copywriter (Contractor) at Wikimedia
 
 💰 **Salary**: $36-$56 USD
 
@@ -42,7 +66,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. SEO Specialist / Manager at WP Media
+### 6. SEO Specialist / Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -55,7 +79,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -83,6 +107,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 27, 2026 at 00:00 UTC_
+_Last updated: July 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
