@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Systems Engineer at Automattic
+### 1. System Administrator at Atticus
+
+💰 **Salary**: $110,000-$150,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/system-administrator-atticus)
+
+---
+
+### 2. Senior Systems Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Principal Technical Program Manager, Platform Foundation at Binance
+### 3. Principal Technical Program Manager, Platform Foundation at Binance
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +45,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +73,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 28, 2026 at 00:00 UTC_
+_Last updated: July 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
