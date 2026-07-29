@@ -30,52 +30,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Customer Support at Crossover
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-support-crossover)
 
 ---
 
-### 4. Senior Manager, Data Science at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-data-science-chess)
-
----
-
-### 5. Product Manager, Crypto at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-crypto-alpaca)
-
----
-
-### 6. Senior Software Engineer, Backend at Customer.io
-
-💰 **Salary**: $150,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-backend-customer-io)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -103,6 +61,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 28, 2026 at 00:00 UTC_
+_Last updated: July 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
