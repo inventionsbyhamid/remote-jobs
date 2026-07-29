@@ -30,20 +30,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Senior Manager, Data Science at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-data-science-chess)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -71,6 +61,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 28, 2026 at 00:00 UTC_
+_Last updated: July 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
