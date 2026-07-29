@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sanctions Advisory Specialist at Binance
+### 1. Strategic Finance Lead at Atticus
+
+💰 **Salary**: $140,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/strategic-finance-lead-atticus)
+
+---
+
+### 2. Sanctions Advisory Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +33,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +61,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 28, 2026 at 00:00 UTC_
+_Last updated: July 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
