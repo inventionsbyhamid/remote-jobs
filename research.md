@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Security Engineer at Halcyon
+### 1. AI Growth Lead (AI Automation DRI) at Coinbase
+
+💰 **Salary**: $217,900 CAD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-growth-lead-coinbase)
+
+---
+
+### 2. Senior Product Security Engineer at Halcyon
 
 💰 **Salary**: $175,000-$235,000 USD
 
@@ -23,7 +35,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -51,6 +63,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 30, 2026 at 00:00 UTC_
+_Last updated: July 31, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
