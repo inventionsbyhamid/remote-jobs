@@ -21,16 +21,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 3 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 1 remote job available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 7 remote jobs available
+- 🏠 **[Backend](backend.md)** - 8 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 5 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
-- 🏠 **[Customer Success](customer-success.md)** - 2 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 3 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 1 remote job available
 - 🏠 **[Data Analyst](data-analyst.md)** - 4 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 3 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 2 remote jobs available
 - 🏠 **[Finance](finance.md)** - 3 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 6 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 8 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 7 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 10 remote jobs available
 - 🏠 **[HR](hr.md)** - 2 remote jobs available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 9 remote jobs available
@@ -41,7 +42,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Sales](sales.md)** - 5 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 7 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 18 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 20 remote jobs available
 
 
 ---
@@ -50,7 +51,51 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Rust Engineer at Phantom
+### 1. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-customer-support-agent-pantom)
+
+---
+
+### 2. Customer Success Manager at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-manager-passion-io)
+
+---
+
+### 3. Senior Software Engineer II at Kit
+
+💰 **Salary**: $181,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-ii-kit)
+
+---
+
+### 4. Staff Software Engineer, Backend at Phantom
+
+💰 **Salary**: $200,000-$250,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-backend-pantom)
+
+---
+
+### 5. Senior Rust Engineer at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -62,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Finance Manager at Passion.io
+### 6. Finance Manager at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Staff Product Security Engineer (Security) at Phantom
+### 7. Staff Product Security Engineer (Security) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -84,7 +129,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Staff Frontend Engineer (Platform) at Phantom
+### 8. Staff Frontend Engineer (Platform) at Phantom
 
 💰 **Salary**: $200,000-$270,000 USD
 
@@ -96,7 +141,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Software Engineer, Payments at Solana
+### 9. Senior Software Engineer, Payments at Solana
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +151,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Product Designer at Atticus
+### 10. Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +161,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Growth Lead (Head of SEM) at Atticus
+### 11. Growth Lead (Head of SEM) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -128,7 +173,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. AI Growth Lead (AI Automation DRI) at Coinbase
+### 12. AI Growth Lead (AI Automation DRI) at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -140,7 +185,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Android Developer at Applaudo
+### 13. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +195,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Full Stack JavaScript Engineer at Passion.io
+### 14. Senior Full Stack JavaScript Engineer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +205,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Brand Marketer at Phantom
+### 15. Brand Marketer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +215,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Strategic Finance Lead at Atticus
+### 16. Strategic Finance Lead at Atticus
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -182,7 +227,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Director of Brand Creative at Phantom
+### 17. Director of Brand Creative at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -194,7 +239,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Head of Account Management at Atticus
+### 18. Head of Account Management at Atticus
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -206,7 +251,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. System Administrator at Atticus
+### 19. System Administrator at Atticus
 
 💰 **Salary**: $110,000-$150,000 USD
 
@@ -218,7 +263,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Staff Product Designer at Phantom
+### 20. Staff Product Designer at Phantom
 
 💰 **Salary**: $215,000-$250,000 USD
 
@@ -227,50 +272,6 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 📍 **Category**: Product Designer
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-product-designer-pantom)
-
----
-
-### 17. Senior Product Marketer at Phantom
-
-💰 **Salary**: $150,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-marketer-pantom)
-
----
-
-### 18. Independent Agent Sales Lead at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/independent-agent-sales-lead-pantom)
-
----
-
-### 19. Lifecycle Marketing Lead (Head of Lifecycle Marketing) at Atticus
-
-💰 **Salary**: $130,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lifecycle-marketing-lead-atticus)
-
----
-
-### 20. Frontend Engineer, Growth & Engagement Team at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/frontend-engineer-growth-engagement-team-pantom)
 
 ---
 
@@ -300,6 +301,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 01, 2026 at 00:00 UTC_
+_Last updated: August 02, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
