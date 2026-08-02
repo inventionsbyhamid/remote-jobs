@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Rust Engineer at Phantom
+### 1. Senior Software Engineer II at Kit
+
+💰 **Salary**: $181,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-ii-kit)
+
+---
+
+### 2. Staff Software Engineer, Backend at Phantom
+
+💰 **Salary**: $200,000-$250,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-backend-pantom)
+
+---
+
+### 3. Senior Rust Engineer at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -20,7 +44,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Senior Full Stack JavaScript Engineer at Passion.io
+### 4. Senior Full Stack JavaScript Engineer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +54,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Dream Job at Appwrite
+### 5. Dream Job at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +64,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Contract Senior Web Engineer at Fueled
+### 6. Contract Senior Web Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +74,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Staff Full Stack Engineer (Wallet Platform) at Phantom
+### 7. Staff Full Stack Engineer (Wallet Platform) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -62,7 +86,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. Senior Full Stack JavaScript Engineer at Passion.io
+### 8. Senior Full Stack JavaScript Engineer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +96,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Senior Fullstack Engineer at Atticus
+### 9. Senior Fullstack Engineer at Atticus
 
 💰 **Salary**: $170,000-$200,000 USD
 
@@ -84,7 +108,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. Senior Software Engineer, Full-Stack at Phantom
+### 10. Senior Software Engineer, Full-Stack at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -99,7 +123,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -127,6 +151,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 01, 2026 at 00:00 UTC_
+_Last updated: August 02, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
