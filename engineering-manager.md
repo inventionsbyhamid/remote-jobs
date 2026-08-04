@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Engineering Manager at Phantom
+### 1. Director of Product Design at Phantom
+
+💰 **Salary**: $220,000-$250,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-product-design-pantom)
+
+---
+
+### 2. Senior Engineering Manager at Phantom
 
 💰 **Salary**: $200,000-$240,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Head of Product at Phantom
+### 3. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +45,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +73,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 03, 2026 at 00:00 UTC_
+_Last updated: August 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
