@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Solana Program Engineer at Solana
+### 1. Senior Software Engineer, Frontend at Phantom
+
+💰 **Salary**: $180,000-$220,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-frontend-pantom)
+
+---
+
+### 2. Solana Program Engineer at Solana
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Senior Software Engineer II at Kit
+### 3. Senior Software Engineer II at Kit
 
 💰 **Salary**: $181,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Staff Software Engineer, Backend at Phantom
+### 4. Staff Software Engineer, Backend at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Senior Rust Engineer at Phantom
+### 5. Senior Rust Engineer at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -54,7 +66,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Staff Product Security Engineer (Security) at Phantom
+### 6. Staff Product Security Engineer (Security) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -66,7 +78,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Staff Frontend Engineer (Platform) at Phantom
+### 7. Staff Frontend Engineer (Platform) at Phantom
 
 💰 **Salary**: $200,000-$270,000 USD
 
@@ -78,7 +90,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Senior Software Engineer, Payments at Solana
+### 8. Senior Software Engineer, Payments at Solana
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +100,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. AI Growth Lead (AI Automation DRI) at Coinbase
+### 9. AI Growth Lead (AI Automation DRI) at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -100,7 +112,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. Android Developer at Applaudo
+### 10. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +122,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 10. Senior Full Stack JavaScript Engineer at Passion.io
+### 11. Senior Full Stack JavaScript Engineer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +132,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Frontend Engineer, Growth & Engagement Team at Phantom
+### 12. Frontend Engineer, Growth & Engagement Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +142,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 12. Dream Job at Appwrite
+### 13. Dream Job at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +152,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Contract Senior Web Engineer at Fueled
+### 14. Contract Senior Web Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +162,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. Staff Full Stack Engineer (Wallet Platform) at Phantom
+### 15. Staff Full Stack Engineer (Wallet Platform) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -162,7 +174,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 15. Senior Full Stack JavaScript Engineer at Passion.io
+### 16. Senior Full Stack JavaScript Engineer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +184,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Backend Engineer, Growth & Engagement Team at Phantom
+### 17. Backend Engineer, Growth & Engagement Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +194,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 17. Senior Fullstack Engineer at Atticus
+### 18. Senior Fullstack Engineer at Atticus
 
 💰 **Salary**: $170,000-$200,000 USD
 
@@ -194,7 +206,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 18. Senior Software Engineer, Full-Stack at Phantom
+### 19. Senior Software Engineer, Full-Stack at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -206,7 +218,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 19. Staff Engineer, Endpoint Agent at Halcyon
+### 20. Staff Engineer, Endpoint Agent at Halcyon
 
 💰 **Salary**: $220,000-$275,000 USD
 
@@ -218,7 +230,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 20. Palantir Foundry Engineer - Remote Work at BairesDev
+### 21. Palantir Foundry Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -228,7 +240,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 21. Backend Engineer, Data Platform & APIs at Halcyon
+### 22. Backend Engineer, Data Platform & APIs at Halcyon
 
 💰 **Salary**: $120,000-$170,000 USD
 
@@ -243,7 +255,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 21 positions available
+**Total Jobs**: 22 positions available
 
 ---
 
@@ -271,6 +283,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 03, 2026 at 00:00 UTC_
+_Last updated: August 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
