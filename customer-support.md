@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Client Experience Associate at Atticus
+### 1. Customer Support Specialist - Contractor at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-support-specialist-contractor-pantom)
+
+---
+
+### 2. Client Experience Associate at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Crypto Operations Associate at Alpaca
+### 3. Crypto Operations Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Client Associate at Atticus
+### 4. Client Associate at Atticus
 
 💰 **Salary**: $70,000-$85,000 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
+### 5. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +63,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -81,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 04, 2026 at 00:00 UTC_
+_Last updated: August 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
