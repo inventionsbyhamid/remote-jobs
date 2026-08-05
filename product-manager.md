@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Group Product Manager at Atticus
+### 1. Growth Lead (Paid Social) at Atticus
+
+💰 **Salary**: $130,000-$155,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-lead-remote-atticus)
+
+---
+
+### 2. Group Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Growth Lead (Head of SEM) at Atticus
+### 3. Growth Lead (Head of SEM) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Senior Product Manager at Atticus
+### 4. Senior Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Head of Product at Phantom
+### 5. Head of Product at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +65,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -81,6 +93,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 04, 2026 at 00:00 UTC_
+_Last updated: August 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
