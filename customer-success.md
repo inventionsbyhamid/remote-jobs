@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Client Experience Associate at Atticus
+### 1. Customer Support Specialist - Contractor at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-support-specialist-contractor-pantom)
+
+---
+
+### 2. Client Experience Associate at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Customer Success Manager at Passion.io
+### 3. Customer Success Manager at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Head of Account Management at Atticus
+### 4. Head of Account Management at Atticus
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Recovery Consulting Specialist at Halcyon
+### 5. Recovery Consulting Specialist at Halcyon
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -55,7 +65,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -83,6 +93,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 04, 2026 at 00:00 UTC_
+_Last updated: August 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
