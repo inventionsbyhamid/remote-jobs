@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Content Marketing Manager - Social Media at Kit
+### 1. Community Manager at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/community-manager-passion-io)
+
+---
+
+### 2. Content Marketing Manager - Social Media at Kit
 
 💰 **Salary**: $125,000 USD
 
@@ -23,7 +33,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -51,6 +61,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 05, 2026 at 00:00 UTC_
+_Last updated: August 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
