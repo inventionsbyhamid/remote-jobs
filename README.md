@@ -34,7 +34,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Fullstack](fullstack.md)** - 10 remote jobs available
 - 🏠 **[HR](hr.md)** - 3 remote jobs available
 - 🏠 **[Legal](legal.md)** - 4 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 10 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 11 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 6 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 5 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 1 remote job available
@@ -51,7 +51,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Community Manager at Passion.io
+### 1. Growth Lead - AIOSEO at Awesome Motive
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-lead-aioseo-awesome-motive)
+
+---
+
+### 2. Community Manager at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +71,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Talent Operations Manager at BairesDev
+### 3. Talent Operations Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -71,7 +81,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Backend Engineer, Blockchain Data Team at Phantom
+### 4. Backend Engineer, Blockchain Data Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -81,7 +91,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Customer Support Specialist - Contractor at Phantom
+### 5. Customer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -91,7 +101,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 6. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -101,7 +111,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Growth Lead (Paid Social) at Atticus
+### 7. Growth Lead (Paid Social) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -113,7 +123,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Client Experience Associate at Atticus
+### 8. Client Experience Associate at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -123,7 +133,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Director of Product Design at Phantom
+### 9. Director of Product Design at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -135,7 +145,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Software Engineer, Frontend at Phantom
+### 10. Senior Software Engineer, Frontend at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -147,7 +157,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Counsel / Senior Counsel at Atticus
+### 11. Counsel / Senior Counsel at Atticus
 
 💰 **Salary**: $140,000-$175,000 USD
 
@@ -159,7 +169,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Crypto Operations Associate at Alpaca
+### 12. Crypto Operations Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -169,7 +179,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Client Associate at Atticus
+### 13. Client Associate at Atticus
 
 💰 **Salary**: $70,000-$85,000 USD
 
@@ -181,7 +191,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Group Product Manager at Atticus
+### 14. Group Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -191,7 +201,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Solana Program Engineer at Solana
+### 15. Solana Program Engineer at Solana
 
 🌍 **Location**: Worldwide
 
@@ -201,7 +211,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
+### 16. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -211,7 +221,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Customer Success Manager at Passion.io
+### 17. Customer Success Manager at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -221,7 +231,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Senior Software Engineer II at Kit
+### 18. Senior Software Engineer II at Kit
 
 💰 **Salary**: $181,000 USD
 
@@ -233,7 +243,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Staff Software Engineer, Backend at Phantom
+### 19. Staff Software Engineer, Backend at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -245,7 +255,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. Senior Rust Engineer at Phantom
+### 20. Senior Rust Engineer at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -254,16 +264,6 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-rust-engineer-pantom)
-
----
-
-### 20. Finance Manager at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/finance-manager-passion-io)
 
 ---
 
@@ -293,6 +293,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 06, 2026 at 00:00 UTC_
+_Last updated: August 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
