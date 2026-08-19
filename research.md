@@ -20,22 +20,10 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Senior Product Security Engineer at Halcyon
-
-💰 **Salary**: $175,000-$235,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-security-engineer-halcyon)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -63,6 +51,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 18, 2026 at 00:00 UTC_
+_Last updated: August 19, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
