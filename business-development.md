@@ -60,22 +60,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Enterprise Account Executive at Halcyon
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-executive-remote-halcyon)
 
 ---
 
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -103,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 20, 2026 at 00:00 UTC_
+_Last updated: August 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
