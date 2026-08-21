@@ -18,15 +18,14 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 3 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 2 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 1 remote job available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
 - 🏠 **[Backend](backend.md)** - 8 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 6 remote jobs available
-- 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
-- 🏠 **[Customer Success](customer-success.md)** - 6 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 5 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 5 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 5 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 2 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 1 remote job available
 - 🏠 **[DevOps](devops.md)** - 2 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 3 remote jobs available
 - 🏠 **[Finance](finance.md)** - 3 remote jobs available
@@ -34,14 +33,14 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Fullstack](fullstack.md)** - 10 remote jobs available
 - 🏠 **[HR](hr.md)** - 3 remote jobs available
 - 🏠 **[Legal](legal.md)** - 3 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 10 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 9 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 5 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 5 remote jobs available
 - 🏠 **[Research](research.md)** - 1 remote job available
-- 🏠 **[Sales](sales.md)** - 6 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 4 remote jobs available
+- 🏠 **[Sales](sales.md)** - 5 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 2 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 21 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 20 remote jobs available
 
 
 ---
@@ -292,6 +291,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 20, 2026 at 00:00 UTC_
+_Last updated: August 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
