@@ -20,22 +20,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Senior Systems Engineer at Automattic
-
-💰 **Salary**: $120,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-systems-engineer-automattic)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -63,6 +51,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 21, 2026 at 00:00 UTC_
+_Last updated: August 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
