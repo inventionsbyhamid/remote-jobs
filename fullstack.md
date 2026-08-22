@@ -108,22 +108,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 10. Senior Software Engineer, Full-Stack at Phantom
-
-💰 **Salary**: $180,000-$220,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-full-stack-pantom)
 
 ---
 
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -151,6 +139,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 21, 2026 at 00:00 UTC_
+_Last updated: August 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
