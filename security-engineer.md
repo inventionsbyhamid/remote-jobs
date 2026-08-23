@@ -20,22 +20,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Staff KMS Security Engineer (Security) at Phantom
-
-💰 **Salary**: $250,000-$285,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-kms-security-engineer-pantom)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -63,6 +51,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 22, 2026 at 00:00 UTC_
+_Last updated: August 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
