@@ -172,42 +172,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Staff Full Stack Engineer (Wallet Platform) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-full-stack-engineer-pantom)
 
 ---
 
-### 17. Senior Full Stack JavaScript Engineer at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-javascript-engineer-passion-io)
-
----
-
-### 18. Backend Engineer, Growth & Engagement Team at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-growth-engagement-team-pantom)
-
----
-
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -235,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 23, 2026 at 00:00 UTC_
+_Last updated: August 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
