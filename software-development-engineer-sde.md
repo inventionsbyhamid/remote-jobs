@@ -162,20 +162,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 15. Contract Senior Web Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/contract-senior-web-engineer-fueled)
 
 ---
 
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -203,6 +193,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 24, 2026 at 00:00 UTC_
+_Last updated: August 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
