@@ -54,20 +54,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Dream Job at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dream-job-appwrite)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -95,6 +85,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 25, 2026 at 00:00 UTC_
+_Last updated: August 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
