@@ -28,18 +28,18 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[DevOps](devops.md)** - 1 remote job available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 1 remote job available
 - 🏠 **[Finance](finance.md)** - 3 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 5 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 5 remote jobs available
-- 🏠 **[HR](hr.md)** - 2 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 4 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
+- 🏠 **[HR](hr.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 7 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 4 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 3 remote jobs available
 - 🏠 **[Research](research.md)** - 1 remote job available
-- 🏠 **[Sales](sales.md)** - 3 remote jobs available
+- 🏠 **[Sales](sales.md)** - 2 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 1 remote job available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 14 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 12 remote jobs available
 
 
 ---
@@ -290,6 +290,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 25, 2026 at 00:00 UTC_
+_Last updated: August 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
