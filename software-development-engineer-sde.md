@@ -142,30 +142,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Frontend Engineer, Growth & Engagement Team at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/frontend-engineer-growth-engagement-team-pantom)
 
 ---
 
-### 14. Dream Job at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dream-job-appwrite)
-
----
-
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -193,6 +173,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 25, 2026 at 00:00 UTC_
+_Last updated: August 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
