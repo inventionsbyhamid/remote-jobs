@@ -22,7 +22,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Admin](admin-role.md)** - 1 remote job available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
 - 🏠 **[Backend](backend.md)** - 5 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 3 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 2 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 5 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 5 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 1 remote job available
@@ -32,11 +32,11 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
 - 🏠 **[HR](hr.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 7 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 4 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 5 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 3 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 3 remote jobs available
 - 🏠 **[Research](research.md)** - 1 remote job available
-- 🏠 **[Sales](sales.md)** - 2 remote jobs available
+- 🏠 **[Sales](sales.md)** - 1 remote job available
 - 🏠 **[Security Engineer](security-engineer.md)** - 1 remote job available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 12 remote jobs available
@@ -290,6 +290,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 26, 2026 at 00:00 UTC_
+_Last updated: August 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
