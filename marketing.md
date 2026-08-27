@@ -64,34 +64,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Senior Product Marketer at Phantom
-
-💰 **Salary**: $150,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-marketer-pantom)
 
 ---
 
-### 7. Lifecycle Marketing Lead (Head of Lifecycle Marketing) at Atticus
-
-💰 **Salary**: $130,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lifecycle-marketing-lead-atticus)
-
----
-
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -119,6 +95,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 26, 2026 at 00:00 UTC_
+_Last updated: August 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
