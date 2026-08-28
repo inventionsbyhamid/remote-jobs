@@ -52,22 +52,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Director of Brand Creative at Phantom
-
-💰 **Salary**: $220,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-brand-creative-pantom)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -95,6 +83,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 27, 2026 at 00:00 UTC_
+_Last updated: August 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
