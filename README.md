@@ -19,18 +19,18 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[AI/ML](ai-ml.md)** - 1 remote job available
-- 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 5 remote jobs available
+- 🏠 **[Backend](backend.md)** - 8 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 1 remote job available
 - 🏠 **[Customer Success](customer-success.md)** - 4 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 5 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 3 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 1 remote job available
 - 🏠 **[Finance](finance.md)** - 2 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 4 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 3 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
 - 🏠 **[HR](hr.md)** - 1 remote job available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 4 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 3 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 2 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 3 remote jobs available
 - 🏠 **[Research](research.md)** - 1 remote job available
@@ -46,7 +46,47 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Growth Lead - AIOSEO at Awesome Motive
+### 1. Platform Engineer - Database at Appwrite
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-database-appwrite)
+
+---
+
+### 2. Platform Engineer - Integrations at Appwrite
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-integrations-appwrite)
+
+---
+
+### 3. Platform Engineer at Appwrite
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-appwrite)
+
+---
+
+### 4. Platform Engineer - functions at Appwrite
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-functions-appwrite)
+
+---
+
+### 5. Growth Lead - AIOSEO at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -56,7 +96,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Community Manager at Passion.io
+### 6. Community Manager at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -66,7 +106,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Talent Operations Manager at BairesDev
+### 7. Talent Operations Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -76,7 +116,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Backend Engineer, Blockchain Data Team at Phantom
+### 8. Backend Engineer, Blockchain Data Team at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +126,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Customer Support Specialist - Contractor at Phantom
+### 9. Customer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +136,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 10. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +146,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Growth Lead (Paid Social) at Atticus
+### 11. Growth Lead (Paid Social) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -118,7 +158,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Client Experience Associate at Atticus
+### 12. Client Experience Associate at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +168,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Director of Product Design at Phantom
+### 13. Director of Product Design at Phantom
 
 💰 **Salary**: $220,000-$250,000 USD
 
@@ -140,7 +180,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Software Engineer, Frontend at Phantom
+### 14. Senior Software Engineer, Frontend at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -152,7 +192,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Counsel / Senior Counsel at Atticus
+### 15. Counsel / Senior Counsel at Atticus
 
 💰 **Salary**: $140,000-$175,000 USD
 
@@ -164,7 +204,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Crypto Operations Associate at Alpaca
+### 16. Crypto Operations Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +214,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Client Associate at Atticus
+### 17. Client Associate at Atticus
 
 💰 **Salary**: $70,000-$85,000 USD
 
@@ -186,7 +226,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Group Product Manager at Atticus
+### 18. Group Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +236,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Solana Program Engineer at Solana
+### 19. Solana Program Engineer at Solana
 
 🌍 **Location**: Worldwide
 
@@ -206,59 +246,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
+### 20. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Customer Support
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-customer-support-agent-pantom)
-
----
-
-### 17. Customer Success Manager at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-manager-passion-io)
-
----
-
-### 18. Senior Software Engineer II at Kit
-
-💰 **Salary**: $181,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-ii-kit)
-
----
-
-### 19. Staff Software Engineer, Backend at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-backend-pantom)
-
----
-
-### 20. Senior Rust Engineer at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-rust-engineer-pantom)
 
 ---
 
@@ -288,6 +282,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 28, 2026 at 00:00 UTC_
+_Last updated: August 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
