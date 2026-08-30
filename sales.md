@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
+### 1. Sales Openers Manager at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-openers-manager-pantom)
+
+---
+
+### 2. Designing and launching a global, commission-only independent agent sales organization for Remote Health at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +31,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 29, 2026 at 00:00 UTC_
+_Last updated: August 30, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
