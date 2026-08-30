@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Growth Lead - AIOSEO at Awesome Motive
+### 1. Sales Openers Manager at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-openers-manager-pantom)
+
+---
+
+### 2. Growth Lead - AIOSEO at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Growth Lead (Paid Social) at Atticus
+### 3. Growth Lead (Paid Social) at Atticus
 
 💰 **Salary**: $130,000-$155,000 USD
 
@@ -27,18 +37,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 📍 **Category**: Marketing
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-lead-remote-atticus)
-
----
-
-### 3. Growth Lead (Head of SEM) at Atticus
-
-💰 **Salary**: $130,000-$155,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-lead-atticus)
 
 ---
 
@@ -73,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 29, 2026 at 00:00 UTC_
+_Last updated: August 30, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
