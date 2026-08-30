@@ -8,15 +8,13 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. AI Growth Lead (AI Automation DRI) at Coinbase
-
-💰 **Salary**: $217,900 CAD
+### 1. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Research
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-growth-lead-coinbase)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-user-researcher-atticus)
 
 ---
 
@@ -51,6 +49,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 29, 2026 at 00:00 UTC_
+_Last updated: August 30, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
