@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Software Engineer, Frontend at Phantom
+### 1. Senior Product Engineer (Frontend) - Growth at Buffer
+
+💰 **Salary**: $156,500-$202,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-engineer-growth-buffer)
+
+---
+
+### 2. Senior Software Engineer, Frontend at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -17,18 +29,6 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-frontend-pantom)
-
----
-
-### 2. Senior Software Engineer II at Kit
-
-💰 **Salary**: $181,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-ii-kit)
 
 ---
 
@@ -63,6 +63,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 31, 2026 at 00:00 UTC_
+_Last updated: September 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
