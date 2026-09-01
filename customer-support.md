@@ -50,20 +50,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Senior Customer Support Agent (Cards & Banking, Live Chat) at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-customer-support-agent-pantom)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -91,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: August 31, 2026 at 00:00 UTC_
+_Last updated: September 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
