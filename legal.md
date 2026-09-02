@@ -20,22 +20,10 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Client Associate at Atticus
-
-💰 **Salary**: $70,000-$85,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-associate-atticus)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -63,6 +51,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 01, 2026 at 00:00 UTC_
+_Last updated: September 02, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
