@@ -28,32 +28,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Crypto Operations Associate at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/crypto-operations-associate-alpaca)
 
 ---
 
-### 4. Client Associate at Atticus
-
-💰 **Salary**: $70,000-$85,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-associate-atticus)
-
----
-
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -81,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 01, 2026 at 00:00 UTC_
+_Last updated: September 02, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
