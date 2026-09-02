@@ -72,20 +72,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Solana Program Engineer at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solana-program-engineer-solana)
 
 ---
 
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -113,6 +103,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 01, 2026 at 00:01 UTC_
+_Last updated: September 02, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
