@@ -28,20 +28,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Client Experience Associate at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-experience-associate-atticus)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -69,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 02, 2026 at 00:00 UTC_
+_Last updated: September 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
