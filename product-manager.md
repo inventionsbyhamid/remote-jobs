@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Manager at Atticus
+### 1. Lead Product Manager - Brokerage at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-manager-brokerage-alpaca)
+
+---
+
+### 2. Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +31,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 04, 2026 at 00:00 UTC_
+_Last updated: September 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
