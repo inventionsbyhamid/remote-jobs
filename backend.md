@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior .NET Engineer - Remote Work at BairesDev
+### 1. Senior Software Engineer – Advisory Suite at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-advisory-suite-alpaca)
+
+---
+
+### 2. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Staff Backend Engineer (Social) at Phantom
+### 3. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Platform Engineer - Database at Appwrite
+### 4. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Platform Engineer - Integrations at Appwrite
+### 5. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -50,23 +60,13 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Platform Engineer at Appwrite
+### 6. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-appwrite)
-
----
-
-### 6. Backend Engineer, Blockchain Data Team at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-blockchain-data-team-pantom)
 
 ---
 
@@ -101,6 +101,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 04, 2026 at 00:00 UTC_
+_Last updated: September 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
