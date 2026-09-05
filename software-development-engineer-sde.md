@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior .NET Engineer - Remote Work at BairesDev
+### 1. Senior Software Engineer – Advisory Suite at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-advisory-suite-alpaca)
+
+---
+
+### 2. Product Security Engineer at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-security-engineer-alpaca)
+
+---
+
+### 3. Senior Site Reliability Engineer, Environment Automation at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-environment-automation-gitlab)
+
+---
+
+### 4. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Staff Backend Engineer (Social) at Phantom
+### 5. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -30,7 +60,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Platform Engineer at Appwrite
+### 6. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +70,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Platform Engineer - functions at Appwrite
+### 7. Platform Engineer - functions at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -50,20 +80,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Backend Engineer, Blockchain Data Team at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-blockchain-data-team-pantom)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -91,6 +111,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 04, 2026 at 00:00 UTC_
+_Last updated: September 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
