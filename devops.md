@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Platform Engineer - Database at Appwrite
+### 1. Senior Site Reliability Engineer, Environment Automation at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-environment-automation-gitlab)
+
+---
+
+### 2. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Platform Engineer - Integrations at Appwrite
+### 3. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Platform Engineer at Appwrite
+### 4. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -41,7 +51,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -69,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 04, 2026 at 00:00 UTC_
+_Last updated: September 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
