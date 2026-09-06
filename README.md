@@ -25,14 +25,14 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[DevOps](devops.md)** - 4 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
 - 🏠 **[Frontend](frontend.md)** - 1 remote job available
-- 🏠 **[Fullstack](fullstack.md)** - 2 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 2 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 3 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 1 remote job available
 - 🏠 **[Product Designer](product-designer.md)** - 2 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 2 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 4 remote jobs available
 - 🏠 **[Research](research.md)** - 1 remote job available
 - 🏠 **[Sales](sales.md)** - 2 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 7 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 8 remote jobs available
 
 
 ---
@@ -41,7 +41,43 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Software Engineer – Advisory Suite at Alpaca
+### 1. Product Manager at Awesome Motive
+
+💰 **Salary**: $70,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-awesome-motive)
+
+---
+
+### 2. Experienced Software Engineer at Automattic
+
+💰 **Salary**: $70,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/experienced-software-engineer-automattic)
+
+---
+
+### 3. Product Manager - BackWup at WP Media
+
+💰 **Salary**: $120,000-$190,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-backwup-wp-media)
+
+---
+
+### 4. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -51,7 +87,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Lead Product Manager - Brokerage at Alpaca
+### 5. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +97,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Product Security Engineer at Alpaca
+### 6. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -71,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 7. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -81,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Data Scientist at Automattic
+### 8. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -93,7 +129,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Business Development Representative at Automattic
+### 9. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -105,7 +141,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Product Engineer (Frontend) - Growth at Buffer
+### 10. Senior Product Engineer (Frontend) - Growth at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -117,7 +153,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Business Operations Lead at Atticus
+### 11. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -129,7 +165,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Fullstack Developer (Next.js) at Applaudo
+### 12. Fullstack Developer (Next.js) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +175,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Product Manager at Atticus
+### 13. Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -149,7 +185,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Product Designer at Atticus
+### 14. Senior Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -159,7 +195,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Senior .NET Engineer - Remote Work at BairesDev
+### 15. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -169,7 +205,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Lead User Researcher at Atticus
+### 16. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -179,7 +215,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Sales Openers Manager at Phantom
+### 17. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -189,7 +225,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Staff Backend Engineer (Social) at Phantom
+### 18. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -201,7 +237,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Platform Engineer - Database at Appwrite
+### 19. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -211,43 +247,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Platform Engineer - Integrations at Appwrite
+### 20. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-integrations-appwrite)
-
----
-
-### 18. Platform Engineer at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-appwrite)
-
----
-
-### 19. Platform Engineer - functions at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-functions-appwrite)
-
----
-
-### 20. Growth Lead - AIOSEO at Awesome Motive
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-lead-aioseo-awesome-motive)
 
 ---
 
@@ -277,6 +283,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 05, 2026 at 00:00 UTC_
+_Last updated: September 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
