@@ -18,10 +18,10 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 1 remote job available
+- 🏠 **[AI/ML](ai-ml.md)** - 2 remote jobs available
 - 🏠 **[Backend](backend.md)** - 6 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 2 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 1 remote job available
+- 🏠 **[Data Analyst](data-analyst.md)** - 2 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 4 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
 - 🏠 **[Frontend](frontend.md)** - 1 remote job available
@@ -41,7 +41,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Product Manager at Awesome Motive
+### 1. Scheduling Optimization Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/scheduling-optimization-engineer-applaudo)
+
+---
+
+### 2. Product Manager at Awesome Motive
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -53,7 +63,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Experienced Software Engineer at Automattic
+### 3. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -65,7 +75,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Product Manager - BackWup at WP Media
+### 4. Product Manager - BackWup at WP Media
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -77,7 +87,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Software Engineer – Advisory Suite at Alpaca
+### 5. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +97,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Lead Product Manager - Brokerage at Alpaca
+### 6. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -97,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Product Security Engineer at Alpaca
+### 7. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -107,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 8. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -117,7 +127,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior Data Scientist at Automattic
+### 9. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -129,7 +139,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Business Development Representative at Automattic
+### 10. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -141,7 +151,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Product Engineer (Frontend) - Growth at Buffer
+### 11. Senior Product Engineer (Frontend) - Growth at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -153,7 +163,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Business Operations Lead at Atticus
+### 12. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -165,7 +175,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Fullstack Developer (Next.js) at Applaudo
+### 13. Fullstack Developer (Next.js) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -175,7 +185,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Product Manager at Atticus
+### 14. Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -185,7 +195,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Senior Product Designer at Atticus
+### 15. Senior Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -195,7 +205,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior .NET Engineer - Remote Work at BairesDev
+### 16. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -205,7 +215,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Lead User Researcher at Atticus
+### 17. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -215,7 +225,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Sales Openers Manager at Phantom
+### 18. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -225,7 +235,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Staff Backend Engineer (Social) at Phantom
+### 19. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -237,23 +247,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. Platform Engineer - Database at Appwrite
+### 20. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-database-appwrite)
-
----
-
-### 20. Platform Engineer - Integrations at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-integrations-appwrite)
 
 ---
 
@@ -283,6 +283,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 06, 2026 at 00:00 UTC_
+_Last updated: September 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
