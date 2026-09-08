@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Experienced Software Engineer at Automattic
+### 1. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+
+💰 **Salary**: $185,500 CAD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-infrastructure-coinbase)
+
+---
+
+### 2. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Senior Software Engineer – Advisory Suite at Alpaca
+### 3. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Product Security Engineer at Alpaca
+### 4. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 5. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Senior .NET Engineer - Remote Work at BairesDev
+### 6. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Staff Backend Engineer (Social) at Phantom
+### 7. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Platform Engineer at Appwrite
+### 8. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Platform Engineer - functions at Appwrite
+### 9. Platform Engineer - functions at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -95,7 +107,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -123,6 +135,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 07, 2026 at 00:00 UTC_
+_Last updated: September 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
